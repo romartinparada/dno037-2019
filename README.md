@@ -46,8 +46,12 @@ Clase 12 → Miércoles 29 de mayo → Funciones de PHP 2/2
 
 **Clase 14 → Miércoles 12 de junio → Trabajo final 2/3**
 
-**Clase 15 → Miércoles 19 de junio → Trabajo final 3/3** (viernes 21 de junio es la finalización de clases del primer período académico)
+**Clase 15 → Miércoles 19 de junio → Trabajo final 3/3** 
+
+(viernes 21 de junio es la finalización de clases del primer período académico)
 
 Clase 16 → Miércoles 26 de junio → Entrega de notas
 
-Clase 17 → Miércoles 3 de julio → Sin clases (vacaciones de invierno entre sábado de 6 al domingo 21 de julio)
+Clase 17 → Miércoles 3 de julio → Sin clases 
+
+(vacaciones de invierno entre sábado de 6 al domingo 21 de julio)
