@@ -1,6 +1,18 @@
 # Diseño y Nuevos Medios → Clase 10 
 
-### Miércoles 15 de mayo → PHP → el servidor, las variables y los ciclos
+### Miércoles 15 de mayo → PHP → Servidor, variables y ciclos
+
+#### PHP
+
+Personal Home Page o HTML Pre Process.
+
+#### Variables
+
+$
+
+#### Ciclos
+
+{}
 
 - - - - - - - 
 
