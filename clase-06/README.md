@@ -38,24 +38,15 @@ Finalmente, se escribe el valor de `saludo` en el [Document Object Model o DOM](
 
 En programación, una variable está formada por un espacio en el sistema de almacenaje (memoria principal del computador) y un identificador asociado a dicho espacio. Este espacio contendrá una cantidad conocida o desconocida de datos, que pueden ir variando en la medida que el programa se ejecuta (y esta es la razón del nombre). 
 
-En lenguajes de programación de propósito general, tales como [C++](https://es.wikipedia.org/wiki/C%2B%2B) o [Java](https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n)), o en derivados como [Processing](https://processing.org/), las variables se crean escribiendo el **tipo de dato, espacio, nombre de la variable, asignación, valor y fin de la instrucción**, como en `int a = 29;`
+En lenguajes de programación de propósito general, tales como [C++](https://es.wikipedia.org/wiki/C%2B%2B) o [Java](https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n)), o en derivados como [Processing](https://processing.org/), las variables se crean escribiendo el **tipo de dato, espacio, nombre de la variable, asignación, valor y fin de la instrucción**, como en `int a = 3;`, `float b = 3.14`, `String c = "Pi"`.
 
-Para entender esto por partes, vamos primero con algunos **tipos de dato**: 
-
-tipo | es | ocupa 
---- | --- | --- 
-`boolean` | [*true or false*](https://processing.org/reference/boolean.html) | 1 byte
-`int` | [entero](https://processing.org/reference/int.html) | 4 bytes 
-`float` | [decimal simple](https://processing.org/reference/float.html) | 4 bytes
-`String` | [cadena de carácteres](https://processing.org/reference/String.html) | variable
+**Pero en la creación de variables de JS simplifica el primer paso**, el de la declaración del tipo de variable: Para todo tipo se utiliza `var`, lo que deja el asunto en **var, espacio, nombre de la variable, asignación, valor y fin de la instrucción**. Pero igualmente corresponde poner atención al tipo de dato asignado, porque:
 
 Respecto del **nombre de la variable** habría que indicar tres cosas: (1) no corresponde iniciarlas con números,   (2) no se puede usar espacios, tildes ni acentos, y (3) corresponde evitar el uso de [palabras reservadas](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Palabras_Reservadas) por el lenguaje de programación en uso.
 
 Para la **asignación** de un valor se utiliza un signo igual **=**, lo que no debes confundir con un doble signo igual **==**, que es un operador utilizado para comprobar la igualdad, pero jamás para asignar un valor.
 
 Y para el finalizar, se agrega un punto y coma.
-
-**La creación de variables de JS simplifica el primer paso**, el de la declaración del tipo de variable: Para todo tipo se utiliza `var`, lo que deja el asunto en **var, espacio, nombre de la variable, asignación, valor y fin de la instrucción**. Pero igualmente corresponde poner atención al tipo de dato asignado, porque:
 
 Podemos tener una variable a la que se le asigna un número, entero o decimal `var a = 1;`
 
@@ -65,27 +56,13 @@ Podemos tener una variable a la que se le asigna un arreglo o *array*:
 
 `var a = ["uno", "dos", "tres","cuatro",5];`
 
-Luego, dentro del arreglo, tenemos distintas posiciones partiendo del cero:
+Luego, dentro del arreglo, tenemos distintas posiciones partiendo del cero, con lo que podemos obtener "uno", cuando pedimos `a[0]`
 
-```
-a[0] = "uno"
-a[1] = "dos"
-a[2] = "tres"
-a[3] = "cuatro"
-a[4] = 5
-```
 También podemos tener una variable a la que se le asigna un "object" como contenido:
 
 `var a = {uno:"gato", dos:"perro", tres:"tortuga", cuatro:"iguana"}`
 
-Y podemos pedir los contenidos del objeto *por su nombre*:
-
-```
-a.uno = "gato"
-a.dos = "perro"
-a.tres = "tortuga"
-a.cuatro = "iguana"
-```
+Y podemos pedir los contenidos del objeto *por su nombre*, así, "gato" resulta de `a.uno`
 
 Y podemos comenzar a mezclar:
 
@@ -126,6 +103,8 @@ En el caso recién presentado, la variable `a` contendrá un sumario de los últ
 
 #### Referencias
 
+JavaScript
+
 - [Fundamentos de JavaScript](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 
 - [Introducción a Javascript: Tipos de variables](https://librosweb.es/libro/javascript/capitulo-3/tipos-de-variables.html)
@@ -138,11 +117,13 @@ En el caso recién presentado, la variable `a` contendrá un sumario de los últ
 
 - [JS CheatSheet](https://htmlcheatsheet.com/js/)
 
-- [JSONLint - The JSON Validator](https://jsonlint.com/)
+- [Programación en JavaScript/Variables](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_JavaScript/Variables)
 
 - [Statements and declarations - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements#Declarations)
 
-- [Programación en JavaScript/Variables](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_JavaScript/Variables)
+JSON
+
+- [JSONLint - The JSON Validator](https://jsonlint.com/)
 
 - [Trabajando con JSON](https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/JSON)
 
