@@ -2,19 +2,21 @@
 
 ### Miércoles 15 de mayo → PHP → Servidor, variables y ciclos
 
-#### 1. PHP
-
 Personal Home Page o HTML Pre Process.
 
-#### 2. Servidor
+#### 1. Servidor
 
-Servidor - Cliente
+Servidor es software 
 
-#### 3. Variables
+Relación cliente-servidor
+
+MAMP
+
+#### 2. Variables
 
 $
 
-#### 4. Ciclos
+#### 3. Ciclos
 
 {}
 
