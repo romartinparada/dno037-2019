@@ -23,7 +23,7 @@ h1{
 }
 ```
 
-Si en el HTML queremos afectar a `<body>todo lo visible dentro de la ventana<body>`, en CSS escribimos:
+Si en el HTML queremos afectar a `<body>todo lo visible dentro de la ventana</body>`, en CSS escribimos:
 
 ```
 body{
