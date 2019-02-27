@@ -25,3 +25,7 @@ Espacios de memoria que contienen datos.
 - [JavaScript para Gatos](https://jsparagatos.com/)
 
 - [JavaScript Tutorial](https://www.w3schools.com/js/)
+
+- - - - - - - 
+
+[SIGUIENTE CLASE](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-07)
