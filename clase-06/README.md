@@ -1,6 +1,6 @@
 # Diseño y Nuevos Medios → Clase 6  
 
-### Miércoles 10 de abril → JS, DOM y variables
+### Miércoles 10 de abril → JS, DOM & variables
 
 #### 1. JS
 
