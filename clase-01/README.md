@@ -1,6 +1,6 @@
-# Diseño y Nuevos Medios
+# Diseño y Nuevos Medios → Clase 1
 
-### Clase 1 → Miércoles 6 de marzo → GitHub, Editores de código y *coding* (descripción v/s programación)
+### Miércoles 6 de marzo → GitHub, Editores de código y *coding* (descripción v/s programación)
 
 #### Github
 
