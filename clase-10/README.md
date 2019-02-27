@@ -16,7 +16,7 @@ MAMP
 
 Recordemos que, en programación, una variable está formada por un espacio en el sistema de almacenaje (memoria principal del computador) y un identificador asociado a dicho espacio. Este espacio contendrá una cantidad conocida o desconocida de datos, que pueden ir variando en la medida que el programa se ejecuta (y esta es la razón del nombre).
 
-Así como en JavaScript, en PHP tampoco es necesario indicar el tipo de variable con un prefijo especial. A todo tipo de variable le antecede de un símbolo monetario `$`, para luego poner la asignación, valor y fin de la instrucción.  
+Así como en [JavaScript](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-06#2-variables), en PHP tampoco es necesario indicar el tipo de variable con un prefijo especial. A todo tipo de variable le antecede de un símbolo monetario `$`, para luego poner la asignación, valor y fin de la instrucción.  
 
 Una variable a la que se le asigna un único número como contenido:
 
