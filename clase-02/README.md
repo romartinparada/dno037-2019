@@ -90,7 +90,7 @@ body{
 <link rel="stylesheet" href="estilo.css" type="text/css">
 ```
  
-Hay una posibilidad más de conectar un conjunto de reglas con un elemnto HTML, que es la menos eficiente de todas. La posibilidad en la que podemos meter lenguaje CSS como variable de un atributo **style** en elementos HTML:
+Habría una tercera posibilidad más de conectar un conjunto de reglas con un elemnto HTML, pero es poco eficiente y poco pulcra. Esta posibilidad es la de meter lenguaje CSS como variable de un atributo **style** en un elemento HTML:
 
 ```
 <p style="color:red;">esto es un párrafo en rojo</p>
