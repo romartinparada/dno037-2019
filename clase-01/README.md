@@ -20,15 +20,15 @@ Utilizaremos programas diseñados específicamente para editar el código fuente
 El listado está organizado según preferencia (prefiera el primero, si no puede conseguir, vaya por el segundo; en caso que el primero y segundo fallen, vaya por el tercero).
 
 
-#### Coding
+#### Coding (descripción v/s programación)
 
-Cuando trabajamos con código fuente podemos describir o programar. Cuando trabajamos con HTML o CSS no estamos programando. Cuando trabajamos con JavaScript, PHP, Phyton, Ruby, etc., sí estamos programando. 
+Cuando trabajamos con código fuente podemos describir o programar. HTML y CSS no son lenguajes de programación. JavaScript, PHP, Phyton y Ruby sí lo son. 
 
 ![](https://i.redd.it/b4btzloh6dh11.jpg)
 
 
 - - - - - - -
 
-### Referencias 
+#### Referencias 
 
 - [¿Cómo se utiliza Github pages?](https://developer.mozilla.org/es/docs/Learn/Using_Github_pages)
