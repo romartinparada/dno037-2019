@@ -2,7 +2,7 @@
 
 ### Miércoles 17 de abril → JS → jQuery 1/2
 
-jQuery es una [biblioteca](https://es.wikipedia.org/wiki/Biblioteca_(informática)) de JavaScript que simplifica la manipulación del DOM, el manejo de eventos, el desarrollo de animaciones y el uso de AJAX (Asynchronous JavaScript And XML).
+jQuery es una [biblioteca](https://es.wikipedia.org/wiki/Biblioteca_(informática)) de JS que simplifica la manipulación del DOM, el manejo de eventos, el desarrollo de animaciones y el uso de AJAX (Asynchronous JavaScript And XML).
 
 jQuery se puede incluir o vincular a una página web entre etiquetas `<script></script>`. Y funcionará si y solo si ya ha sido vinculada la biblioteca correspondiente: 
 
