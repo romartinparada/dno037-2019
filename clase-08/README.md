@@ -2,15 +2,24 @@
 
 ### Miércoles 17 de abril → JS → jQuery 2/2
 
-jQuery
+jQuery es una biblioteca de JS que simplifica la manipulación del DOM, el manejo de eventos, el desarrollo de animaciones y el uso de AJAX (Asynchronous JavaScript And XML).
 
+Con jQuery podemos simplificar la inclusión de JSON y la creación de elementos en el DOM según lo que se incluya por esa vía.
 
 
 - - - - - - 
 
 #### Referencias:
 
-[Conceptos básicos de jQuery](https://www.arkaitzgarro.com/jquery/capitulo-3.html#conceptos-basicos-de-jquery)
+- [Conceptos básicos de jQuery](https://www.arkaitzgarro.com/jquery/capitulo-3.html#conceptos-basicos-de-jquery)
+
+- [Curso gratis de jQuery](https://codigofacilito.com/cursos/jquery)
+
+- [How jQuery Works](https://learn.jquery.com/about-jquery/how-jquery-works/)
+
+- [Quakit - jQuery Tutorial](https://www.quackit.com/jquery/tutorial/what_is_jquery.cfm)
+
+- [w3schools - jQuery Tutorial](https://www.w3schools.com/jquery/default.asp)
 
 - - - - - - - 
 
