@@ -69,3 +69,8 @@ Atributos y variables también nos permiten establecer vínculos y recursos. As�
 [Element Index | HTML5 Doctor](http://html5doctor.com/element-index/)
 
 [HTML5 Cheat Sheet](https://websitesetup.org/HTML5-cheat-sheet.pdf)
+
+- - - - - - - 
+
+[SIGUIENTE CLASE](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-04)
+
