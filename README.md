@@ -17,9 +17,13 @@ Diseño y Nuevos Medios es un Optativo de Profundización en Diseño. Este optat
 Las calificaciones de la asignatura son 6, a saber: 
 
 - 1 nota por asistencia, puntualidad y publiación resultado (registro clase a clase)
+
 - 1 nota por evaluación parcial del 3 de abril 
+
 - 1 nota por evaluación parcial del 8 de mayo
+
 - 1 nota por avance en trabajo final
+
 - 2 notas por resultado de trabajo final
 
 Habiendo sacado el mejor provecho al optativo, los estudiantes serán capaces de desarrollar, de manera autónoma, un sitio web profesional o un prototipo avanzado de aplicación web. Por esta razón, el examen final se revisará en línea.
