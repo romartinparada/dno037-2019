@@ -2,7 +2,7 @@
 
 ### Miércoles 10 de abril → JS → DOM, variables y JSON
 
-JavaScript (JS en lo que siga) es un lenguaje de programación. Con este lenguaje se pueden escribir programas que serán ejecutados en un navegador web. Estos programas se pueden incluir en o vincular a una página web a modo de script, entre etiquetas `<script>…</script>`. 
+JavaScript (JS en lo que siga) es un lenguaje de programación. Con este lenguaje se pueden escribir programas que serán ejecutados en un navegador web. Estos programas pueden ser incluidos o vinculados a una página web a modo de script, entre etiquetas `<script>…</script>`. 
 
 En un programa de JS podemos encontrar dos elementos básicos: código y datos. La parte del código es la que permite redactar instrucciones. La parte de datos es la que permite almacenar información con la que podríamos condicionar las instrucciones. Así, por ejemplo, dentro de un documento HTML podemos escribir: 
 
