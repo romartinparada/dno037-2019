@@ -1,6 +1,8 @@
 # Diseño y Nuevos Medios → Clase 7  
 
-### Miércoles 17 de abril → JS → jQuery 1/2
+### Miércoles 17 de abril → jQuery y JSON
+
+#### jQuery
 
 jQuery es una [biblioteca](https://es.wikipedia.org/wiki/Biblioteca_(informática)) de JS que simplifica la manipulación del DOM, el manejo de eventos, el desarrollo de animaciones y el uso de AJAX (Asynchronous JavaScript And XML; una tecnología que permite a una página web actualizarse de forma dinámica sin que tenga que cargarse completamente).
 
@@ -49,6 +51,30 @@ $(document).ready(function(){
 });
 </script>
 ```
+
+#### JSON
+
+[JSON (JavaScript Object Notation)](https://www.json.org/json-es.html) es un formato de texto sencillo para el intercambio de datos. Uno puede tomar un JSON en línea y "parsearlo" para que sus datos se conviertan en los datos de una variable en un JS. Esto se podría hacer de la siguiente manera:
+
+```
+var request = new XMLHttpRequest();
+request.open('GET', ' https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_day.geojson', true);
+request.onload = function () {
+  var a = JSON.parse(this.response);
+  console.log(a);
+}
+request.send();	
+```
+
+En el caso recién presentado, la variable a contendrá un sumario de los últimos movimientos telúricos sobre 4.5 que han sido registrados en las últimas 24 horas la USGS. Pero se puede escribir menos si utilizamos jQuery en lugar de JS a secas: 
+
+```
+$.getJSON( 'https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_day.geojson', function( data ) {
+  console.log(data);
+}
+```
+
+La única diferencia con el caso anterior: Los datos no quedan en la variable `a`, sino en `data`.
 
 - - - - - - -
 
