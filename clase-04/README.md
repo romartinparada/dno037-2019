@@ -14,4 +14,4 @@ Bootstrap
 
 - - - - - - - 
 
-[SIGUIENTE CLASE](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-05)
+[SIGUIENTE CLASE →](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-05)
