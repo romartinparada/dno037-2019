@@ -70,7 +70,7 @@ request.onload = function () {
 request.send();	
 ```
 
-Pero se puede escribir menos si utilizamos jQuery en lugar de JS a secas: 
+Pero se puede escribir menos si utilizamos jQuery: 
 
 ```
 $.getJSON('https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_day.geojson', function(a) {
