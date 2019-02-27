@@ -2,7 +2,7 @@
 
 ### Miércoles 6 de marzo → GitHub, Editores de código y *coding* (descripción v/s programación)
 
-#### Github
+#### 1. Github
 
 Es una plataforma de desarrollo colaborativo que utiliza el sistema de control de versiones Git. 
 **GitHub es una plataforma de desarrollo colaborativo**, que permite crear repositorios para subir proyectos cuyas versiones controlamos mediante Git (un sistema cuyo propósito es llevar registro de los cambios en archivos compartidos, para coordinar el trabajo entre varias personas).
@@ -15,7 +15,7 @@ Si vas a crear tu cuenta ahora mismo, te recomiendo también crear tu primer rep
 
 - Si en tu repositorio de GitHub subes un sitio web, con su correspondiente documento `index.html`, bien puedes hacer que este sitio quede publicado en la Web, en una dirección a la que cualquier persona podría acceder. Esto lo puedes hacer si es que aprovechas el servicio de [Github Pages](https://help.github.com/articles/what-is-github-pages/). 
 
-#### Editores de código fuente
+#### 2. Editores de código fuente
 
 Utilizaremos programas diseñados específicamente para editar el código fuente de programas informáticos. Esta especificidad permite a estos Editores corregir o completar el código en la medida que se va escribiendo. La lista de editores de código fuentes disponibles amplia. En nuestro caso la limitaremos a las siguientes opciones:  
 
@@ -28,7 +28,7 @@ Utilizaremos programas diseñados específicamente para editar el código fuente
 El listado está organizado según preferencia (prefiera el primero, si no puede conseguir, vaya por el segundo; en caso que el primero y segundo fallen, vaya por el tercero).
 
 
-#### Coding (descripción v/s programación)
+#### 3. Coding (descripción v/s programación)
 
 Cuando trabajamos con código fuente podemos describir o programar. HTML y CSS no son lenguajes de programación. JavaScript, PHP, Phyton y Ruby sí lo son. 
 
