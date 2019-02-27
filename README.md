@@ -4,9 +4,9 @@
 
 Diseño y Nuevos Medios es un Optativo de Profundización en Diseño que:
 
-- conserva su nombre desde el año 2010 (pero no conserva el mismo programa);
-
 - forma parte del [Certificado Académico Interdisciplinario en Desarrollo de Productos y Servicios Digitales](http://formaciongeneral.uc.cl/certificados-academicos/interdisciplinarios/725-desarrollo-de-productos-y-servicios-digitales);
+
+- conserva su nombre desde el año 2010 (pero no conserva el mismo programa);
 
 - ofrece una introducción al desarrollo de Aplicaciones Web, por la vía del FrontEnd; y
 
