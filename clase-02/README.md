@@ -49,7 +49,7 @@ a:hover{
 }
 ```
 
-¡Y podemos seguir agregando posibilidades! 
+Y podemos seguir agregando posibilidades.
 
 Una regla CSS puede apuntar a cualquier elemento que tenga una clase (class) determinada. Así podemos afectar a un `<p class="estudiante">párrafo</p>`, una `<div class="estudiante">división</div>` o cualquier otro elemento:
 
