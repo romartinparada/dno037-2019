@@ -38,17 +38,15 @@ Finalmente, se escribe el valor de `saludo` en el [Document Object Model o DOM](
 
 En programación, una variable está formada por un espacio en el sistema de almacenaje (memoria principal del computador) y un identificador asociado a dicho espacio. Este espacio contendrá una cantidad conocida o desconocida de datos, que pueden ir variando en la medida que el programa se ejecuta (y esta es la razón del nombre). 
 
-En lenguajes de programación de propósito general, tales como [C++](https://es.wikipedia.org/wiki/C%2B%2B) o [Java](https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n)), o en derivados como [Processing](https://processing.org/), las variables se crean escribiendo el **tipo de dato, espacio, nombre de la variable, asignación, valor y fin de la instrucción**, como en `int a = 3;`, `float b = 3.14`, `String c = "Pi"`.
+En lenguajes de programación de propósito general, tales como [C++](https://es.wikipedia.org/wiki/C%2B%2B) o [Java](https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n)), o en derivados como [Processing](https://processing.org/), las variables se crean escribiendo el **tipo de dato, espacio, nombre de la variable, asignación, valor y fin de la instrucción con punto y coma**, como en `int a = 3;`, `float b = 3.14`, `String c = "Pi"`.
 
-**Pero en la creación de variables de JS simplifica el primer paso**, el de la declaración del tipo de variable: Para todo tipo se utiliza `var`, lo que deja el asunto en **var, espacio, nombre de la variable, asignación, valor y fin de la instrucción**. Pero igualmente corresponde poner atención al tipo de dato asignado, porque:
+**Pero en la creación de variables de JavaScript omite la declaración de la variable: Para todo evento [se puede utilizar `var`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements#Declarations), lo que implica escribir ***var*, espacio, nombre de la variable, asignación, valor y fin de la instrucción con punto y coma**.
 
-Respecto del **nombre de la variable** habría que indicar tres cosas: (1) no corresponde iniciarlas con números,   (2) no se puede usar espacios, tildes ni acentos, y (3) corresponde evitar el uso de [palabras reservadas](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Palabras_Reservadas) por el lenguaje de programación en uso.
+Respecto del **nombre de la variable** habría que indicar tres cosas: (1) no corresponde iniciarlas con números, (2) no se puede usar espacios, tildes ni acentos, y (3) corresponde evitar el uso de [palabras reservadas](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Palabras_Reservadas) por el lenguaje de programación en uso.
 
 Para la **asignación** de un valor se utiliza un signo igual **=**, lo que no debes confundir con un doble signo igual **==**, que es un operador utilizado para comprobar la igualdad, pero jamás para asignar un valor.
 
-Y para el finalizar, se agrega un punto y coma.
-
-Podemos tener una variable a la que se le asigna un número, entero o decimal `var a = 1;`
+Podemos tener una variable a la que se le asigna un valor numeral, entero o decimal `var a = 1;`
 
 Podemos tener una variable a la que se le asigna una cadena de caracteres o *string*, en este caso la cadena de caracteres debe estar contenida por 'comillas simples' o "comillas dobles": `var a = "uno";`
 
@@ -60,23 +58,14 @@ Luego, dentro del arreglo, tenemos distintas posiciones partiendo del cero, con 
 
 También podemos tener una variable a la que se le asigna un "object" como contenido:
 
-`var a = {uno:"gato", dos:"perro", tres:"tortuga", cuatro:"iguana"}`
+`var a = {uno:"gato", dos:"perro", tres:"tortuga", cuatro:"iguana"};`
 
 Y podemos pedir los contenidos del objeto *por su nombre*, así, "gato" resulta de `a.uno`
 
 Y podemos comenzar a mezclar:
 
 ```
-var a = [
- {
-  name: "Sergey Prokopyev",
-  craft: "ISS"
- },
- {
-  name: "Alexander Gerst",
-  craft: "ISS"
- }
-]
+var a = [ { name: "Sergey Prokopyev", craft: "ISS" }, { name: "Alexander Gerst", craft: "ISS" }];
 ```
 
 En este caso, si quisiera obtener el nombre "Sergey Prokopyek", tendría que ir por `a[0].name`, porque se trata de un arreglo (`[…]`), que contiene objetos (`[{…},{…},{…}]`).
@@ -107,8 +96,6 @@ JavaScript
 
 - [Fundamentos de JavaScript](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 
-- [Introducción a Javascript: Tipos de variables](https://librosweb.es/libro/javascript/capitulo-3/tipos-de-variables.html)
-
 - [JavaScript for Beginner](http://xahlee.info/js/js_basics_index.html)
 
 - [JavaScript para Gatos](https://jsparagatos.com/)
@@ -118,8 +105,6 @@ JavaScript
 - [JS CheatSheet](https://htmlcheatsheet.com/js/)
 
 - [Programación en JavaScript/Variables](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_JavaScript/Variables)
-
-- [Statements and declarations - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements#Declarations)
 
 JSON
 
