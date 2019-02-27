@@ -73,9 +73,9 @@ request.send();
 Pero se puede escribir menos si utilizamos jQuery en lugar de JS a secas: 
 
 ```
-$.getJSON( 'https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_day.geojson', function( data ) {
-  console.log(data);
-}
+$.getJSON('https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_day.geojson', function(a) {
+  console.log(a);
+});
 ```
 
 La única diferencia con el caso anterior: Los datos no quedan en la variable `a`, sino en `data`. 
