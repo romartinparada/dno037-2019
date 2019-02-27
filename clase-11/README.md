@@ -4,4 +4,4 @@
 
 - - - - - - - 
 
-[SIGUIENTE CLASE](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-12)
+[SIGUIENTE CLASE →](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-12)
