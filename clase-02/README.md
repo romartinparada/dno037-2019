@@ -2,7 +2,7 @@
 
 ### Miércoles 13 de marzo → CSS3
 
-<p>CSS es Hojas de Estilo en Cascada (Cascading Style Sheets), un lenguaje utilizado para describir la presentación de documentos HTML. Su bloque constructivo más básico es la regla. Cada regla se inicia con su(s) [selector(es)](https://developer.mozilla.org/es/docs/Web/CSS/Referencia_CSS#Selectores), para luego contener, entre paréntesis de llave, determinadas [propiedades](https://www.w3schools.com/cssref/default.asp):
+CSS es Cascading Style Sheets, Hojas de Estilo en Cascada. Es un lenguaje utilizado para describir la presentación de documentos HTML. Su bloque constructivo más básico es la regla. Cada regla se inicia con sus [selectores](https://developer.mozilla.org/es/docs/Web/CSS/Referencia_CSS#Selectores), para luego contener, entre paréntesis de llave, determinadas [propiedades](https://www.w3schools.com/cssref/default.asp):
 
 <pre><code>selector{propiedad:valor;}</code></pre>
 
