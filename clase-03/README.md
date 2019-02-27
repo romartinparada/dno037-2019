@@ -72,5 +72,5 @@ Atributos y variables también nos permiten establecer vínculos y recursos. As�
 
 - - - - - - - 
 
-[SIGUIENTE CLASE →](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-04)
+###### [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-04)
 
