@@ -7,16 +7,19 @@ CSS es Cascading Style Sheets (Hojas de Estilo en Cascada), un lenguaje utilizad
 Su bloque constructivo más básico es la regla. Cada regla se inicia con un(os) [selector(es)](https://developer.mozilla.org/es/docs/Web/CSS/Referencia_CSS#Selectores) y  luego contiene, entre paréntesis de llave `{…}`, una o varias declaraciones. Una declaración es separada de otra mediante punto y coma `;`. Cada declaración se compone de una [propiedad](https://www.w3.org/TR/css-2018/#properties) y su(s) correspondiente(s) valor(es):
 
 ```
-selector{propiedad:valor;}
+selector{
+  propiedad:valor;
+  propiedad:valor;
+}
 ```
 
 Con CSS podemos establecer que el elemento HTML `<h1>hola mundo</h1>` se presente con [Helvetica](https://www.w3schools.com/cssref/css_websafe_fonts.asp), [cuerpo de 2 **em**](https://www.w3schools.com/cssref/css_units.asp), y en [rojo](https://www.w3schools.com/colors/default.asp):
 
 ```
 h1{
-font-family: Helvetica, sans-serif; 
-font-size: 2em;
-color: rgb(255,0,0);
+  font-family: Helvetica, sans-serif; 
+  font-size: 2em;
+  color: #FF0000;
 }
 ```
 
@@ -25,10 +28,12 @@ Si en el HTML queremos afectar a `<body>todo lo visible dentro de la ventana<bod
 ```
 body{
   font-family:Helvetica, Arial, sans-serif;
+  font-size: 1rem;
+  color: rgba(55,55,55,0.75);  
 }
 ```
 
-Pero una regla CSS también puede apuntar a <a href="https://developer.mozilla.org/es/docs/Web/CSS/Pseudoelementos" target="_blank">una parte de un elemento HTML (pseudoelemento)</a>. Por ejemplo, si en el HTML queremos afectar a la primera línea de un `<p>párrafo<p>`, en CSS escribimos:
+Pero una regla CSS también puede apuntar a [una parte de un elemento HTML (pseudoelemento)](https://developer.mozilla.org/es/docs/Web/CSS/Pseudoelementos). Por ejemplo, si en el HTML queremos afectar a la primera línea de un `<p>párrafo<p>`, en CSS escribimos:
 
 ```
 p::first-line{
@@ -36,7 +41,7 @@ p::first-line{
 }
 ```
 
-Incluso podemos apuntar a <a href="https://developer.mozilla.org/es/docs/Web/CSS/Pseudo-classes" target="_blank">un estado especial del elemento (pseudoclase)</a>. Por ejemplo, si en el HTML queremos afectar a un `<a>vínculo<a>` mientras el mouse se posa encima, en CSS escribimos:
+Incluso podemos apuntar a [un estado especial del elemento (pseudoclase)](https://developer.mozilla.org/es/docs/Web/CSS/Pseudo-classes). Por ejemplo, si en el HTML queremos afectar a un `<a>vínculo<a>` mientras el mouse se posa encima, en CSS escribimos:
 
 ```
 a:hover{
@@ -46,7 +51,7 @@ a:hover{
 
 ¡Y podemos seguir agregando posibilidades! 
 
-Una regla CSS puede apuntar a cualquier elemento que tenga una clase (class) determinada. Así podemos afectar a un `<p class="alumna">párrafo</p>`, una `<div class="alumna">división</div>` o cualquier otro elemento:
+Una regla CSS puede apuntar a cualquier elemento que tenga una clase (class) determinada. Así podemos afectar a un `<p class="estudiante">párrafo</p>`, una `<div class="estudiante">división</div>` o cualquier otro elemento:
 
 ```
 .estudiante{
@@ -85,10 +90,10 @@ body{
 <link rel="stylesheet" href="estilo.css" type="text/css">
 ```
  
-* Podría reclamarse que estoy olvidando una posibilidad, que es la menos eficiente de todas. La posibilidad en la que puedo meter lenguaje CSS como variable de un atributo en elementos HTML. Para quien reclame, eso se hace como sigue, pero no lo recomiendo:
+* Podría reclamarse que estoy olvidando una posibilidad, que es la menos eficiente de todas. La posibilidad en la que puedo meter lenguaje CSS como variable de un atributo en elementos HTML:
 
 ```
-<p style="color:red;">esto es un párrafo</p>
+<p style="color:red;">esto es un párrafo en rojo</p>
 ``
 
 - - - - - 
