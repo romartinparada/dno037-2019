@@ -18,9 +18,9 @@ Habiendo sacado el mejor provecho al optativo, los estudiantes serán capaces de
 
 Se proyecta la siguiente organización de las clases durante el semestre:
 
-Clase 1 → Miércoles 6 de marzo → GitHub, Editores de código y *coding* (descripción v/s programación)
+[Clase 1 → Miércoles 6 de marzo](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-01) → GitHub, Editores de código y *coding* (descripción v/s programación)
 
-Clase 2 → Miércoles 13 de marzo → CSS3
+[Clase 2 → Miércoles 13 de marzo](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-02) → CSS3
 
 Clase 3 → Miércoles 20 de marzo → HTML5
 
@@ -30,7 +30,7 @@ Clase 4 → Miércoles 27 de marzo → Bootstrap (HTML5 + CSS3 + JS)
 
 **Clase 5 → Miércoles 3 de abril → Evaluación**
 
-Clase 6 → Miércoles 10 de abril → JS → el DOM, las variables y los ciclos
+Clase 6 → Miércoles 10 de abril → JS → el DOM y las variables
 
 Clase 7 → Miércoles 17 de abril → JS → jQuery 1/2
 
