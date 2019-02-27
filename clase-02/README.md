@@ -69,7 +69,7 @@ También podemos apuntar a cualquier elemento que tenga una identidad (id) deter
 
 **Ahora bien, para que cada regla CSS afecte al elemento HTML correspondiente, nos falta mencionar algo más: Cómo conectar a un conjunto de reglas CSS con un determinado conjunto de elementos HTML (sea parte de una o varias páginas HTML).**
 
-La respuesta es doble, porque hay dos* posibilidades: 
+La respuesta es doble, porque hay dos posibilidades: 
 
 1. Incluyéndolas en la cabeza del documento HTML:
 
@@ -90,11 +90,11 @@ body{
 <link rel="stylesheet" href="estilo.css" type="text/css">
 ```
  
-* Podría reclamarse que estoy olvidando una posibilidad, que es la menos eficiente de todas. La posibilidad en la que puedo meter lenguaje CSS como variable de un atributo en elementos HTML:
+Hay una posibilidad más de conectar un conjunto de reglas con un elemnto HTML, que es la menos eficiente de todas. La posibilidad en la que podemos meter lenguaje CSS como variable de un atributo **style** en elementos HTML:
 
 ```
 <p style="color:red;">esto es un párrafo en rojo</p>
-``
+```
 
 - - - - - 
 
