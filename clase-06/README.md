@@ -1,6 +1,6 @@
 # Diseño y Nuevos Medios → Clase 6  
 
-### Miércoles 10 de abril → JS → el DOM y las variables
+### Miércoles 10 de abril → JS → DOM, variables y JSON
 
 #### JavaScript (JS)
 
@@ -13,6 +13,10 @@ Document Object Model.
 #### Variables
 
 Espacios de memoria que contienen datos.
+
+#### JSON
+
+JavaScript Object Notation.
 
 - - - - - - -
 
