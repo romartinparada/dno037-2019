@@ -10,7 +10,7 @@ Diseño y Nuevos Medios es un Optativo de Profundización en Diseño que:
 
 - ofrece una introducción al desarrollo de Aplicaciones Web, por la vía del FrontEnd; y
 
-- exige la constante ejercitación y publicación de resultados en GitHub y GitHub Pages.
+- exige la constante ejercitación y publicación de resultados en GitHub.
 
 El promedio final del optativo resulta del promedio entre 6 notas:  
 
