@@ -2,19 +2,19 @@
 
 ### Miércoles 10 de abril → JS → DOM, variables y JSON
 
-#### JavaScript (JS)
+#### 1. JavaScript (JS)
 
 Lenguaje de programación.
 
-#### DOM
+#### 2. DOM
 
 Document Object Model.
 
-#### Variables
+#### 3. Variables
 
 Espacios de memoria que contienen datos.
 
-#### JSON
+#### 4. JSON
 
 JavaScript Object Notation.
 
