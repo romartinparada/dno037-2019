@@ -1,6 +1,6 @@
 # Diseño y Nuevos Medios → Clase 7  
 
-### Miércoles 17 de abril → jQuery y JSON
+### Miércoles 17 de abril → jQuery & JSON
 
 #### jQuery
 
@@ -54,7 +54,11 @@ $(document).ready(function(){
 
 #### JSON
 
-[JSON (JavaScript Object Notation)](https://www.json.org/json-es.html) es un formato de texto sencillo para el intercambio de datos. Uno puede tomar un JSON en línea y "parsearlo" para que sus datos se conviertan en los datos de una variable en un JS. Esto se podría hacer de la siguiente manera:
+[JSON (JavaScript Object Notation)](https://www.json.org/json-es.html) es un formato de texto sencillo para el intercambio de datos. Uno puede tomar un JSON en línea y "parsearlo" para que sus datos se conviertan en los datos de una variable en un JS. 
+
+Tomemos, por ejemplo, este JSON con un sumario de los últimos movimientos telúricos sobre 4.5 que han sido registrados en las últimas 24 horas la USGS: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_day.geojson
+
+Para almacenar sus datos en una variable de nombre `a` utilizando JS, tenemos que escribir:
 
 ```
 var request = new XMLHttpRequest();
@@ -66,7 +70,7 @@ request.onload = function () {
 request.send();	
 ```
 
-En el caso recién presentado, la variable a contendrá un sumario de los últimos movimientos telúricos sobre 4.5 que han sido registrados en las últimas 24 horas la USGS. Pero se puede escribir menos si utilizamos jQuery en lugar de JS a secas: 
+Pero se puede escribir menos si utilizamos jQuery en lugar de JS a secas: 
 
 ```
 $.getJSON( 'https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_day.geojson', function( data ) {
@@ -74,11 +78,13 @@ $.getJSON( 'https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_day.ge
 }
 ```
 
-La única diferencia con el caso anterior: Los datos no quedan en la variable `a`, sino en `data`.
+La única diferencia con el caso anterior: Los datos no quedan en la variable `a`, sino en `data`. 
 
 - - - - - - -
 
 #### Referencias:
+
+jQuery:
 
 - [Conceptos básicos de jQuery](https://www.arkaitzgarro.com/jquery/capitulo-3.html#conceptos-basicos-de-jquery)
 
@@ -91,6 +97,14 @@ La única diferencia con el caso anterior: Los datos no quedan en la variable `a
 - [Quakit - jQuery Tutorial](https://www.quackit.com/jquery/tutorial/what_is_jquery.cfm)
 
 - [w3schools - jQuery Tutorial](https://www.w3schools.com/jquery/default.asp)
+
+JSON:
+
+- https://github.com/dariusk/corpora
+
+- https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
+
+- https://jsonlint.com/
 
 - - - - - - - 
 
