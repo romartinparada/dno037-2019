@@ -2,7 +2,9 @@
 
 ### Miércoles 10 de abril → JS → DOM, variables y JSON
 
-JavaScript (JS en lo que siga) es un lenguaje de programación. Con este lenguaje se pueden escribir programas que serán ejecutados en el navegador que cargue la página web que lo contiene o lo incluye. En un programa de JS podemos encontrar con dos elementos básicos: código y datos. La parte del código es la que nos permite hacer cosas dentro de la página web. La parte de datos es la que define el estado de la página web en un momento determinado, y los datos de un programa se guardan dentro de variables. Por ejemplo, dentro de un documento HTML podemos escribir: 
+JavaScript (JS en lo que siga) es un lenguaje de programación. Con este lenguaje se pueden escribir programas que serán ejecutados en el navegador que cargue la página web que lo contiene o lo incluye a modo de script `<script>…</script>`. 
+
+En un programa de JS podemos encontrar dos elementos básicos: código y datos. La parte del código es la que permite hacer cosas dentro de la página web. La parte de datos es la que define el estado de la página web en un momento determinado, y los datos de un programa se guardan dentro de variables. Así, por ejemplo, dentro de un documento HTML podemos escribir: 
 
 ```
 <script>
@@ -20,7 +22,7 @@ JavaScript (JS en lo que siga) es un lenguaje de programación. Con este lenguaj
 </script>
 ```
 
-En el ejemplo se crea una variable `d`, a la que se le asigna almacenar el dato de la fecha en la que se carga la página web (considerando hasta los segundos). Luego, a una variable `h` se le asigna solo la hora en esa fecha. Después se crea una variable con el nombre `saludo`, y no se le asigna dato para almacenar de forma inmediata. Mediante [condiciones](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else) (`if (…){…}`, `else if (…){…}`, `else{…}`) se le asigna a la variable `saludo` almacenar la cadena de caracteres que corresponda a la hora en que se carga la página web. Finalmente, se escribe el valor de `saludo` en el [Document Object Model o DOM](https://www.w3schools.com/js/js_htmldom.asp) de la página web ya cargada.
+En el ejemplo se crea una variable `d`, a la que se le asigna almacenar la fecha en la que se carga la página web (considerando hasta los segundos). Luego, a una variable `h` se le asigna solo la hora en esa fecha. Después se crea una variable con el nombre `saludo`, y no se le asigna dato para almacenar de forma inmediata. Mediante [condiciones](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else) (`if (…){…}`, `else if (…){…}`, `else{…}`) se le asigna a la variable `saludo` almacenar la cadena de caracteres que corresponda a la hora en que se carga la página web. Finalmente, se escribe el valor de `saludo` en el [Document Object Model o DOM](https://www.w3schools.com/js/js_htmldom.asp) de la página web ya cargada.
 
 #### 1. DOM
 
