@@ -16,7 +16,7 @@ Diseño y Nuevos Medios es un Optativo de Profundización en Diseño. Este optat
 
 Las calificaciones de la asignatura son 6, a saber: 
 
-- 1 nota por asistencia, puntualidad y publiación resultado (registro clase a clase)
+- 1 nota por asistencia, puntualidad y publicación de resultado (registro clase a clase)
 
 - 1 nota por evaluación parcial del 3 de abril 
 
