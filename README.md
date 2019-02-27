@@ -56,7 +56,7 @@ Clase 11 → Miércoles 22 de mayo → Funciones de PHP 1/2
 
 Clase 12 → Miércoles 29 de mayo → Funciones de PHP 2/2 
 
-**Clase 13 → Miércoles 5 de junio → Trabajo final 1/3 (dominio) **
+**Clase 13 → Miércoles 5 de junio → Trabajo final 1/3 (dominio)**
 
 **Clase 14 → Miércoles 12 de junio → Trabajo final 2/3 (dominio y hosting)**
 
