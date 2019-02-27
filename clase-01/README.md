@@ -1,9 +1,5 @@
 # Diseño y Nuevos Medios
 
-#### Pontificia Universidad Católica de Chile → Diseño
-
-[Profesor FACO](http://profesor.faco.cl/) (Felipe Alberto Cortez Orellana)
-
 ### Clase 1 → Miércoles 6 de marzo → GitHub, Editores de código y *coding* (descripción v/s programación)
 
 #### Github
