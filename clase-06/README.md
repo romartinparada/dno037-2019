@@ -28,4 +28,4 @@ Espacios de memoria que contienen datos.
 
 - - - - - - - 
 
-[SIGUIENTE CLASE](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-07)
+[SIGUIENTE CLASE →](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-07)
