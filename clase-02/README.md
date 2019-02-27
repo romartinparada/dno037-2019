@@ -2,11 +2,14 @@
 
 ### Miércoles 13 de marzo → CSS3
 
-CSS es Cascading Style Sheets, Hojas de Estilo en Cascada. Es un lenguaje utilizado para describir la presentación de documentos HTML. Su bloque constructivo más básico es la regla. Cada regla se inicia con sus [selectores](https://developer.mozilla.org/es/docs/Web/CSS/Referencia_CSS#Selectores), para luego contener, entre paréntesis de llave, determinadas [propiedades](https://www.w3schools.com/cssref/default.asp):
+CSS es Cascading Style Sheets (Hojas de Estilo en Cascada). Es un lenguaje utilizado para describir la presentación de documentos HTML. Su bloque constructivo más básico es la regla. 
 
-<pre><code>selector{propiedad:valor;}</code></pre>
+Cada regla se inicia con un(os) [selector(es)](https://developer.mozilla.org/es/docs/Web/CSS/Referencia_CSS#Selectores) y  luego contiene, entre paréntesis de llave `{…}`, una o varias declaraciones. Una declaración es separada de otra mediante punto y coma `;`. Cada declaración se compone de una [propiedad](https://www.w3schools.com/cssref/default.asp) y su(s) correspondiente(s) valor(es):
 
-Con CSS puedo establecer que el elemento `<h1>hola mundo</h1>` se presente con [Helvetica](https://www.w3schools.com/cssref/css_websafe_fonts.asp), [cuerpo de 2 **em**](https://franciscoamk.com/unidades-de-medida-en-css/), y en [rojo](https://en.wikipedia.org/wiki/Web_colors):
+```selector{propiedad:valor;}```
+
+Con CSS podemos establecer que el elemento HTML `<h1>hola mundo</h1>` se presente con [Helvetica](https://www.w3schools.com/cssref/css_websafe_fonts.asp), [cuerpo de 2 **em**](https://franciscoamk.com/unidades-de-medida-en-css/), y en [rojo](https://en.wikipedia.org/wiki/Web_colors):
+
 ```
 h1{
 font-family: Helvetica, sans-serif; 
@@ -14,54 +17,51 @@ font-size: 2em;
 color: rgb(255,0,0);
 }
 ```
-En este caso, el selector es `h1` y la declaración es todo lo contenido entre paréntesis de llave `{…}`. Como pueden ver, la declaración contiene dentro suyo otros pares (**propiedad** y **valor**), separados unos de otros mediante punto y coma `;`.
 
-¿Cómo es que esta regla, que tiene selector `h1`, le dice a un elemento HTML `<h1>…</h1>`que debe mostrarse de tal manera? 
+Si en el HTML queremos afectar a `<body>todo lo visible dentro de la ventana<body>`, en CSS escribimos:
 
-<p>La respuesta es obvia, "porque h1 es h1". Así mismo, por ejemplo, si en el HTML queremos afectar a <code>&lt;body&gt;todo lo visible dentro de la ventana&lt;body&gt;</code>, en CSS escribimos:</p>
-
-<pre><code><span>body</span>{
+```body{
   font-family:Helvetica, Arial, sans-serif;
 }
-</code></pre>
+```
 
-<p>Pero una regla CSS también puede apuntar a <a href="https://developer.mozilla.org/es/docs/Web/CSS/Pseudoelementos" target="_blank">una parte de un elemento HTML (pseudoelemento)</a>. Por ejemplo, si en el HTML queremos afectar a la primera línea de un <code>&lt;p&gt;párrafo&lt;p&gt;</code>, en CSS escribimos:</p>
+Pero una regla CSS también puede apuntar a <a href="https://developer.mozilla.org/es/docs/Web/CSS/Pseudoelementos" target="_blank">una parte de un elemento HTML (pseudoelemento)</a>. Por ejemplo, si en el HTML queremos afectar a la primera línea de un `<p>párrafo<p>`, en CSS escribimos:
 
-<pre><code>p<span>::first-line</span>{
+```p::first-line{
   text-transform: uppercase;
 }
-</code></pre>
+```
 
-<p>Incluso podemos apuntar a <a href="https://developer.mozilla.org/es/docs/Web/CSS/Pseudo-classes" target="_blank">un estado especial del elemento (pseudoclase)</a>. Por ejemplo, si en el HTML queremos afectar a un <code>&lt;a&gt;vínculo&lt;a&gt;</code> mientras el mouse se posa encima, en CSS escribimos:</p>
+Incluso podemos apuntar a <a href="https://developer.mozilla.org/es/docs/Web/CSS/Pseudo-classes" target="_blank">un estado especial del elemento (pseudoclase)</a>. Por ejemplo, si en el HTML queremos afectar a un `<a>vínculo<a>` mientras el mouse se posa encima, en CSS escribimos:
 
-<pre><code>a<span>:hover</span>{
+```a:hover{
   text-decoration: underline;
 }
-</code></pre>
+```
 
-<p>¡Y podemos seguir agregando posibilidades!</p> 
+¡Y podemos seguir agregando posibilidades! 
 
-<p>Una regla CSS puede apuntar a cualquier elemento que tenga una clase (class) determinada. Así podemos afectar a un <code>&lt;p <span>class=&quot;alumna&quot;</span>&gt;párrafo&lt;/p&gt;</code>, una <code>&lt;div <span>class=&quot;alumna&quot;</span>&gt;división&lt;/div&gt;</code> o cualquier otro elemento:</p>
+Una regla CSS puede apuntar a cualquier elemento que tenga una clase (class) determinada. Así podemos afectar a un `<p class=&quot;alumna&quot;>párrafo</p>`, una `<div class=&quot;alumna&quot;>división</div>` o cualquier otro elemento:
 
-<pre><code><span>.</span>alumna{
+```.estudiante{
   border:5px solid rgba(255,255,255,1);
 }
-</code></pre>
+```
 
-<p>También podemos apuntar a cualquier elemento que tenga una identidad (id) determinada. La diferencia con el caso anterior, es que se recomienda entregarle a un único elemento una identidad:</p>
+También podemos apuntar a cualquier elemento que tenga una identidad (id) determinada. La diferencia con el caso anterior, es que se recomienda entregarle a un único elemento una identidad:
 
-<pre><code><span>#</span>mariana{
+```#francisca{
   color:rgba(255,200,200,1);
 }
-</code></pre>
+```
 
-<p><strong>Ahora bien, para que cada regla CSS afecte al elemento HTML correspondiente, nos falta mencionar algo más: Cómo conectar a un conjunto de reglas CSS con un determinado conjunto de elementos HTML (sea parte de una o varias páginas HTML).</strong></p>
+**Ahora bien, para que cada regla CSS afecte al elemento HTML correspondiente, nos falta mencionar algo más: Cómo conectar a un conjunto de reglas CSS con un determinado conjunto de elementos HTML (sea parte de una o varias páginas HTML).**
 
 La respuesta es doble, porque hay dos* posibilidades: 
 
-<p>1. Incluyéndolas en la cabeza del documento HTML:</p>
+1. Incluyéndolas en la cabeza del documento HTML:
 
-<pre><code>&lt;style&gt;
+```<style>
 body{
   color:white;
   background:black;
@@ -73,16 +73,16 @@ body{
   color:rgba(255,200,200,1);
 }
 
-&lt;/style&gt;
-</code></pre>
+</style>
+```
 
-<p>2. Vinculando un documento CSS independiente, dentro de la cabeza del documento HTML:</p>
+2. Vinculando un documento CSS independiente, dentro de la cabeza del documento HTML:
 
-<pre><code>&lt;link rel=&quot;stylesheet&quot; href=&quot;estilo.css&quot; type=&quot;text/css&quot;&gt;</code></pre>
+```<link rel=&quot;stylesheet&quot; href=&quot;estilo.css&quot; type=&quot;text/css&quot;>```
  
-<p>* Podría reclamarse que estoy olvidando una posibilidad, que es la menos eficiente de todas. La posibilidad en la que puedo meter lenguaje CSS como variable de un atributo en elementos HTML. Para quien reclame, eso se hace como sigue, pero no lo recomiendo:</p>
+* Podría reclamarse que estoy olvidando una posibilidad, que es la menos eficiente de todas. La posibilidad en la que puedo meter lenguaje CSS como variable de un atributo en elementos HTML. Para quien reclame, eso se hace como sigue, pero no lo recomiendo:
 
-<pre><code>&lt;p <span>style=&quot;color:red;&quot;</span>&gt;esto es un párrafo&lt;/p&gt;</code></pre>
+```<p style=&quot;color:red;&quot;>esto es un párrafo</p>``
 
 - - - - - 
 
