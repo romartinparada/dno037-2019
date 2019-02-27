@@ -112,5 +112,5 @@ Hay una posibilidad más de conectar un conjunto de reglas con un elemnto HTML, 
 
 - - - - - - - 
 
-[SIGUIENTE CLASE](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-03)
+[SIGUIENTE CLASE →](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-03)
 
