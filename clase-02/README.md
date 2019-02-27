@@ -2,7 +2,7 @@
 
 ### Miércoles 13 de marzo → CSS3
 
-CSS es Cascading Style Sheets (Hojas de Estilo en Cascada), un lenguaje utilizado para describir la presentación de documentos HTML. A la fecha, [CSS3](https://www.w3.org/TR/css-2018/#css-level-3) es la última evolución de este lenguaje.
+CSS es Cascading Style Sheets (Hojas de Estilo en Cascada), un lenguaje utilizado para describir la presentación de documentos HTML. [CSS3](https://www.w3.org/TR/css-2018/#css-level-3) es la última evolución de este lenguaje.
 
 Su bloque constructivo más básico es la regla. Cada regla se inicia con un(os) [selector(es)](https://developer.mozilla.org/es/docs/Web/CSS/Referencia_CSS#Selectores) y  luego contiene, entre paréntesis de llave `{…}`, una o varias declaraciones. Una declaración es separada de otra mediante punto y coma `;`. Cada declaración se compone de una [propiedad](https://www.w3.org/TR/css-2018/#properties) y su(s) correspondiente(s) valor(es):
 
@@ -10,7 +10,7 @@ Su bloque constructivo más básico es la regla. Cada regla se inicia con un(os)
 selector{propiedad:valor;}
 ```
 
-Con CSS podemos establecer que el elemento HTML `<h1>hola mundo</h1>` se presente con [Helvetica](https://www.w3schools.com/cssref/css_websafe_fonts.asp), [cuerpo de 2 **em**](https://franciscoamk.com/unidades-de-medida-en-css/), y en [rojo](https://en.wikipedia.org/wiki/Web_colors):
+Con CSS podemos establecer que el elemento HTML `<h1>hola mundo</h1>` se presente con [Helvetica](https://www.w3schools.com/cssref/css_websafe_fonts.asp), [cuerpo de 2 **em**](https://www.w3schools.com/cssref/css_units.asp), y en [rojo](https://www.w3schools.com/colors/default.asp):
 
 ```
 h1{
