@@ -44,7 +44,9 @@ Como sandwich:
 
 Deben notar que atributos y variables se escriben en la primera etiqueta, la de apertura, nunca en la de cierre.
 
-Mediante atributos y variables pueden cambiar un simple párrafo a uno que tenga las características de una clase "alumna" y la identidad de "mariana".
+Hay una clase particular de "sandwiches" y "canapés" que se incluyen entre las etiquetas `<head></head>`, a estos se les conoce como Metadatos, y corresponde ponerles especial atención: [Metaetiquetas que Google entiende](https://support.google.com/webmasters/answer/79812?hl=es&hlrm=en#)
+
+Entre las etiquetas `<body></body>`, mediante el uso de atributos y variables se convertir a un simple párrafo en uno que tenga las características de una clase "estudiante" y la identidad de "francisca".
 
 ```
 <p class="estudiante" id="francisca">esto es un párrafo</p>
