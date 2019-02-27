@@ -22,11 +22,11 @@ En un programa de JS podemos encontrar dos elementos básicos: código y datos. 
 </script>
 ```
 
-En este ejemplo de JS se crea una variable `d`, a la que se le asigna almacenar la fecha en la que se carga la página web (considerando hasta los segundos). Luego, a una variable `h` se le asigna solo la hora en tal fecha. Después se crea una variable con el nombre `saludo`, y no se le asigna dato para almacenar de forma inmediata. Mediante [condiciones](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else) (`if (…){…}`, `else if (…){…}`, `else{…}`) se le asigna a la variable `saludo` el almacenamiento de la cadena de caracteres que corresponda a la hora en que se carga la página web. Finalmente, se escribe el valor de `saludo` en el [Document Object Model o DOM](https://www.w3schools.com/js/js_htmldom.asp) de la página web ya cargada.
+En este ejemplo de JS se crea una variable `d`, a la que se le encarga almacenar la fecha en la que la página web es visualizada (considerando hasta los segundos). Luego, a una variable `h` se le encargar almacenar solo la hora en tal fecha. Después se crea una variable con el nombre `saludo`, en la que no se almacenan datos de forma inmediata. Mediante [condiciones](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else) (`if (…){…}`, `else if (…){…}`, `else{…}`) se le encargará a la variable `saludo` almacenar la cadena de caracteres que corresponda a la hora en que se visualiza la página web. Finalmente, se le indica a la máquina escribir el valor de `saludo` en el [Document Object Model o DOM](https://www.w3schools.com/js/js_htmldom.asp) de la página web visualizada.
 
-El mismo programa puede ser escrito en un documento aparte, con extensión `.js`. Si a este programa le llamamos `saludo.js` y lo dejamos en la misma carpeta que contiene una página web, podríamos vincularlo a ella escribiendo: `<script src="saludo.js"></script>`.
+El mismo programa puede ser escrito en un documento aparte, con extensión `.js`. Si a este programa le llamamos `saludo.js` y lo dejamos en la misma carpeta que contiene una página web, podríamos vincularlo a ella escribiendo: `<script src="saludo.js"></script>`. Dentro de ese documento aparte, no tenemos que incluir las etiquetas `<script>…</script>`. 
 
-Como JS es un lenguaje que comenzamos a explorar, es recomendable tener a mano algún "Cheat Sheet": 
+Como JS es un lenguaje de programación que comenzamos a explorar, es recomendable tener a mano algún "Cheat Sheet": 
 
 - [JS CheatSheet](https://htmlcheatsheet.com/js/)
 
@@ -36,8 +36,17 @@ Como JS es un lenguaje que comenzamos a explorar, es recomendable tener a mano a
 
 #### 1. DOM
 
-[Document Object Model o DOM](https://www.w3schools.com/js/js_htmldom.asp) es
+[DOM es Document Object Model](https://www.w3schools.com/js/js_htmldom.asp), Modelo en Objetos para la Representación de Documentos. A través del DOM, los programas escritos en JS pueden acceder y modificar el contenido, estructura y estilo de la representación de la página web. Por ejemplo:
 
+```
+<script>
+  document.getElementById("unique").style.color="#FF0000";
+</script>
+```
+
+En este ejemplo accedemos a la representación del documento para obtener el elemento de identidad `unique`. Este elemento será modificado con un cambio de estilo: Su color visto pasará a ser rojo.  
+
+Modificar la representación de una página web es como "photoshopear" una imagen. Si capturaste 3 elementos y con Photoshop agregas un cuarto, en ningún caso modificas la realidad capturada, pero todos podrán ver una imagen con 4 elementos. Lo que modificas es lo representado. No se puede alterar lo presentado.
 
 #### 2. Variables
 
