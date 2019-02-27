@@ -11,9 +11,9 @@ Es necesario que cada estudiante en Diseño y Nuevos Medios tenga [su cuenta per
 
 Si vas a crear tu cuenta ahora mismo, te recomiendo también crear tu primer repositorio. El proceso es muy sencillo: 
 
-En la página de "Repositories" encontrarás un botón verde, que dice "New". Presiona ese botón. Eso te llevará a una nueva página, donde tienes que escribir un "Repository name", evita que ese nombre tenga tildes o acentos, y prefiere usar una única palabra (si necesitas usar dos o más palabras, usa guión entre ellas). GitHub revisará si puedes usar el nombre ingresado, y te dará un ticket verde cuando sí se pueda. Por ahora puedes saltarte la "Description". Luego tienes que dejar seleccionada la opción "Public" y **tienes marcar un ticket en la opción de "Initialize this repository with a README"**. Para terminar, dale click al botón verde de "Create repository".
+- En la página de "Repositories" encontrarás un botón verde, que dice "New". Presiona ese botón. Eso te llevará a una nueva página, donde tienes que escribir un "Repository name", evita que ese nombre tenga tildes o acentos, y prefiere usar una única palabra (si necesitas usar dos o más palabras, usa guión entre ellas). GitHub revisará si puedes usar el nombre ingresado, y te dará un ticket verde cuando sí se pueda. Por ahora puedes saltarte la "Description". Luego tienes que dejar seleccionada la opción "Public" y **tienes marcar un ticket en la opción de "Initialize this repository with a README"**. Para terminar, dale click al botón verde de "Create repository".
 
-Si en tu repositorio de GitHub subes un sitio web, con su correspondiente documento `index.html`, bien puedes hacer que este sitio quede publicado en la Web, en una dirección a la que cualquier persona podría acceder. Esto lo puedes hacer si es que aprovechas el servicio de [Github Pages](https://help.github.com/articles/what-is-github-pages/). 
+- Si en tu repositorio de GitHub subes un sitio web, con su correspondiente documento `index.html`, bien puedes hacer que este sitio quede publicado en la Web, en una dirección a la que cualquier persona podría acceder. Esto lo puedes hacer si es que aprovechas el servicio de [Github Pages](https://help.github.com/articles/what-is-github-pages/). 
 
 #### Editores de código fuente
 
