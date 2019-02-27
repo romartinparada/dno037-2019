@@ -109,3 +109,8 @@ Hay una posibilidad más de conectar un conjunto de reglas con un elemnto HTML, 
 - [HTML & CSS - W3C](https://www.w3.org/standards/webdesign/htmlcss)
 
 - [Starting with HTML + CSS](https://www.w3.org/Style/Examples/011/firstcss.en.html)
+
+- - - - - - - 
+
+[SIGUIENTE CLASE](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-03)
+
