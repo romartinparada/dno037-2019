@@ -44,4 +44,4 @@ Para comenzar a conocer estos lenguajes de descripción y programación, aprovec
 
 - - - - - - - 
 
-[SIGUIENTE CLASE](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-02)
+###### [SIGUIENTE CLASE](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-02)
