@@ -12,7 +12,15 @@ Diseño y Nuevos Medios es un Optativo de Profundización en Diseño. Este optat
 
 - ofrece una introducción al desarrollo de Aplicaciones Web, por la vía del FrontEnd.
 
-- exige constante ejercitación y publicación de resultados en GitHub y GitHub Pages.
+- exige la constante ejercitación y publicación de resultados en GitHub y GitHub Pages.
+
+Las calificaciones de la asignatura son 6, a saber: 
+
+- 1 nota por asistencia, puntualidad y publiación resultado (registro clase a clase)
+- 1 nota por evaluación parcial del 3 de abril 
+- 1 nota por evaluación parcial del 8 de mayo
+- 1 nota por avance en trabajo final
+- 2 notas por resultado de trabajo final
 
 Habiendo sacado el mejor provecho al optativo, los estudiantes serán capaces de desarrollar, de manera autónoma, un sitio web profesional o un prototipo avanzado de aplicación web. Por esta razón, el examen final se revisará en línea.
 
@@ -44,11 +52,11 @@ Clase 11 → Miércoles 22 de mayo → Funciones de PHP 1/2
 
 Clase 12 → Miércoles 29 de mayo → Funciones de PHP 2/2 
 
-**Clase 13 → Miércoles 5 de junio → Trabajo final 1/3**
+**Clase 13 → Miércoles 5 de junio → Trabajo final 1/3 (dominio) **
 
-**Clase 14 → Miércoles 12 de junio → Trabajo final 2/3**
+**Clase 14 → Miércoles 12 de junio → Trabajo final 2/3 (dominio y hosting)**
 
-**Clase 15 → Miércoles 19 de junio → Trabajo final 3/3** 
+**Clase 15 → Miércoles 19 de junio → Trabajo final 3/3 (En línea en su dominio y hosting)** 
 
 (viernes 21 de junio es la finalización de clases del primer período académico)
 
