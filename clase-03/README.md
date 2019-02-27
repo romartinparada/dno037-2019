@@ -62,15 +62,14 @@ Atributos y variables también nos permiten establecer vínculos y recursos. As�
 
 #### Referencias:
 
-[Introducción a HTML](https://developer.mozilla.org/es/docs/Learn/HTML/Introduccion_a_HTML)
+- [Introducción a HTML](https://developer.mozilla.org/es/docs/Learn/HTML/Introduccion_a_HTML)
 
-[HTML Tutorial | w3schools.com](https://www.w3schools.com/html/default.asp)
+- [HTML Tutorial | w3schools.com](https://www.w3schools.com/html/default.asp)
 
-[Element Index | HTML5 Doctor](http://html5doctor.com/element-index/)
+- [Element Index | HTML5 Doctor](http://html5doctor.com/element-index/)
 
-[HTML5 Cheat Sheet](https://websitesetup.org/HTML5-cheat-sheet.pdf)
+- [HTML5 Cheat Sheet](https://websitesetup.org/HTML5-cheat-sheet.pdf)
 
 - - - - - - - 
 
 ###### [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-04)
-
