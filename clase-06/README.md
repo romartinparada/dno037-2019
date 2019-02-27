@@ -28,7 +28,7 @@ En este ejemplo de JS se crea una variable `d`, a la que se le encarga almacenar
 
 El mismo programa puede ser escrito en un documento aparte, con extensión `.js`. Si a este programa le llamamos `saludo.js` y lo dejamos en la misma carpeta que contiene una página web, podríamos vincularlo a ella escribiendo: `<script src="saludo.js"></script>`. Dentro de ese documento aparte, no tenemos que incluir las etiquetas `<script>…</script>`. 
 
-Como JS es un lenguaje de programación que comenzamos a explorar, es recomendable tener a mano algún "Cheat Sheet": 
+Como JS es un lenguaje de programación que comenzamos a explorar, es recomendable tener a mano algún ayudamemoria: 
 
 - [JS CheatSheet](https://htmlcheatsheet.com/js/)
 
