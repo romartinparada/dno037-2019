@@ -1,8 +1,10 @@
 # Diseño y Nuevos Medios → Clase 6  
 
-### Miércoles 10 de abril → JS → DOM, variables y JSON
+### Miércoles 10 de abril → JS, DOM y variables
 
-JavaScript (JS en lo que siga) es un lenguaje de programación. Con este lenguaje se pueden escribir programas que serán ejecutados en un navegador web. Estos programas pueden ser incluidos o vinculados a una página web a modo de script, entre etiquetas `<script>…</script>`. 
+#### 1. JS
+
+JavaScript (en lo que siga JS; nunca Java) es un lenguaje de programación. Con este lenguaje se pueden escribir programas que serán ejecutados en un navegador web. Estos programas pueden ser incluidos o vinculados a una página web a modo de script, entre etiquetas `<script>…</script>`. 
 
 En un programa de JS podemos encontrar dos elementos básicos: código y datos. La parte del código es la que permite redactar instrucciones. La parte de datos es la que permite almacenar información con la que podríamos condicionar las instrucciones. Así, por ejemplo, dentro de un documento HTML podemos escribir: 
 
@@ -34,7 +36,7 @@ Como JS es un lenguaje de programación que comenzamos a explorar, es recomendab
 
 - [Cheatography JavaScript Cheat Sheet](https://www.cheatography.com/davechild/cheat-sheets/javascript/pdf_bw/)
 
-#### 1. DOM
+#### 2. DOM
 
 [DOM es Document Object Model](https://www.w3schools.com/js/js_htmldom.asp), Modelo en Objetos para la Representación de Documentos. A través del DOM, los programas escritos en JS pueden acceder y modificar el contenido, estructura y estilo de la representación de la página web. Por ejemplo:
 
@@ -48,7 +50,7 @@ En este ejemplo accedemos a la representación del documento para obtener el ele
 
 Modificar la representación de una página web es como "photoshopear" una imagen. Si capturaste 3 elementos y con Photoshop agregas un cuarto, en ningún caso modificas la realidad capturada, pero todos podrán ver una imagen con 4 elementos. Lo que modificas es lo representado. No se puede alterar lo presentado.
 
-#### 2. Variables
+#### 3. Variables
 
 En programación, una variable está formada por un espacio en el sistema de almacenaje (memoria principal del computador) y un identificador asociado a dicho espacio. Este espacio contendrá una cantidad conocida o desconocida de datos, que pueden ir variando en la medida que el programa se ejecuta (y esta es la razón del nombre). 
 
@@ -76,29 +78,9 @@ var a = [ { name: "Sergey Prokopyev", craft: "ISS" }, { name: "Alexander Gerst",
 
 En este caso, si quisiera obtener el nombre "Sergey Prokopyek", tendría que ir por `a[0].name`, porque se trata de un arreglo (`[…]`), que contiene objetos (`[{…},{…},{…}]`).
 
-#### 3. JSON
-
-[JSON (JavaScript Object Notation)](https://www.json.org/json-es.html) es un formato de texto sencillo para el intercambio de datos. La última versión de la variaba `a` está basada en un JSON que pueden consultar en http://api.open-notify.org/astros.json
-
-Uno podría tomar un JSON en línea y "[parsearlo](http://www.alegsa.com.ar/Dic/parseo.php)" para que sus datos se conviertan en los datos de una variable en un JS. Esto se podría hacer de la siguiente manera: 
-
-```
-var request = new XMLHttpRequest();
-request.open('GET', ' https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_day.geojson', true);
-request.onload = function () {
-var a = JSON.parse(this.response);
-console.log(a);
-}
-request.send();	
-```
-
-En el caso recién presentado, la variable `a` contendrá un sumario de los últimos movimientos telúricos sobre 4.5 que han sido [registrados en las últimas 24 horas la USGS](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php).
-
 - - - - - - -
 
 #### Referencias
-
-JavaScript
 
 - [Fundamentos de JavaScript](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 
@@ -109,12 +91,6 @@ JavaScript
 - [JavaScript Tutorial](https://www.w3schools.com/js/)
 
 - [Programación en JavaScript/Variables](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_JavaScript/Variables)
-
-JSON
-
-- [JSONLint - The JSON Validator](https://jsonlint.com/)
-
-- [Trabajando con JSON](https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/JSON)
 
 - - - - - - - 
 
