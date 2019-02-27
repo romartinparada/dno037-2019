@@ -2,13 +2,7 @@
 
 ### Miércoles 10 de abril → JS → DOM, variables y JSON
 
-JavaScript es un lenguaje de programación. 
-
-`console.log(Math.round(Math.PI))`
-
-En este ejemplo pueden aprovechar lo aprendido en álgebra y aritmética: los paréntesis indican que las operaciones que ellos encierran tienen prioridad ante las demás. O sea, lo primero es explicar que `Math.PI` entrega el número π, número que se redondea (`Math.round`) para luego imprimirlo en la [consola de JavaScript de navegador](https://norfipc.com/inf/como-usar-consola-javascript-navegador-web.php) (`console.log`). 
-
-Porque programar es escribir, en cierto lenguaje, un conjunto ordenado y finito de operaciones que permiten hacer algo. Por ejemplo: 
+JavaScript (JS en lo que siga) es un lenguaje de programación. Con este lenguaje se pueden escribir programas que se ejecutan en el navegador con el que se visite una página web. En un programa de JS podemos encontrar con dos elementos básicos: código y datos. La parte del código es la que nos permite hacer cosas dentro de la página web. La parte de datos es la que define el estado de la página web en un momento determinado, y los datos de un programa se guardan dentro de variables. Por ejemplo: 
 
 ```
 var d = new Date();
@@ -24,15 +18,12 @@ if ((h >= 6) && (h < 12)) {
 document.write(saludo);
 ```
 
-En el ejemplo se crea una variable `d`, a la que se le asigna almacenar el dato de la fecha en la que se carga la página web (considerando hasta los segundos). Luego, a una variable `h` se le asigna solo la hora en esa fecha. Después se crea una variable con el nombre `saludo`, y no se le asigna dato para almacenar de forma inmediata.
-
-Mediante [condiciones](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else) (`if (…){…}`, `else if (…){…}`, `else{…}`) se le asigna a la variable `saludo` almacenar la cadena de caracteres que corresponda a la hora en que se carga la página web. 
-
-Finalmente, se escribe el valor de `saludo` en el [Document Object Model o DOM](https://www.w3schools.com/js/js_htmldom.asp) de la página web ya cargada.
+En el ejemplo se crea una variable `d`, a la que se le asigna almacenar el dato de la fecha en la que se carga la página web (considerando hasta los segundos). Luego, a una variable `h` se le asigna solo la hora en esa fecha. Después se crea una variable con el nombre `saludo`, y no se le asigna dato para almacenar de forma inmediata. Mediante [condiciones](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else) (`if (…){…}`, `else if (…){…}`, `else{…}`) se le asigna a la variable `saludo` almacenar la cadena de caracteres que corresponda a la hora en que se carga la página web. Finalmente, se escribe el valor de `saludo` en el [Document Object Model o DOM](https://www.w3schools.com/js/js_htmldom.asp) de la página web ya cargada.
 
 #### 1. DOM
 
 [Document Object Model o DOM](https://www.w3schools.com/js/js_htmldom.asp) es
+
 
 #### 2. Variables
 
@@ -40,7 +31,7 @@ En programación, una variable está formada por un espacio en el sistema de alm
 
 En lenguajes de programación de propósito general, tales como [C++](https://es.wikipedia.org/wiki/C%2B%2B) o [Java](https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n)), o en derivados como [Processing](https://processing.org/), las variables se crean escribiendo el **tipo de dato, espacio, nombre de la variable, asignación, valor y fin de la instrucción con punto y coma**, como en `int a = 3;`, `float b = 3.14`, `String c = "Pi"`.
 
-**Pero en la creación de variables de JavaScript omite la declaración de la variable: Para todo evento [se puede utilizar `var`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements#Declarations), lo que implica escribir ***var*, espacio, nombre de la variable, asignación, valor y fin de la instrucción con punto y coma**.
+**Pero en la creación de variables en JS omite la declaración del tipo de dato: Para todo evento [se puede utilizar `var`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements#Declarations), lo que implica escribir ***var*, espacio, nombre de la variable, asignación, valor y fin de la instrucción con punto y coma**.
 
 Respecto del **nombre de la variable** habría que indicar tres cosas: (1) no corresponde iniciarlas con números, (2) no se puede usar espacios, tildes ni acentos, y (3) corresponde evitar el uso de [palabras reservadas](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Palabras_Reservadas) por el lenguaje de programación en uso.
 
@@ -52,17 +43,17 @@ Podemos tener una variable a la que se le asigna una cadena de caracteres o *str
 
 Podemos tener una variable a la que se le asigna un arreglo o *array*:
 
-`var a = ["uno", "dos", "tres","cuatro",5];`
+`var a = ["uno", 2, "tres",4, "cinco"];`
 
-Luego, dentro del arreglo, tenemos distintas posiciones partiendo del cero, con lo que podemos obtener "uno", cuando pedimos `a[0]`
+Luego, dentro del arreglo, tenemos distintas posiciones partiendo del cero. Así podemos obtener el valor "uno" cuando pedimos `a[0]`
 
 También podemos tener una variable a la que se le asigna un "object" como contenido:
 
 `var a = {uno:"gato", dos:"perro", tres:"tortuga", cuatro:"iguana"};`
 
-Y podemos pedir los contenidos del objeto *por su nombre*, así, "gato" resulta de `a.uno`
+En este caso, podemos pedir los contenidos del objeto *por su nombre*. Podemos obtener el valor "gato" cuando pedimos `a.uno`
 
-Y podemos comenzar a mezclar:
+Luego podemos comenzar a mezclar:
 
 ```
 var a = [ { name: "Sergey Prokopyev", craft: "ISS" }, { name: "Alexander Gerst", craft: "ISS" }];
