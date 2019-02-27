@@ -1,11 +1,10 @@
 # Diseño y Nuevos Medios → Clase 8  
 
-### Miércoles 17 de abril → JS → jQuery 2/2
+### Miércoles 17 de abril → JS → jQuery, JSON & otros
 
-Recordemos que jQuery es una biblioteca de JS que simplifica la manipulación del DOM, el manejo de eventos, el desarrollo de animaciones y el uso de AJAX.
+Recordemos que jQuery es una biblioteca de JS que simplifica la manipulación del DOM, el manejo de eventos, el desarrollo de animaciones y el uso de AJAX. Usando jQuery podemos simplificar el trabajo con JSON.
 
-Usando jQuery podemos simplificar el trabajo con JSON, CSV, etc.
-
+Pero jQuery no es la única biblioteca de JS, y JSON no es el único formato ligero de intercambio de datos. Ambas son muy populares en sus ámbitos, pero podemos dar un paso de complejización en ambos sentidos.
 
 - - - - - - 
 
