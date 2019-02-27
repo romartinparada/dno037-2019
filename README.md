@@ -26,7 +26,7 @@ Las calificaciones de la asignatura son 6, a saber:
 
 - 2 notas por resultado de trabajo final
 
-Habiendo sacado el mejor provecho al optativo, los estudiantes serán capaces de desarrollar, de manera autónoma, un sitio web profesional o un prototipo avanzado de aplicación web. Por esta razón, el examen final se revisará en línea.
+Habiendo sacado el mejor provecho al optativo, los estudiantes serán capaces de desarrollar, de manera autónoma, un sitio web profesional o un prototipo avanzado de aplicación web. Por esta razón, el trabajo final se revisará en línea.
 
 Se proyecta la siguiente organización de las clases durante el semestre:
 
