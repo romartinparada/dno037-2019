@@ -34,27 +34,27 @@ Se proyecta la siguiente organización de las clases durante el semestre:
 
 [Clase 2 → Miércoles 13 de marzo](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-02) → CSS3
 
-[Clase 3](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-03) → Miércoles 20 de marzo → HTML5
+[Clase 3 → Miércoles 20 de marzo](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-03) → HTML5
 
-[Clase 4](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-04) → Miércoles 27 de marzo → Bootstrap (HTML5 + CSS3 + JS)
+[Clase 4 → Miércoles 27 de marzo](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-04) → Bootstrap (HTML5 + CSS3 + JS)
 
 (miércoles 1 de mayo es feriado)
 
-**[Clase 5](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-05) → Miércoles 3 de abril → Evaluación**
+**[Clase 5 → Miércoles 3 de abril](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-05) → Evaluación**
 
-[Clase 6](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-06) → Miércoles 10 de abril → JS → el DOM y las variables
+[Clase 6 → Miércoles 10 de abril](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-06) → JS → el DOM y las variables
 
-[Clase 7](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-07) → Miércoles 17 de abril → JS → jQuery 1/2
+[Clase 7 → Miércoles 17 de abril](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-07) → JS → jQuery 1/2
 
-[Clase 8](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-08) → Miércoles 24 de abril → JS → jQuery 2/2
+[Clase 8 → Miércoles 24 de abril](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-08) → JS → jQuery 2/2
 
-**[Clase 9](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-09) → Miércoles 8 de mayo → Evaluación**
+**[Clase 9 → Miércoles 8 de mayo](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-09) → Evaluación**
 
-[Clase 10](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-10) → Miércoles 15 de mayo → PHP → el servidor, las variables y los ciclos
+[Clase 10 → Miércoles 15 de mayo](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-10) → PHP → el servidor, las variables y los ciclos
 
-[Clase 11](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-11) → Miércoles 22 de mayo → Funciones de PHP 1/2
+[Clase 11 → Miércoles 22 de mayo](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-11) → Funciones de PHP 1/2
 
-[Clase 12](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-12) → Miércoles 29 de mayo → Funciones de PHP 2/2 
+[Clase 12 → Miércoles 29 de mayo](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-12) → Funciones de PHP 2/2 
 
 **Clase 13 → Miércoles 5 de junio → Trabajo final 1/3 (dominio)**
 
