@@ -2,9 +2,9 @@
 
 ### Miércoles 17 de abril → JS → jQuery 2/2
 
-jQuery es una biblioteca de JS que simplifica la manipulación del DOM, el manejo de eventos, el desarrollo de animaciones y el uso de AJAX (Asynchronous JavaScript And XML).
+Recordemos que jQuery es una biblioteca de JS que simplifica la manipulación del DOM, el manejo de eventos, el desarrollo de animaciones y el uso de AJAX (Asynchronous JavaScript And XML).
 
-Con jQuery podemos simplificar la inclusión de JSON y la creación de elementos en el DOM según lo que se incluya por esa vía.
+Usando jQuery podemos simplificar el trabajo con JSON, CSV, etc.
 
 
 - - - - - - 
