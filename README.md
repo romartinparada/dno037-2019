@@ -26,6 +26,8 @@ Clase 3 → Miércoles 20 de marzo → HTML5
 
 Clase 4 → Miércoles 27 de marzo → Bootstrap (HTML5 + CSS3 + JS)
 
+(miércoles 1 de mayo es feriado)
+
 **Clase 5 → Miércoles 3 de abril → Evaluación**
 
 Clase 6 → Miércoles 10 de abril → JS → el DOM, las variables y los ciclos
