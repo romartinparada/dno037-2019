@@ -69,7 +69,7 @@ En este caso, si quisiera obtener el nombre "Sergey Prokopyek", tendría que ir 
 
 [JSON (JavaScript Object Notation)](https://www.json.org/json-es.html) es un formato de texto sencillo para el intercambio de datos. La última versión de la variaba `a` está basada en un JSON que pueden consultar en http://api.open-notify.org/astros.json
 
-Uno podría tomar un JSON en línea y "[parsearlo](http://www.alegsa.com.ar/Dic/parseo.php)" para que sus datos se conviertan en los datos de una variable en un JavaScript. Esto se podría hacer de la siguiente manera: 
+Uno podría tomar un JSON en línea y "[parsearlo](http://www.alegsa.com.ar/Dic/parseo.php)" para que sus datos se conviertan en los datos de una variable en un JS. Esto se podría hacer de la siguiente manera: 
 
 ```
 var request = new XMLHttpRequest();
