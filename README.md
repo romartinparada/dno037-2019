@@ -42,7 +42,7 @@ Se proyecta la siguiente organización de las clases durante el semestre:
 
 **[Clase 5 → Miércoles 3 de abril](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-05) → Evaluación**
 
-[Clase 6 → Miércoles 10 de abril](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-06) → JS → el DOM y las variables
+[Clase 6 → Miércoles 10 de abril](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-06) → JS → DOM, variables y JSON
 
 [Clase 7 → Miércoles 17 de abril](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-07) → JS → jQuery 1/2
 
@@ -50,7 +50,7 @@ Se proyecta la siguiente organización de las clases durante el semestre:
 
 **[Clase 9 → Miércoles 8 de mayo](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-09) → Evaluación**
 
-[Clase 10 → Miércoles 15 de mayo](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-10) → PHP → el servidor, las variables y los ciclos
+[Clase 10 → Miércoles 15 de mayo](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-10) → PHP → Servidor, variables y ciclos
 
 [Clase 11 → Miércoles 22 de mayo](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-11) → Funciones de PHP 1/2
 
