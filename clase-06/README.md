@@ -21,6 +21,7 @@ En un programa de JS podemos encontrar dos elementos básicos: código y datos. 
     saludo = "buenas noches"
   }
   document.write(saludo);
+  // Para otros despliegues del saludo, ver https://www.w3schools.com/js/js_output.asp  
 </script>
 ```
 
