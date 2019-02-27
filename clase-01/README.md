@@ -32,7 +32,7 @@ El listado está organizado según preferencia (prefiera el primero, si no puede
 
 Cuando trabajamos con código fuente podemos describir o programar. HTML y CSS no son lenguajes de programación. JavaScript, PHP, Phyton y Ruby sí lo son. 
 
-Para comenzar a conocer estos trabajos de descripción y programación, aprovechemos el siguiente repositorio: https://github.com/profesorfaco/bases 
+Para comenzar a conocer estos lenguajes de descripción y programación, aprovechemos el siguiente repositorio: https://github.com/profesorfaco/bases 
 
 - - - - - - -
 
