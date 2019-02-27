@@ -2,14 +2,14 @@
 
 ### Miércoles 17 de abril → JS → jQuery 1/2
 
-jQuery es una [biblioteca](https://es.wikipedia.org/wiki/Biblioteca_(informática)) de JS que simplifica la manipulación del DOM, el manejo de eventos, el desarrollo de animaciones y el uso de AJAX (Asynchronous JavaScript And XML).
+jQuery es una [biblioteca](https://es.wikipedia.org/wiki/Biblioteca_(informática)) de JS que simplifica la manipulación del DOM, el manejo de eventos, el desarrollo de animaciones y el uso de AJAX (Asynchronous JavaScript And XML; una tecnología que permite a una página web actualizarse de forma dinámica sin que tenga que cargarse completamente).
 
 jQuery se puede incluir o vincular a una página web entre etiquetas `<script></script>`. Y funcionará si y solo si ya ha sido vinculada la biblioteca correspondiente: 
 
 ```
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script>
-  //Aquí puedes usar jQuery
+  //Aquí puedes usar JS simplificado por jQuery
 </script>
 ```
 
@@ -59,6 +59,8 @@ $(document).ready(function(){
 - [Curso gratis de jQuery](https://codigofacilito.com/cursos/jquery)
 
 - [How jQuery Works](https://learn.jquery.com/about-jquery/how-jquery-works/)
+
+- [jQuery CheatSheet](https://htmlcheatsheet.com/jquery/)
 
 - [Quakit - jQuery Tutorial](https://www.quackit.com/jquery/tutorial/what_is_jquery.cfm)
 
