@@ -2,8 +2,6 @@
 
 ### Miércoles 10 de abril → JS → DOM, variables y JSON
 
-#### 1. JavaScript (JS)
-
 JavaScript es un lenguaje de programación. 
 
 `console.log(Math.round(Math.PI))`
@@ -32,11 +30,11 @@ Mediante [condiciones](https://developer.mozilla.org/en-US/docs/Web/JavaScript/R
 
 Finalmente, se escribe el valor de `saludo` en el [Document Object Model o DOM](https://www.w3schools.com/js/js_htmldom.asp) de la página web ya cargada.
 
-#### 2. DOM
+#### 1. DOM
 
 [Document Object Model o DOM](https://www.w3schools.com/js/js_htmldom.asp) es
 
-#### 3. Variables
+#### 2. Variables
 
 En programación, una variable está formada por un espacio en el sistema de almacenaje (memoria principal del computador) y un identificador asociado a dicho espacio. Este espacio contendrá una cantidad conocida o desconocida de datos, que pueden ir variando en la medida que el programa se ejecuta (y esta es la razón del nombre). 
 
@@ -106,7 +104,7 @@ var a = [
 
 En este caso, si quisiera obtener el nombre "Sergey Prokopyek", tendría que ir por `a[0].name`, porque se trata de un arreglo (`[…]`), que contiene objetos (`[{…},{…},{…}]`).
 
-#### 4. JSON
+#### 3. JSON
 
 [JSON (JavaScript Object Notation)](https://www.json.org/json-es.html) es un formato de texto sencillo para el intercambio de datos. La última versión de la variaba `a` está basada en un JSON que pueden consultar en http://api.open-notify.org/astros.json
 
