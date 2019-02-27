@@ -54,7 +54,7 @@ En programación, una variable está formada por un espacio en el sistema de alm
 
 En lenguajes de programación de propósito general, tales como [C++](https://es.wikipedia.org/wiki/C%2B%2B) o [Java](https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n)), o en derivados como [Processing](https://processing.org/), las variables se crean escribiendo el **tipo de dato, espacio, nombre de la variable, asignación, valor y fin de la instrucción con punto y coma**, como en `int a = 3;`, `float b = 3.14`, `String c = "Pi"`.
 
-**Pero en la creación de variables en JS omite la declaración del tipo de dato: Para todo evento [se puede utilizar `var`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements#Declarations), lo que implica escribir ***var*, espacio, nombre de la variable, asignación, valor y fin de la instrucción con punto y coma**.
+**Pero en la creación de variables en JS omite la declaración del tipo de dato: Para todo evento [se puede utilizar `var`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements#Declarations), lo que implica escribir *var*, espacio, nombre de la variable, asignación, valor y fin de la instrucción con punto y coma**.
 
 Respecto del **nombre de la variable** habría que indicar tres cosas: (1) no corresponde iniciarlas con números, (2) no se puede usar espacios, tildes ni acentos, y (3) corresponde evitar el uso de [palabras reservadas](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Palabras_Reservadas) por el lenguaje de programación en uso.
 
@@ -64,17 +64,9 @@ Podemos tener una variable a la que se le asigna un valor numeral, entero o deci
 
 Podemos tener una variable a la que se le asigna una cadena de caracteres o *string*, en este caso la cadena de caracteres debe estar contenida por 'comillas simples' o "comillas dobles": `var a = "uno";`
 
-Podemos tener una variable a la que se le asigna un arreglo o *array*:
+Podemos tener una variable a la que se le asigna un arreglo o *array* `var a = ["uno", 2, "tres",4, "cinco"];`. Luego, dentro del arreglo, tenemos distintas posiciones partiendo del cero. Así podemos obtener el valor "uno" cuando pedimos `a[0]`
 
-`var a = ["uno", 2, "tres",4, "cinco"];`
-
-Luego, dentro del arreglo, tenemos distintas posiciones partiendo del cero. Así podemos obtener el valor "uno" cuando pedimos `a[0]`
-
-También podemos tener una variable a la que se le asigna un "object" como contenido:
-
-`var a = {uno:"gato", dos:"perro", tres:"tortuga", cuatro:"iguana"};`
-
-En este caso, podemos pedir los contenidos del objeto *por su nombre*. Podemos obtener el valor "gato" cuando pedimos `a.uno`
+También podemos tener una variable a la que se le asigna un "object" como contenido: `var a = {uno:"gato", dos:"perro", tres:"tortuga", cuatro:"iguana"};`. En este caso, podemos pedir los contenidos del objeto *por su nombre*. Podemos obtener el valor "gato" cuando pedimos `a.uno`
 
 Luego podemos comenzar a mezclar:
 
