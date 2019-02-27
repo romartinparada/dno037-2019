@@ -12,7 +12,7 @@ Diseño y Nuevos Medios es un Optativo de Profundización en Diseño que:
 
 - exige la constante ejercitación y publicación de resultados en GitHub.
 
-El promedio final del optativo resulta del promedio entre 6 notas:  
+La nota final del optativo resulta del promedio entre 6 notas:  
 
 - 1 nota por asistencia, puntualidad y publicación de resultado (registro clase a clase);
 
