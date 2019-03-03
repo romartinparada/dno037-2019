@@ -58,7 +58,7 @@ Se proyecta la siguiente organización de las clases durante el semestre:
 
 **Clase 14 → Miércoles 12 de junio → Trabajo final 2/3 (dominio y hosting)**
 
-**Clase 15 → Miércoles 19 de junio → Trabajo final 3/3 (En línea, en su dominio y hosting)** 
+**Clase 15 → Miércoles 19 de junio → Trabajo final 3/3 (en línea; en su dominio y hosting)** 
 
 (viernes 21 de junio es la finalización de clases del primer período académico)
 
