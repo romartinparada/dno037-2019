@@ -1,6 +1,6 @@
 # Diseño y Nuevos Medios → Clase 6  
 
-### Miércoles 10 de abril → JS, DOM & variables
+### Miércoles 10 de abril → JS, variables & DOM 
 
 #### 1. JS
 
@@ -37,21 +37,7 @@ Como JS es un lenguaje de programación que comenzamos a explorar, es recomendab
 
 - [Cheatography JavaScript Cheat Sheet](https://www.cheatography.com/davechild/cheat-sheets/javascript/pdf_bw/)
 
-#### 2. DOM
-
-[DOM es Document Object Model](https://www.w3schools.com/js/js_htmldom.asp), Modelo en Objetos para la Representación de Documentos. A través del DOM, los programas escritos en JS pueden acceder y modificar el contenido, estructura y estilo de la representación de la página web. Por ejemplo:
-
-```
-<script>
-  document.getElementById("unique").style.color="#FF0000";
-</script>
-```
-
-En este ejemplo accedemos a la representación del documento para obtener el elemento de identidad `unique`. Este elemento será modificado con un cambio de estilo: Su color visto pasará a ser rojo.  
-
-Modificar la representación de una página web es como "photoshopear" una imagen. Si capturaste 3 elementos y con Photoshop agregas un cuarto, en ningún caso modificas la realidad capturada, pero todos podrán ver una imagen con 4 elementos. Lo que modificas es lo representado. No se puede alterar lo presentado.
-
-#### 3. Variables
+#### 2. Variables
 
 En programación, una variable está formada por un espacio en el sistema de almacenaje (memoria principal del computador) y un identificador asociado a dicho espacio. Este espacio contendrá una cantidad conocida o desconocida de datos, que pueden ir variando en la medida que el programa se ejecuta (y esta es la razón del nombre). 
 
@@ -73,7 +59,21 @@ Luego podemos comenzar a mezclar:
 var a = [ { name: "Sergey Prokopyev", craft: "ISS" }, { name: "Alexander Gerst", craft: "ISS" }];
 ```
 
-En este caso, si quisiera obtener el nombre "Sergey Prokopyek", tendría que ir por `a[0].name`, porque se trata de un arreglo (`[…]`), que contiene objetos (`[{…},{…},{…}]`).
+En este caso, si quisiera obtener el nombre "Sergey Prokopyek", tendría que ir por `a[0].name` o `a[0]["name"]`, porque se trata de un arreglo (`[…]`), que contiene objetos (`[{…},{…},{…}]`).
+
+#### 3. DOM
+
+[DOM es Document Object Model](https://www.w3schools.com/js/js_htmldom.asp), Modelo en Objetos para la Representación de Documentos. A través del DOM, los programas escritos en JS pueden acceder y modificar el contenido, estructura y estilo de la representación de la página web. Por ejemplo:
+
+```
+<script>
+  document.getElementById("unique").style.color="#FF0000";
+</script>
+```
+
+En este ejemplo accedemos a la representación del documento para obtener el elemento de identidad `unique`. Este elemento será modificado con un cambio de estilo: Su color visto pasará a ser rojo.  
+
+Modificar la representación de una página web es como "photoshopear" una imagen. Si capturaste 3 elementos y con Photoshop agregas un cuarto, en ningún caso modificas la realidad capturada, pero todos podrán ver una imagen con 4 elementos. Lo que modificas es lo representado. No se puede alterar lo presentado.
 
 - - - - - - -
 
