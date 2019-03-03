@@ -17,7 +17,7 @@ Si vas a crear tu cuenta ahora mismo, te recomiendo también crear tu primer rep
 
 #### 2. Editores de código fuente
 
-Utilizaremos programas diseñados específicamente para editar el código fuente de programas informáticos. Esta especificidad permite a estos Editores corregir o completar el código en la medida que se va escribiendo. La lista de editores de código fuentes disponibles amplia. En nuestro caso la limitaremos a las siguientes opciones:  
+La lista de editores de código fuentes disponibles amplia. En nuestro caso la limitaremos a las siguientes opciones:  
 
 - [Atom.io](https://atom.io/) - Editor de texto multiplataforma (Windows, Linux, and Mac), libre y open-source, desarrollado por los creadores de GitHub. 
 
@@ -25,7 +25,7 @@ Utilizaremos programas diseñados específicamente para editar el código fuente
 
 - [Brakets](http://brackets.io/) - Editor de texto open-source para desarrolladores FrontEnd que trabajen con HTML, CSS y JavaScript.
 
-El listado está organizado según preferencia (prefiera el primero, si no puede conseguir, vaya por el segundo; en caso que el primero y segundo fallen, vaya por el tercero).
+El listado está organizado según preferencia; prefiera el primero, si no puede conseguir, vaya por el segundo; en caso que el primero y segundo fallen, vaya por el tercero.
 
 
 #### 3. Coding (descripción v/s programación)
