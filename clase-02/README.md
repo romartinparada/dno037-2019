@@ -110,6 +110,8 @@ Habría una tercera posibilidad más de conectar un conjunto de reglas con un el
 
 - [Starting with HTML + CSS](https://www.w3.org/Style/Examples/011/firstcss.en.html)
 
+- [The Elements of Typographic Style Applied to the Web](http://webtypography.net/)
+
 - - - - - - - 
 
 ###### [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-03)
