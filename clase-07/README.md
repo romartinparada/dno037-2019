@@ -87,6 +87,14 @@ $.getJSON('https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_day.geo
   console.log(a);
 });
 ```
+Luego, la será la variable `a` la que contendrá los datos de tal JSON, de acuerdo a las "reglas gramaticales" que correspondan al caso; sea un objeto, un arreglo con objetos, un objeto con arreglos, etc. 
+
+Para el JSON que nos ofrece la USGS, la consulta por la magnitud del temblor más reciente es: 
+
+```a["features"][0]["properties"]["mag"]```
+
+La estructura y sus detalles se explican bajo el subtítulo de "Output" en: https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
+
 
 - - - - - - -
 
