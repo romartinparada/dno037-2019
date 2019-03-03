@@ -12,7 +12,7 @@ jQuery es una [biblioteca](https://es.wikipedia.org/wiki/Biblioteca_(informátic
 
 - el desarrollo de animaciones; y 
 
-- el uso de AJAX (Asynchronous JavaScript And XML; una tecnología que permite a una página web actualizarse de forma dinámica sin que tenga que cargarse completamente).
+- el uso de [AJAX](https://www.codementor.io/sheena/ajax-tutorial-web-development-du107rzaq) (Asynchronous JavaScript And XML; una tecnología que permite a una página web actualizarse de forma dinámica sin que tenga que cargarse completamente).
 
 jQuery se puede incluir o vincular a una página web entre etiquetas `<script></script>`. Y funcionará sí y sólo sí ya ha sido vinculada la biblioteca correspondiente: 
 
