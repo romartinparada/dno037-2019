@@ -91,7 +91,7 @@ Luego, la será la variable `a` la que contendrá los datos de tal JSON, de acue
 
 Para el JSON que nos ofrece la USGS, la consulta por la magnitud del temblor más reciente es: 
 
-```a["features"][0]["properties"]["mag"]```
+`a["features"][0]["properties"]["mag"]` ó `a.features[0].properties.mag`
 
 La estructura y sus detalles se explican bajo el subtítulo de "Output" en: https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
 
