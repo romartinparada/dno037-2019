@@ -2,7 +2,7 @@
 
 ### Pontificia Universidad Católica de Chile → Diseño → [Profesor FACO](http://profesor.faco.cl/)
 
-Diseño y Nuevos Medios es un Optativo de Profundización en Diseño que:
+Diseño y Nuevos Medios es un Optativo de Profundización en Diseño, que:
 
 - forma parte del [Certificado Académico Interdisciplinario en Desarrollo de Productos y Servicios Digitales](http://formaciongeneral.uc.cl/certificados-academicos/interdisciplinarios/725-desarrollo-de-productos-y-servicios-digitales);
 
