@@ -4,12 +4,11 @@
 
 #### 1. Github
 
-Es una plataforma de desarrollo colaborativo que utiliza el sistema de control de versiones Git. 
-**GitHub es una plataforma de desarrollo colaborativo**, que permite crear repositorios para subir proyectos cuyas versiones controlamos mediante Git (un sistema cuyo propósito es llevar registro de los cambios en archivos compartidos, para coordinar el trabajo entre varias personas).
+Es una plataforma de desarrollo colaborativo que utiliza el sistema de control de versiones [Git](https://git-scm.com/). Con el trabajo en repositorios, se puede llevar registro de cambios en archivos compartidos, para coordinar el trabajo entre varias personas.
 
 Es necesario que cada estudiante en Diseño y Nuevos Medios tenga [su cuenta personal en GitHub](https://github.com/join).
 
-Si vas a crear tu cuenta ahora mismo, te recomiendo también crear tu primer repositorio. El proceso es muy sencillo: 
+Una vez creada la cuenta, es necesario crear un primer repositorio con GitHub: 
 
 - En la página de "Repositories" encontrarás un botón verde, que dice "New". Presiona ese botón. Eso te llevará a una nueva página, donde tienes que escribir un "Repository name", evita que ese nombre tenga tildes o acentos, y prefiere usar una única palabra (si necesitas usar dos o más palabras, usa guión entre ellas). GitHub revisará si puedes usar el nombre ingresado, y te dará un ticket verde cuando sí se pueda. Por ahora puedes saltarte la "Description". Luego tienes que dejar seleccionada la opción "Public" y **tienes marcar un ticket en la opción de "Initialize this repository with a README"**. Para terminar, dale click al botón verde de "Create repository".
 
@@ -17,7 +16,7 @@ Si vas a crear tu cuenta ahora mismo, te recomiendo también crear tu primer rep
 
 #### 2. Editores de código fuente
 
-La lista de editores de código fuentes disponibles amplia. En nuestro caso la limitaremos a las siguientes opciones:  
+Hay muchos editores de código fuente en el mercado. En nuestro caso, nos limitaremos a las siguientes opciones:  
 
 - [Atom.io](https://atom.io/) - Editor de texto multiplataforma (Windows, Linux, and Mac), libre y open-source, desarrollado por los creadores de GitHub. 
 
