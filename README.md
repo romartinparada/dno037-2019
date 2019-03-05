@@ -67,3 +67,19 @@ Clase 16 → Miércoles 26 de junio → Entrega de notas
 Clase 17 → Miércoles 3 de julio → Sin clases 
 
 (vacaciones de invierno entre sábado de 6 al domingo 21 de julio)
+
+#### Bibliografía
+
+[O'Reilly](http://shop.oreilly.com/) ofrece un par de colecciones que podrían ofrecer referencias útiles: *The Good Parts* y *Pocket References*. En el desarrollo del Optativo, convendría consultar: 
+
+- Crockford, D. (2008). *JavaScript: The Good Parts*
+- Flanagan, D. (2010). *jQuery: Pocket Reference: Read Less Do More*
+- MacIntyre, P. (2010). *PHP: The Good Parts: Delivering the Best of PHP*
+- Meyer, E.A. (2018). *CSS Pocket Reference: Visual Presentation for the Web (5th Edition)*
+- Robbins, J.N. (2013). *HTML5 Pocket Reference: Quick, Comprehensive, Indispensable*
+
+[A Book Apart](https://abookapart.com/) también les puede ser útil. Su colección recomendada para el Optativo es *…for web designers*:
+
+- Marquis, M. (2016). *Javascript for web designers*
+- Cederholm, D. (2014) *CSS3 for web designers*
+- Keith, J. & Andrew, R. (2010). *HTML5 for web designers*
