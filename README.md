@@ -72,7 +72,7 @@ Clase 17 → Miércoles 3 de julio → Sin clases
 
 [O'Reilly](http://shop.oreilly.com/) ofrece un par de colecciones que podrían servir de referencia: "The Good Parts" y "Pocket References". En el desarrollo del Optativo, podrían consultar: 
 
-- Crockford, D. (2008). *JavaScript: The Good Parts*
+- Crockford, D. (2008). *JavaScript: The Good Parts: Unearthing the Excellence in JavaScript*
 - Flanagan, D. (2010). *jQuery: Pocket Reference: Read Less Do More*
 - MacIntyre, P. (2010). *PHP: The Good Parts: Delivering the Best of PHP*
 - Meyer, E.A. (2018). *CSS Pocket Reference: Visual Presentation for the Web (5th Edition)*
