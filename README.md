@@ -70,7 +70,7 @@ Clase 17 → Miércoles 3 de julio → Sin clases
 
 #### Bibliografía
 
-[O'Reilly](http://shop.oreilly.com/) ofrece un par de colecciones que podrían servir de referencia: *The Good Parts* y *Pocket References*. En el desarrollo del Optativo, podrían consultar: 
+[O'Reilly](http://shop.oreilly.com/) ofrece un par de colecciones que podrían servir de referencia: "The Good Parts" y "Pocket References". En el desarrollo del Optativo, podrían consultar: 
 
 - Crockford, D. (2008). *JavaScript: The Good Parts*
 - Flanagan, D. (2010). *jQuery: Pocket Reference: Read Less Do More*
@@ -78,7 +78,7 @@ Clase 17 → Miércoles 3 de julio → Sin clases
 - Meyer, E.A. (2018). *CSS Pocket Reference: Visual Presentation for the Web (5th Edition)*
 - Robbins, J.N. (2013). *HTML5 Pocket Reference: Quick, Comprehensive, Indispensable*
 
-[A Book Apart](https://abookapart.com/) también les puede ser útil. Su colección recomendada para el Optativo es *…for web designers*:
+[A Book Apart](https://abookapart.com/) también les puede ser útil. Su colección recomendada para el Optativo es "…for web designers":
 
 - Marquis, M. (2016). *Javascript for web designers*
 - Cederholm, D. (2014) *CSS3 for web designers*
