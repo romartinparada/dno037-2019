@@ -75,7 +75,7 @@ Clase 17 → Miércoles 3 de julio → Sin clases
 - Crockford, D. (2008). *JavaScript: The Good Parts: Unearthing the Excellence in JavaScript*
 - Flanagan, D. (2010). *jQuery: Pocket Reference: Read Less, Learn More*
 - MacIntyre, P. (2010). *PHP: The Good Parts: Delivering the Best of PHP*
-- Meyer, E.A. (2018). *CSS Pocket Reference: Visual Presentation for the Web (5th Edition)*
+- Meyer, E.A. (2018). *CSS Pocket Reference: Visual Presentation for the Web*
 - Robbins, J.N. (2013). *HTML5 Pocket Reference: Quick, Comprehensive, Indispensable*
 
 [A Book Apart](https://abookapart.com/) también les puede ser útil. Su colección recomendada para el Optativo es "…for web designers":
