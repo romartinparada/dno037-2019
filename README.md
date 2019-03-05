@@ -70,7 +70,7 @@ Clase 17 → Miércoles 3 de julio → Sin clases
 
 #### Bibliografía
 
-[O'Reilly](http://shop.oreilly.com/) ofrece un par de colecciones que podrían ofrecer referencias útiles: *The Good Parts* y *Pocket References*. En el desarrollo del Optativo, convendría consultar: 
+[O'Reilly](http://shop.oreilly.com/) ofrece un par de colecciones que podrían servir de referencia: *The Good Parts* y *Pocket References*. En el desarrollo del Optativo, podrían consultar: 
 
 - Crockford, D. (2008). *JavaScript: The Good Parts*
 - Flanagan, D. (2010). *jQuery: Pocket Reference: Read Less Do More*
