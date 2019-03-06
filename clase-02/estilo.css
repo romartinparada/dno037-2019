@@ -1,0 +1,59 @@
+@keyframes colores {
+  from {background: rgba(127, 217, 243, 1.00);}
+  to {background: rgba(0, 200, 231, 1.00);}
+}
+
+body {
+  color:#37474f;
+  padding:0; 
+  margin:0; 
+  font-family: Helvetica, Arial, sans-serif; 
+  line-height: 1.75;
+  overflow-x: hidden;
+  animation-name: colores;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;  
+}
+
+a{
+  color:#222;
+}
+
+a:hover{
+  color:#000;
+  text-decoration: none;
+}
+
+:lang(en){
+  font-style: italic;
+}
+
+h1,h2{margin:0; padding:0;}
+
+.hidden{
+    display: none;
+}
+
+.imagen{
+  height:60vh;
+  width:100vw;
+  background:white url('img/nadar.jpg') center center no-repeat;
+  backgroun-size:cover;
+}
+
+.texto{
+  padding:2rem 6rem 4rem 6rem;
+}
+
+pre{
+  overflow-x: auto;
+  background:rgba(255,255,255,0.25);
+  padding:0.5rem;
+  margin:1rem -0.5rem 1.75rem -0.5rem;
+}
+
+code{
+  font-size:90%;
+  color:#c00;  
+}
