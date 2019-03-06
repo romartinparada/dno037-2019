@@ -96,6 +96,10 @@ Habría una tercera posibilidad más de conectar un conjunto de reglas con un el
 <p style="color:red;">esto es un párrafo en rojo</p>
 ```
 
+#### Aplicación
+
+https://profesorfaco.github.io/dno037-2019/clase-02/
+
 - - - - - 
 
 #### Referencias:
