@@ -1,6 +1,21 @@
-@keyframes colores {
-  from {background: rgba(127, 217, 243, 1.00);}
-  to {background: rgba(0, 200, 231, 1.00);}
+/* 
+Los comentarios en CSS se escriben entre estos signos 
+Los comentarios no afectan a lo que se describa mediante CSS
+*/
+
+/* 
+Partamos con la regla-arroba @keyframes - https://developer.mozilla.org/es/docs/Web/CSS/@keyframes
+Esta es uno de cuatro reglas-arroba que revisaremos hoy, las restantes serán @media, @import y @font-face
+https://developer.mozilla.org/es/docs/Web/CSS/At-rule#Grupos_de_Reglas_Condicionales
+*/
+
+@keyframes agua {
+  from {
+    background: rgba(127, 217, 243, 1.00);
+  }
+  to {
+    background: rgba(0, 200, 231, 1.00);
+  }
 }
 
 body {
@@ -10,14 +25,18 @@ body {
   font-family: Helvetica, Arial, sans-serif; 
   line-height: 1.75;
   overflow-x: hidden;
-  animation-name: colores;
-  animation-duration: 3s;
+  /* a continuación llamaré a la animación definada más arriba */
+  animation-name: agua; 
+  animation-duration: 5s;
+  animation-timing-function: ease;
   animation-iteration-count: infinite;
-  animation-direction: alternate;  
+  animation-direction: alternate;
+  /* más sobre animación en https://developer.mozilla.org/es/docs/Web/CSS/animation */
 }
 
 a{
   color:#222;
+  transition: all ease 1s;
 }
 
 a:hover{
@@ -31,21 +50,6 @@ a:hover{
 
 h1,h2{margin:0; padding:0;}
 
-.hidden{
-    display: none;
-}
-
-.imagen{
-  height:60vh;
-  width:100vw;
-  background:white url('img/nadar.jpg') center center no-repeat;
-  backgroun-size:cover;
-}
-
-.texto{
-  padding:2rem 6rem 4rem 6rem;
-}
-
 pre{
   overflow-x: auto;
   background:rgba(255,255,255,0.25);
@@ -54,6 +58,48 @@ pre{
 }
 
 code{
-  font-size:90%;
-  color:#c00;  
+  color:#666;  
 }
+
+.hidden{
+    display: none;
+}
+
+#scrolling{
+  position: fixed;
+  right: 1rem;
+  bottom: 1rem;
+  display: none;
+  width: auto;
+  height: auto;
+  text-align: center;
+  background: none;
+}
+
+.imagen{
+  height:60vh;
+  width:100vw;
+  background:white url('img/flotar.jpg') center center no-repeat;
+  backgroun-size:cover;
+}
+
+.texto{
+  padding:2rem 6rem 4rem 6rem;
+}
+
+/* 
+A continuación se usa otra regla-arroba.
+Esta nos permita re-escribir descripciones según condición medial 
+https://developer.mozilla.org/es/docs/Web/CSS/@media 
+*/
+
+@media screen and (max-width:576px){
+
+  .imagen{
+    height:50vh;
+  }  
+  .texto{
+    padding:2rem 2rem 4rem 2rem;
+  }
+}
+

@@ -18,4 +18,12 @@ $(document).ready(function(){
   var month = months[the_month]
   // Crear un contenido que será incluido entre etiquetas small
   $("small").html('Hoy es ' + today + ' ' + d.getDate() + ' de ' + month + ', ' + d.getFullYear());
+  $(window).scroll(function() {
+    var scrollDistance = $(this).scrollTop();
+    if (scrollDistance > 300) {
+      $('#scrolling').fadeIn();
+    } else {
+      $('#scrolling').fadeOut();
+    }
+  });
 });
