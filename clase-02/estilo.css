@@ -60,6 +60,7 @@ pre{
 pre:hover{
   background:rgba(255,255,255,0.4);
   transition: background ease 1s;
+  cursor:crosshair;
 }
 
 code{
