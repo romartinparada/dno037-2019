@@ -106,7 +106,7 @@ https://profesorfaco.github.io/dno037-2019/clase-02/
 
 - ANDRADES → https://camianmu.github.io/Clase_02/
 
-- BARRA →	…
+- BARRA →	sin repositorio
 
 - BEOVIC → https://alexabeovic.github.io/clase-2/
 
@@ -114,7 +114,7 @@ https://profesorfaco.github.io/dno037-2019/clase-02/
 
 - CODRIANSKY → https://debic.github.io/Clase_02/
 
-- COLOMBRES →	…
+- COLOMBRES →	sin repositorio
 
  - GARCIA-HUIDOBRO → https://marigarciahuidobro.github.io/clase_02/
 
@@ -122,23 +122,23 @@ https://profesorfaco.github.io/dno037-2019/clase-02/
 
 - GONZALEZ → https://rosariogonzalez.github.io/clase_2/
 
-- HERRERA → …
+- HERRERA → sin repositorio
 
 - HINOSTROZA → https://sofiahm.github.io/clase_02/
 
-- IRARRÁZAVAL → https://github.com/mdirarrazaval1/clase_2
+- IRARRÁZAVAL → repositorio vacío
 
 - KEGEVIC → https://fkegevic.github.io/clase2/
 
-- LEÓN →	…
+- LEÓN →	sin repositorio
 
-- LILLO →	…
+- LILLO →	sin repositorio
 
 - LOPEZ → https://franciscaldeh.github.io/clase2/
 
 - MARMIÉ → https://vimarmie.github.io/clase02_nadando/
 
-- MARTIN →	…
+- MARTIN → sin repositorio
 
 - MORANDÉ → https://isidoramorande.github.io/clase-02/
 
@@ -146,13 +146,13 @@ https://profesorfaco.github.io/dno037-2019/clase-02/
 
 - SIDGMAN → https://rosidgman.github.io/clase_02/
 
-- SILVA →	…
+- SILVA →	sin repositorio
 
 - SOLIS → https://vaniacarolina.github.io/clase_2/
 
 - SUÁREZ → https://mariaceciliasuarez.github.io/Clase_02/
 
-- URIBE →	…
+- URIBE →	sin repositorio
 
 - ZAÑARTU → https://domingazanartu.github.io/clase2/
 
