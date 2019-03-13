@@ -100,7 +100,7 @@ Habría una tercera posibilidad más de conectar un conjunto de reglas con un el
 
 https://profesorfaco.github.io/dno037-2019/clase-02/
 
-**Estudiantes: Se encarga crear repositorio para esta clase, y subir documentos correspondientes (`index.html`, `estilo.css` e `interactuar.js`)**
+**Se encarga crear repositorio para esta clase, y subir documentos correspondientes (`index.html`, `estilo.css` e `interactuar.js`)**
 
 - AMENÁBAR → https://imamenabar.github.io/clase_02/
 
