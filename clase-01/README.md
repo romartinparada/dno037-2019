@@ -33,6 +33,66 @@ Cuando trabajamos con código fuente podemos describir o programar. HTML y CSS n
 
 Para comenzar a conocer estos lenguajes de descripción y programación, aprovechemos el siguiente repositorio: https://github.com/profesorfaco/bases 
 
+-----
+
+#### Aplicación
+
+**Se encarga obtener cuenta en GitHub, y crear un repositorio de prueba:**
+
+- AMENÁBAR → https://github.com/imamenabar/
+
+- ANDRADES → https://github.con/camianmu/
+
+- BARRA →	https://github.com/sabarra
+
+- BEOVIC → https://github.com/alexabeovic/
+
+- CLARK → https://github.com/mariaignaciaclark/
+
+- CODRIANSKY → https://github.com/debic/
+
+- COLOMBRES →	ausente
+
+- GARCIA-HUIDOBRO → https://github.com/marigarciahuidobro/
+
+- GODOY → https://github.com/gabrielagodoy/
+
+- GONZALEZ → https://github.com/rosariogonzalez/
+
+- HERRERA → ausente
+
+- HINOSTROZA → https://github.com/sofiahm/
+
+- IRARRÁZAVAL → https://github.com/mdirarrazaval1
+
+- KEGEVIC → https://github.com/fkegevic/
+
+- LEÓN → ausente
+
+- LILLO →	ausente
+
+- LOPEZ → https://github.com/franciscaldeh/
+
+- MARMIÉ → https://github.com/vimarmie/
+
+- MARTIN → https://github.com/romartinparada
+
+- MORANDÉ → https://github.com/isidoramorande/
+
+- OLIVARES → https://github.com/apolivares/
+
+- SIDGMAN → ausente
+
+- SILVA →	https://github.com/esilva99
+
+- SOLIS → https://vaniacarolina.github.io/clase_2/
+
+- SUÁREZ → https://github.com/mariaceciliasuarez/
+
+- URIBE →	ausente
+
+- ZAÑARTU → https://domingazanartu.github.io/clase2/
+
 - - - - - - -
 
 #### Referencias 
