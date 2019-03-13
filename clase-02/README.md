@@ -100,6 +100,62 @@ Habría una tercera posibilidad más de conectar un conjunto de reglas con un el
 
 https://profesorfaco.github.io/dno037-2019/clase-02/
 
+**Estudiantes: Se encarga crear repositorio para esta clase, y subir documentos correspondientes (`index.html`, `estilo.css` e `interactuar.js`)**
+
+- AMENÁBAR → https://imamenabar.github.io/clase_02/
+
+- ANDRADES → https://camianmu.github.io/Clase_02/
+
+- BARRA →	…
+
+- BEOVIC → https://alexabeovic.github.io/clase-2/
+
+- CLARK → https://mariaignaciaclark.github.io/clase_02/
+
+- CODRIANSKY → https://debic.github.io/Clase_02/
+
+- COLOMBRES →	…
+
+ - GARCIA-HUIDOBRO → https://marigarciahuidobro.github.io/clase_02/
+
+- GODOY → https://gabrielagodoy.github.io/Clase_02/
+
+- GONZALEZ → https://rosariogonzalez.github.io/clase_2/
+
+- HERRERA → …
+
+- HINOSTROZA → https://sofiahm.github.io/clase_02/
+
+- IRARRÁZAVAL → https://github.com/mdirarrazaval1/clase_2
+
+- KEGEVIC → https://fkegevic.github.io/clase2/
+
+- LEÓN →	…
+
+- LILLO →	…
+
+- LOPEZ → https://franciscaldeh.github.io/clase2/
+
+- MARMIÉ → https://vimarmie.github.io/clase02_nadando/
+
+- MARTIN →	…
+
+- MORANDÉ → https://isidoramorande.github.io/clase-02/
+
+- OLIVARES → https://apolivares.github.io/clase_02/
+
+- SIDGMAN → https://rosidgman.github.io/clase_02/
+
+- SILVA →	…
+
+- SOLIS → https://vaniacarolina.github.io/clase_2/
+
+- SUÁREZ → https://mariaceciliasuarez.github.io/Clase_02/
+
+- URIBE →	…
+
+- ZAÑARTU → https://domingazanartu.github.io/clase2/
+
 - - - - - 
 
 #### Referencias:
