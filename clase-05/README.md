@@ -10,8 +10,8 @@ Se considerarán:
 - Metadatos (buscadores, twitter y open-graph)(0,5)
 - Favicon en formato PNG (0,5)
 - Uso de bootstrap (1,0)
-- Hoja de estilo complementaria, que incluya 3 reglas @ (1,0)
-- Ajustes de la plantilla, para incluir 5 etiquetas para los medios (1,0)
+- Hoja de estilo complementaria, que incluya 2 reglas @ (0,5 por regla en uso)
+- Ajustes de la plantilla, para incluir 5 etiquetas para los medios (0,2 por etiqueta)
 - Implementación de un efecto jQuery (1,0)
 - El resultado destaca sobre el nivel del curso (1,0)
 
