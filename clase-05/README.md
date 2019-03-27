@@ -7,7 +7,8 @@ Evaluación parcial (1 de 6 notas). Los criterios de evaluación serán definido
 Se considerarán: 
 
 - Punto base (1,0)
-- Metadatos, para buscadores, twitter y open-graph (1,0)
+- Metadatos (buscadores, twitter y open-graph)(0,5)
+- Favicon en formato PNG (0,5)
 - Uso de bootstrap (1,0)
 - Hoja de estilo complementaria, que incluya 3 reglas @ (1,0)
 - Ajustes de la plantilla, para incluir 5 etiquetas para los medios (1,0)
