@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
+
+body {
+	font-family: 'Abril Fatface', cursive;
+	padding-top: 3.5rem;
+}
+
+.jumbotron{
+	background: linear-gradient(to bottom, rgba(255, 200, 200, 0.45) 0%, rgba(255, 200, 200, 0.9) 100%), url("https://img.chilango.com/2018/10/nueva-pel%C3%ADcula-de-bob-esponja.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center center;
+}
+
+
+
+/*
+
+	background: linear-gradient(to bottom, rgba(255, 200, 200, 0.45) 0%, rgba(255, 200, 200, 0.9) 100%), url("http://…");
+
+*/
