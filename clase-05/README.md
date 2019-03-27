@@ -13,7 +13,7 @@ Se considerarán:
 - Hoja de estilo complementaria, que incluya 2 reglas @ (0,5 por regla en uso)
 - Ajustes de la plantilla, para incluir 5 etiquetas para los medios (0,2 por etiqueta)
 - Implementación de un efecto jQuery (1,0)
-- El resultado destaca sobre el nivel del curso (1,0)
+- El resultado destaca sobre el nivel del curso (0 bajo el nivel || 0,5 justo en el nivel || 1,0 sobre el nivel)
 
 
 - - - - - - - 
