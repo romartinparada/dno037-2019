@@ -6,15 +6,16 @@ Evaluación parcial (1 de 6 notas). Los criterios de evaluación serán definido
 
 Se considerarán: 
 
-- Punto base (1,0)
-- Metadatos (buscadores, twitter y open-graph)(0,5)
-- Favicon en formato PNG (0,5)
-- Uso de bootstrap (1,0)
-- Hoja de estilo complementaria, que incluya 2 reglas @ (0,5 por regla en uso)
-- Ajustes de la plantilla, para incluir 5 etiquetas para los medios (0,2 por etiqueta)
-- Implementación de un efecto jQuery (1,0)
-- El resultado destaca sobre el nivel del curso (0 bajo el nivel || 0,5 justo en el nivel || 1,0 sobre el nivel)
-
+| Criterio                                                | Puntaje |
+|:--------------------------------------------------------|:-------:|
+| Punto base                                              |   1,0   |
+| Metadatos (buscadores, twitter y open-graph)            |   0,5   |
+| Favicon en formato PNG                                  |   0,5   |
+| Uso de bootstrap                                        |   1,0   |
+| Personalización de la plantilla                         |   1,0   |
+| Hoja de estilo complementaria, que incluya 2 reglas @   |   1,0   |
+| Implementación de un efecto jQuery (modal)              |   1,0   |
+| El resultado respecto del nivel del curso               |   0 bajo el nivel · 0,5 justo en el nivel · 1,0 sobre el nivel |
 
 - - - - - - - 
 
