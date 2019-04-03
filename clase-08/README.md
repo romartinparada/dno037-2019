@@ -18,7 +18,7 @@ Ahora noten la diferencia del ejemplo recién escrito con el que sigue:
 var a = JSON.parse('[{ "name": "Sergey Prokopyev", "craft": "ISS" }, { "name": "Alexander Gerst", "craft": "ISS" }]');
 ```
 
-Básicamente, el único cambio está en que los denominadores `name`, y `craft` se presentan entre comillas. Cuando se presentan de tal manera ya no tenemos objetos en Javascript. Lo que ahora tenemos es JSON (JavaScript Object Notation).
+Básicamente, el único cambio está en que los denominadores `name`, y `craft` se presentan entre comillas. Cuando se presentan de tal manera ya no tenemos objetos en Javascript. Lo que tenemos es JSON (JavaScript Object Notation), y por eso se hace necesario el [JSON.parse](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/JSON/parse)
 
 Luego, para hacer intercambio, los datos pueden "vivir" de modo independiente. Por ejemplo: https://api.myjson.com/bins/unf1s
 
