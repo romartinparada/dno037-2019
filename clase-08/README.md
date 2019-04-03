@@ -1,6 +1,6 @@
 # Diseño y Nuevos Medios → Clase 8  
 
-### Miércoles 17 de abril → JS → jQuery, JSON & otros
+### Miércoles 24 de abril → jQuery & JSON
 
 jQuery es una [biblioteca](https://es.wikipedia.org/wiki/Biblioteca_(informática)) de JS que simplifica:
 
