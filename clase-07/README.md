@@ -77,6 +77,7 @@ En este caso, si quisiera obtener el nombre "Sergey Prokopyek", tendría que ir 
 
 ```
 <script>
+  var a = [ { name: "Sergey Prokopyev", craft: "ISS" }, { name: "Alexander Gerst", craft: "ISS" }];
   document.getElementById("unique").innerHTML = a[0].name;
 </script>
 ```
