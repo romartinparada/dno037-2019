@@ -1,6 +1,6 @@
 # Diseño y Nuevos Medios → Clase 7  
 
-### Miércoles 17 de abril → jQuery & JSON
+### Miércoles 17 de abril → JS, variables & DOM
 
 #### 1. JS
 
