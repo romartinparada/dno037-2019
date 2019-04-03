@@ -4,7 +4,7 @@
 
 #### JSON
 
-[JSON (JavaScript Object Notation)](https://www.json.org/json-es.html) es un formato de texto sencillo para el intercambio de datos. Uno puede tomar un JSON en línea y "parsearlo" para que sus datos se conviertan en los datos de una variable en un JS. 
+[JSON (JavaScript Object Notation)](https://www.json.org/json-es.html) es un formato de texto sencillo para el intercambio de datos. 
 
 La clase [recién pasada](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-07) revisamos cómo funcionan las variables en JS. Llegamos hasta un ejemplo donde una variable de nombre `a` contenía un arreglo con dos objetos.
 
@@ -34,7 +34,7 @@ request.onload = function () {
 request.send();	
 ```
 
-Pero mucho más sencillo resultaría incluirlo si usamos jQuery:
+Pero mucho más sencillo resultaría si usamos jQuery:
 
 ```
 $.getJSON('https://api.myjson.com/bins/unf1s', function(a) {
