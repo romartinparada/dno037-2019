@@ -119,8 +119,8 @@ $(document).ready(function(){
 Obviamente, para que esto funcione, dentro del documento HTML debería tener un elemento con clase `test` y un botón: 
 
 ```
-  <div class="test"></div>
-  <button>Botón</button>
+<div class="test"></div>
+<button>Botón</button>
 ```
 
 - - - - - - -
