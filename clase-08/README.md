@@ -20,9 +20,9 @@ var a = JSON.parse('[{ "name": "Sergey Prokopyev", "craft": "ISS" }, { "name": "
 
 Básicamente, el único cambio está en que los denominadores `name`, y `craft` se presentan entre comillas. Cuando se presentan de tal manera ya no tenemos objetos en Javascript. Lo que tenemos es JSON, y por eso se hace necesario utilizar el método [JSON.parse](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/JSON/parse)
 
-Luego, si JSON es un formato de texto sencillo para el intercambio de datos, lo más lógico es que tenga cierta independencia, y podemos dársela compartiéndolo de modo independiente, como en: https://api.myjson.com/bins/unf1s
+Siendo JSON un formato de texto sencillo para el intercambio de datos, lo más lógico es que tenga cierta independencia; podemos dársela si lo compartimos de modo independiente, como en: https://api.myjson.com/bins/unf1s
 
-Si necesitamos ir por esos datos, para *parsearlo* en una variable de JavaScript de nombre `a`, que luego se muestre en la consola, tendríamos que escribir: 
+Luego, si necesitamos ir por esos datos, para *parsearlo* en una variable de JavaScript de nombre `a`, para que luego se muestren en la consola, tendríamos que escribir: 
 
 ```
 var request = new XMLHttpRequest();
@@ -34,7 +34,7 @@ request.onload = function () {
 request.send();	
 ```
 
-Pero mucho más sencillo resultaría si usamos jQuery:
+Pero el asunto se simplificaría si usamos jQuery:
 
 ```
 $.getJSON('https://api.myjson.com/bins/unf1s', function(a) {
@@ -67,7 +67,7 @@ Luego, para utilizar los atajos que ofrece esta biblioteca hay que recordar que,
 
 ```$("sujeto").predicado();```
 
-Así, por ejemplo, podemos escribir `$(".test").hide()` para indicar que queremos esconder (*hide*) a todos los elementos con clase `test`. ¿Pero bajo qué condiciones esconderlos? Esa condición aún no la definimos, y podríamos hacerlo de la siguiente manera:
+Así, por ejemplo, podemos escribir `$(".test").hide()` para indicar que queremos esconder (*hide*) a todos los elementos con clase `test`. ¿Pero bajo qué condiciones esconderlos? Esa condición aún no la definimos, y podríamos hacerlo repitiendo la estructura de la oración:
  
 ```
 $("button").click(function(){
@@ -87,17 +87,40 @@ $(document).ready(function(){
 });
 ```
 
-Si juntamos todo lo expuesto, tenemos lo siguiente: 
+Si juntamos todo lo recién, tenemos lo siguiente: 
 
 ```
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script>
 $(document).ready(function(){
   $("button").click(function(){
-    $(".test").hide(1000);
+    $(".test").hide();
   });
 });
 </script>
+```
+
+Y para cerrar, imaginemos que lo que necesitamos esconder es el primer nombre de los que encontramos en https://api.myjson.com/bins/unf1s
+
+```
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+  $.getJSON('https://api.myjson.com/bins/unf1s', function(a) {
+    $(".test").append(a[0].name);
+    $("button").click(function(){
+      $(".test").hide();
+    });
+  });
+});
+</script>
+```
+
+Obviamente, para que esto funcione, dentro del documento HTML debería tener un elemento con clase `test` y un botón: 
+
+```
+  <div class="test"></div>
+  <button>Botón</button>
 ```
 
 - - - - - - -
