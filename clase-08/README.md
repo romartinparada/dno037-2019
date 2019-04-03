@@ -127,6 +127,20 @@ Obviamente, para que esto funcione, dentro del documento HTML debería tener un 
 
 #### Referencias:
 
+JSON:
+
+- [{ } myjson - A simple JSON store for your web or mobile app](http://myjson.com/)
+
+- [A collection of small corpuses of interesting data for the creation of bots and similar stuff](https://github.com/dariusk/corpora)
+
+- [crossorigin.me](https://corsproxy.github.io/)
+
+- [JSONLint - The JSON Validator](https://jsonlint.com/)
+
+- [Open Notify - Open APIs From Space](http://open-notify.org/)
+
+- [USGS - GeoJSON Summary Format](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)
+
 jQuery:
 
 - [Conceptos básicos de jQuery](https://www.arkaitzgarro.com/jquery/capitulo-3.html#conceptos-basicos-de-jquery)
@@ -138,14 +152,6 @@ jQuery:
 - [Quakit - jQuery Tutorial](https://www.quackit.com/jquery/tutorial/what_is_jquery.cfm)
 
 - [w3schools - jQuery Tutorial](https://www.w3schools.com/jquery/default.asp)
-
-JSON:
-
-- https://github.com/dariusk/corpora
-
-- https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
-
-- https://jsonlint.com/
 
 
 - - - - - - - 
