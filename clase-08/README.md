@@ -6,6 +6,20 @@
 
 [JSON (JavaScript Object Notation)](https://www.json.org/json-es.html) es un formato de texto sencillo para el intercambio de datos. Uno puede tomar un JSON en línea y "parsearlo" para que sus datos se conviertan en los datos de una variable en un JS. 
 
+La clase [recién pasada](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-07) revisamos cómo funcionan las variables en JS. Llegamos hasta un ejemplo donde una variable de nombre `a` contenía un arreglo con dos objetos.
+
+var a = [{ name: "Sergey Prokopyev", craft: "ISS" }, { name: "Alexander Gerst", craft: "ISS" }];
+
+Ahora noten la diferencia del ejemplo recién escrito con el que sigue: 
+
+var a = JSON.parse('[{ "name": "Sergey Prokopyev", "craft": "ISS" }, { "name": "Alexander Gerst", "craft": "ISS" }]');
+
+Básicamente, el único cambio está en que los denominadores `name`, y `craft` se presentan entre comillas. Cuando se presentan de tal manera ya no tenemos objetos en Javascript. Lo que ahora tenemos es JSON (JavaScript Object Notation).
+
+Luego, para hacer intercambio, los datos pueden "vivir" de modo independiente. Por ejemplo: https://api.myjson.com/bins/unf1s
+
+De hecho, el ejemplo que hemos estado usando se basa en un documento que es constantemente actualizado en tal formato: http://api.open-notify.org/astros.json
+
 #### jQuery
 
 Para comenzar a explorar jQuery es conveniente tener un ayudamemoria a la mano: [jQuery CheatSheet](https://htmlcheatsheet.com/jquery/). jQuery es una [biblioteca](https://es.wikipedia.org/wiki/Biblioteca_(informática)) de JS que simplifica:
