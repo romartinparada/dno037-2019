@@ -8,11 +8,11 @@
 
 La clase [recién pasada](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-07) revisamos cómo funcionan las variables en JS. Llegamos hasta un ejemplo donde una variable de nombre `a` contenía un arreglo con dos objetos.
 
-var a = [{ name: "Sergey Prokopyev", craft: "ISS" }, { name: "Alexander Gerst", craft: "ISS" }];
+`var a = [{ name: "Sergey Prokopyev", craft: "ISS" }, { name: "Alexander Gerst", craft: "ISS" }];`
 
 Ahora noten la diferencia del ejemplo recién escrito con el que sigue: 
 
-var a = JSON.parse('[{ "name": "Sergey Prokopyev", "craft": "ISS" }, { "name": "Alexander Gerst", "craft": "ISS" }]');
+`var a = JSON.parse('[{ "name": "Sergey Prokopyev", "craft": "ISS" }, { "name": "Alexander Gerst", "craft": "ISS" }]');`
 
 Básicamente, el único cambio está en que los denominadores `name`, y `craft` se presentan entre comillas. Cuando se presentan de tal manera ya no tenemos objetos en Javascript. Lo que ahora tenemos es JSON (JavaScript Object Notation).
 
