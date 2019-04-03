@@ -2,7 +2,7 @@
 
 ### Miércoles 3 de abril → PARO
 
-Diseño adhiere al paro de actividades académicas para los días 3, 4 y 5 de abril, en apoyo a la causa levantada en Campus Oriente.
+Diseño adhiere al paro de actividades académicas convocado para los días 3, 4 y 5 de abril, en apoyo a la causa levantada en Campus Oriente.
 
 Con 472 votos emitidos, la opción de adherir al paro ganó con 417 votos. La opción de rechazo obtuvo 50 votos, nulos 4 y blancos 1.
 
