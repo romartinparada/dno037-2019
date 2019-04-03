@@ -1,8 +1,14 @@
 # Diseño y Nuevos Medios → Clase 8  
 
-### Miércoles 24 de abril → jQuery & JSON
+### Miércoles 24 de abril → JSON & jQuery
 
-jQuery es una [biblioteca](https://es.wikipedia.org/wiki/Biblioteca_(informática)) de JS que simplifica:
+#### JSON
+
+[JSON (JavaScript Object Notation)](https://www.json.org/json-es.html) es un formato de texto sencillo para el intercambio de datos. Uno puede tomar un JSON en línea y "parsearlo" para que sus datos se conviertan en los datos de una variable en un JS. 
+
+#### jQuery
+
+Para comenzar a explorar jQuery es conveniente tener un ayudamemoria a la mano: [jQuery CheatSheet](https://htmlcheatsheet.com/jquery/). jQuery es una [biblioteca](https://es.wikipedia.org/wiki/Biblioteca_(informática)) de JS que simplifica:
 
 - la manipulación del DOM; 
 
@@ -58,15 +64,7 @@ $(document).ready(function(){
 </script>
 ```
 
-Para comenzar a explorar jQuery es conveniente tener un ayudamemoria a la mano: [jQuery CheatSheet](https://htmlcheatsheet.com/jquery/)
-
-#### JSON
-
-[JSON (JavaScript Object Notation)](https://www.json.org/json-es.html) es un formato de texto sencillo para el intercambio de datos. Uno puede tomar un JSON en línea y "parsearlo" para que sus datos se conviertan en los datos de una variable en un JS. 
-
-Tomemos, por ejemplo, este JSON con un sumario de los últimos movimientos telúricos sobre 4.5 que han sido registrados en las últimas 24 horas la USGS: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_day.geojson
-
-Para almacenar sus datos en una variable de nombre `a` utilizando JS, tenemos que escribir:
+Además de eso, jQuery puede ayudarnos a tomar datos de un JSON. Para almacenar sus datos en una variable de nombre `a` utilizando solamente JS, tenemos que escribir:
 
 ```
 var request = new XMLHttpRequest();
@@ -85,11 +83,8 @@ $.getJSON('https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_day.geo
   console.log(a);
 });
 ```
+
 Luego, la será la variable `a` la que contendrá los datos de tal JSON, de acuerdo a las "reglas gramaticales" que correspondan al caso; sea un objeto, un arreglo con objetos, un objeto con arreglos, etc. 
-
-Para el JSON que nos ofrece la USGS, la consulta por la magnitud del temblor más reciente es `a["features"][0]["properties"]["mag"]` ó `a.features[0].properties.mag`
-
-La estructura y sus detalles se explican bajo el subtítulo de "Output" en: https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
 
 
 - - - - - - -
