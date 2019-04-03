@@ -22,7 +22,7 @@ Básicamente, el único cambio está en que los denominadores `name`, y `craft` 
 
 Luego, si JSON es un formato de texto sencillo para el intercambio de datos, lo más lógico es que tenga cierta independencia, y podemos dársela compartiéndolo de modo independiente, como en: https://api.myjson.com/bins/unf1s
 
-Si necesitamos ir por esos datos, para incluirlo en una variable de JavaScript, tendríamos que escribir: 
+Si necesitamos ir por esos datos, para *parsearlo* en una variable de JavaScript de nombre `a`, que luego se muestre en la consola, tendríamos que escribir: 
 
 ```
 var request = new XMLHttpRequest();
