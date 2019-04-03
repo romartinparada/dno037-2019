@@ -40,9 +40,9 @@ Se proyecta la siguiente organización de las clases durante el semestre:
 
 **[Clase 6 → Miércoles 10 de abril](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-06) → Evaluación**
 
-[Clase 7 → Miércoles 17 de abril](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-07) → JS, variables & DOM
+[Clase 7 → Miércoles 17 de abril](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-07) → JS, DOM & variables
 
-[Clase 8 → Miércoles 24 de abril](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-08) → jQuery & JSON
+[Clase 8 → Miércoles 24 de abril](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-08) → JSON & jQuery
 
 (miércoles 1 de mayo es feriado)
 
