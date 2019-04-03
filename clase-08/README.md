@@ -18,15 +18,33 @@ Ahora noten la diferencia del ejemplo recién escrito con el que sigue:
 var a = JSON.parse('[{ "name": "Sergey Prokopyev", "craft": "ISS" }, { "name": "Alexander Gerst", "craft": "ISS" }]');
 ```
 
-Básicamente, el único cambio está en que los denominadores `name`, y `craft` se presentan entre comillas. Cuando se presentan de tal manera ya no tenemos objetos en Javascript. Lo que tenemos es JSON (JavaScript Object Notation), y por eso se hace necesario el [JSON.parse](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/JSON/parse)
+Básicamente, el único cambio está en que los denominadores `name`, y `craft` se presentan entre comillas. Cuando se presentan de tal manera ya no tenemos objetos en Javascript. Lo que tenemos es JSON, y por eso se hace necesario utilizar el método [JSON.parse](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/JSON/parse)
 
-Luego, para hacer intercambio, los datos pueden "vivir" de modo independiente. Por ejemplo: https://api.myjson.com/bins/unf1s
+Luego, si JSON es un formato de texto sencillo para el intercambio de datos, lo más lógico es que tenga cierta independencia, y podemos dársela compartiéndolo de modo independiente, como en: https://api.myjson.com/bins/unf1s
 
-De hecho, el ejemplo que hemos estado usando se basa en un documento que es constantemente actualizado en tal formato: http://api.open-notify.org/astros.json
+Si necesitamos ir por esos datos, para incluirlo en una variable de JavaScript, tendríamos que escribir: 
+
+```
+var request = new XMLHttpRequest();
+request.open('GET', 'https://api.myjson.com/bins/unf1s', true);
+request.onload = function () {
+  var a = JSON.parse(this.response);
+  console.log(a);
+}
+request.send();	
+```
+
+Pero mucho más sencillo resultaría incluirlo si usamos jQuery:
+
+```
+$.getJSON('https://api.myjson.com/bins/unf1s', function(a) {
+  console.log(a);
+});
+```
 
 #### jQuery
 
-Para comenzar a explorar jQuery es conveniente tener un ayudamemoria a la mano: [jQuery CheatSheet](https://htmlcheatsheet.com/jquery/). jQuery es una [biblioteca](https://es.wikipedia.org/wiki/Biblioteca_(informática)) de JS que simplifica:
+jQuery es una [biblioteca](https://es.wikipedia.org/wiki/Biblioteca_(informática)) de JS que simplifica:
 
 - la manipulación del DOM; 
 
@@ -81,29 +99,6 @@ $(document).ready(function(){
 });
 </script>
 ```
-
-Además de eso, jQuery puede ayudarnos a tomar datos de un JSON. Para almacenar sus datos en una variable de nombre `a` utilizando solamente JS, tenemos que escribir:
-
-```
-var request = new XMLHttpRequest();
-request.open('GET', ' https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_day.geojson', true);
-request.onload = function () {
-  var a = JSON.parse(this.response);
-  console.log(a);
-}
-request.send();	
-```
-
-Pero se puede escribir menos si utilizamos jQuery: 
-
-```
-$.getJSON('https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_day.geojson', function(a) {
-  console.log(a);
-});
-```
-
-Luego, la será la variable `a` la que contendrá los datos de tal JSON, de acuerdo a las "reglas gramaticales" que correspondan al caso; sea un objeto, un arreglo con objetos, un objeto con arreglos, etc. 
-
 
 - - - - - - -
 
