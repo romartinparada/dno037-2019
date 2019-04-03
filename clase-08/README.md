@@ -133,7 +133,7 @@ JSON:
 
 - [A collection of small corpuses of interesting data for the creation of bots and similar stuff](https://github.com/dariusk/corpora)
 
-- [crossorigin.me](https://corsproxy.github.io/)
+- [crossorigin.me, the free CORS proxy for everyone!](https://corsproxy.github.io/)
 
 - [JSONLint - The JSON Validator](https://jsonlint.com/)
 
