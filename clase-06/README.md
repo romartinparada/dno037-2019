@@ -17,13 +17,13 @@ Se considerarán:
 | Implementación de un efecto jQuery (modal)              |   1,0   |
 | El resultado respecto del nivel del curso               |   0 bajo el nivel · 0,5 justo en el nivel · 1,0 sobre el nivel |
 
-Para la entrega, favor enviar correo 
+Para la entrega, favor enviar correo:
 
-- a profesor@faco.cl 
+- a **profesor@faco.cl** 
 
-- con asunto: DNO037 - 2019 - Evaluación 1
+- con asunto: **DNO037 - 2019 - Evaluación 1**
 
-- indicando en su contenido la dirección de su repositorio y su GitHub Page (lo que resulta de usar la rama `gh-pages`)
+- indicando en su contenido la direcciones de su **repositorio** y su **GitHub Page** (lo que resulta de usar la rama `gh-pages`)
 
 La retroalimentación y entrega de notas se hará vía carpeta Google Drive del curso.
 
