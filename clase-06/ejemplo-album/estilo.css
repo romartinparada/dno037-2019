@@ -14,15 +14,19 @@ h1{
   font-weight: 900;
   text-transform: lowercase;
   letter-spacing: 0.25rem;
-  color:rgba(0, 155, 155, 1.00);
+  color:rgba(255, 255, 255, 0.5);
 }
 
 .jumbotron {
   padding-top: 3rem;
   padding-bottom: 3rem;
   margin-bottom: 0;
-  background-color: #fff;
+  background: linear-gradient(to bottom right, rgba(255,0,0,.7), rgba(0,0,255,.7)),url('images/escuela.png');
+  backrgound-size:cover;
+  background-position: center center;
+  background-repeat:no-repeat;
 }
+
 @media (min-width: 768px) {
   .jumbotron {
     padding-top: 6rem;
