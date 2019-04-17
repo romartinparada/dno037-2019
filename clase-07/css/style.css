@@ -1,0 +1,31 @@
+select{
+	position: fixed; 
+	z-index:999999; 
+	top:1rem; 
+	right:1rem;
+	font-size:80%;
+}
+span{
+	border-bottom:1px solid #ddd;
+	border-right:1px solid #ddd;
+	border-radius: 4px;
+	background:#eee;
+	padding:0.2rem 0.4rem;
+	line-height: 1.4;
+	font-size:80%;
+	text-shadow: 0 0 1px #ccc;
+	font-weight: 600;
+}
+
+strong{
+	font-weight: 600;	
+}
+
+.alert{
+	padding-bottom:0;
+	margin-left:-0.25rem;
+}
+
+.alert p{
+	line-height: 1.25;
+}

@@ -1,0 +1,67 @@
+[
+	{
+		"nombre": "Argentina",
+		"poblacion": 42890368,
+		"superficie": 2780400
+	},
+	{
+		"nombre": "Bolivia",
+		"poblacion": 10888000,
+		"superficie": 1098581
+	},
+	{
+		"nombre": "Brasil",
+		"poblacion": 202450649,
+		"superficie": 8514877
+	},
+	{
+		"nombre": "Chile",
+		"poblacion": 18261884,
+		"superficie": 756102
+	},
+	{
+		"nombre": "Colombia",
+		"poblacion": 45520000,
+		"superficie": 1141748
+	},
+	{
+		"nombre": "Ecuador",
+		"poblacion": 16298217,
+		"superficie": 283561
+	},
+	{
+		"nombre": "Guyana",
+		"poblacion": 761000,
+		"superficie": 214969
+	},
+	{
+		"nombre": "Guayana Francesa",
+		"poblacion": 187000,
+		"superficie": 83534
+	},
+	{
+		"nombre": "Paraguay",
+		"poblacion": 6953646,
+		"superficie": 406752
+	},
+	{
+		"nombre": "Perú",
+		"poblacion": 32252018,
+		"superficie": 1285216
+	},
+	{
+		"nombre": "Surinam",
+		"poblacion": 524000,
+		"superficie": 163820
+	},
+	{
+		"nombre": "Uruguay",
+		"poblacion": 3372000,
+		"superficie": 176215
+	},
+	{
+		"nombre": "Venezuela",
+		"poblacion": 31028337,
+		"superficie": 916445
+	}
+]

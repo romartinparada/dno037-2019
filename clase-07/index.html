@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Datos en JavaScript</title>
+</head>
+
+<body>
+    <select onchange="location=this.value;">
+        <option value="index.html" selected>Portada</option>
+        <option value="primero.html">Primero</option>
+        <option value="segundo.html">Segundo</option>
+        <option value="tercero.html">Tercero</option>
+        <option value="cuarto.html">Cuarto</option>
+    </select>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-sm-11 col-md-10 col-lg-9 mx-auto py-5">
+                <h1>Datos en JavaScript</h1>
+                <p><strong>A continuación veremos como se crea, en JavaScript, una variable de nombre "sudamerica"</strong>.</p>
+                <p>Inicializaremos esta variable con una serie de datos organizados en un <a href="https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array" target="_blank">arreglo</a>. Dentro de un arreglo, usamos comas para separar distintos elementos; cada elemento en este arreglo aprovecha la notación de <a href="https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/Basics" target="_blank">objetos</a> de JavaScript.</p>
+<div class="alert alert-primary">
+                <pre><code data-lang="js">var sudamerica = [
+{nombre:"Argentina", poblacion:42890368, superficie:2780400},
+{nombre:"Bolivia", poblacion:10888000, superficie:1098581},
+{nombre:"Brasil", poblacion:202450649, superficie:8514877},
+{nombre:"Chile", poblacion:18261884, superficie:756102},
+{nombre:"Colombia", poblacion:45520000, superficie:1141748},
+{nombre:"Ecuador", poblacion:16298217, superficie:283561},
+{nombre:"Guyana", poblacion:761000, superficie:214969},
+{nombre:"Guayana Francesa", poblacion:187000, superficie:83534},
+{nombre:"Paraguay", poblacion:6953646, superficie:406752},
+{nombre:"Perú", poblacion:32252018, superficie:1285216},
+{nombre:"Surinam", poblacion:524000, superficie:163820},
+{nombre:"Uruguay", poblacion:3372000, superficie:176215},
+{nombre:"Venezuela", poblacion:31028337, superficie:916445}
+]
+</code></pre>
+</div>
+                <p>Podemos usar la Consola de JavaScript del navegador para comprender de mejor manera lo recién expuesto. Para abrir la consola:</p>
+                <ul>
+                    <li>Si estás usando Chrome en PC, presiona <span>Ctrl</span> + <span>⇧ Shift</span> + <span>J</span>. Si estás usando el mismo navegador en Mac, presiona <span>cmd ⌘</span> + <span>alt ⌥</span> + <span>J</span></li>
+                    <li>Si estás usando Firefox en PC, presiona <span>Ctrl</span> + <span>⇧ Shift</span> + <span>K</span>. Si estás usando el mismo navegador en Mac, presiona: <span>cmd ⌘</span> + <span>alt ⌥</span> + <span>K</span></li>
+                    <li>Si estás usando Safari, presiona: <span>cmd ⌘</span> + <span>alt ⌥</span> + <span>C</span> (aunque no es recomendable seguir trabajando con este navegador web, prefiere uno de los anteriores)</li>
+                </ul>
+                <p>Copia y pega en la consola la variable sudamerica (todo lo que está dentro del recuadro de arriba), y presiona la tecla Enter <span>&crarr;</span>. Luego, en la misma consola, escribe <strong>sudamerica[0]</strong>. Lo que te entrega después de presionar Enter <span>&crarr;</span> es el elemento que está en la primera posición del arreglo. Pregunta: ¿Cuál sería el número con el que debes reemplazar el 0 para obtener los datos chilenos?</p>
+                <p>Si quisiéramos obtener el dato de superficie de Chile, la consulta, además de ir a la posición que corresponde al elemento, debe indicarse el nombre que denomina a tal dato dentro del elemento. Esto puede funcionar de dos maneras:</p>
+                <ul>
+                    <li><strong>sudamerica[3].superficie</strong></li>
+                    <li><strong>sudamerica[3]["superficie"]</strong></li>
+                </ul>
+                <p>Habiendo comprendido cómo podemos consultar la variable de modo manual, vamos a examinarla con programación:</p>
+                <ul>
+                    <li>Lo <a href="primero.html">primero</a> que haremos con "sudamerica" será consultarla con JavaScript, a secas.</li>
+                    <li>Lo <a href="segundo.html">segundo</a> será consultarla con jQuery, una biblioteca de JavaScript que puede trabajar con una colección de elementos, por lo que itera por defecto (jQuery que fue redactada para facilitar la manipulación del DOM).</li>
+                    <li>Lo <a href="tercero.html">tercero</a> será consultarla con p5.js, otra biblioteca de JavaScript (que fue redactada para acceder a la programación).</li>
+                    <li>Lo <a href="cuarto.html">cuarto</a> será consultarla con d3.js, otra biblioteca de JavaScript (DDD que fue redactada para facilitar la construcción de documentos que visualizan datos).</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <footer class="container">
+        <div class="row">
+            <div class="col-12 col-sm-11 col-md-10 col-lg-9 mx-auto pt-3 pb-5 border-top small text-muted d-flex justify-content-between align-items-center">
+                <div><a href="http://github.com/profesorfaco">http://github.com/profesorfaco/</a></div>
+                <div><a href="mailto:profesor@faco.cl">profesor@faco.cl</a></div>
+            </div>
+        </div>
+    </footer>
+</body>
+
+</html>

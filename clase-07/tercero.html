@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Datos en JavaScript</title>
+</head>
+
+<body>
+    <select onchange="location=this.value;">
+        <option value="index.html">Portada</option>
+        <option value="primero.html">Primero</option>
+        <option value="segundo.html">Segundo</option>
+        <option value="tercero.html" selected>Tercero</option>
+        <option value="cuarto.html">Cuarto</option>
+    </select>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-sm-11 col-md-10 col-lg-9 mx-auto py-5">
+                <h1>Datos en JavaScript</h1>
+                <p><strong>En este página volvemos a utilizar la variable de nombre "sudamerica".</strong></p>
+                <p>A continuación, y también en la consola de JavaScript, podemos ver lo que resulta de consultar la misma variable utilizando la <a href="https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Bucles_e_iteraci%C3%B3n#sentencia_for" target="_blank">sentencia for</a> de JavaScript y <a href="https://p5js.org/es/reference/#/p5/createP">createP</a> de <a href="https://p5js.org/es/" target="_blank">p5.js</a></p>
+
+                <div class="alert alert-primary" id="aqui"></div>
+                
+                <p><strong><a href="https://p5js.org/es/" target="_blank">p5.js</a> es una biblioteca de JavaScript</strong> creada para hacer la programación accesible a artistas, diseñadores, educadores y principiantes, lo que implica tomar el objetivo original de Processing y reinterpretarlo para la web actual.</p>
+                <p>En breve, nos aprovecharemos del <a href="https://editor.p5js.org/" target="_blank">p5.js Web Editor</a> para extender la exploración respecto del uso de datos en JavaScript. </p>
+            </div>
+        </div>
+    </div>
+    <footer class="container">
+        <div class="row">
+            <div class="col-12 col-sm-11 col-md-10 col-lg-9 mx-auto pt-3 pb-5 border-top small text-muted d-flex justify-content-between align-items-center">
+                <div><a href="http://github.com/profesorfaco">http://github.com/profesorfaco/</a></div>
+                <div><a href="mailto:profesor@faco.cl">profesor@faco.cl</a></div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/p5.min.js"></script>
+    <script src="js/p5.dom.min.js"></script>
+
+    <script>
+        var sudamerica = [{
+            nombre: "Argentina",
+            poblacion: 42890368,
+            superficie: 2780400
+        }, {
+            nombre: "Bolivia",
+            poblacion: 10888000,
+            superficie: 1098581
+        }, {
+            nombre: "Brasil",
+            poblacion: 202450649,
+            superficie: 8514877
+        }, {
+            nombre: "Chile",
+            poblacion: 18261884,
+            superficie: 756102
+        }, {
+            nombre: "Colombia",
+            poblacion: 45520000,
+            superficie: 1141748
+        }, {
+            nombre: "Ecuador",
+            poblacion: 16298217,
+            superficie: 283561
+        }, {
+            nombre: "Guyana",
+            poblacion: 761000,
+            superficie: 214969
+        }, {
+            nombre: "Guayana Francesa",
+            poblacion: 187000,
+            superficie: 83534
+        }, {
+            nombre: "Paraguay",
+            poblacion: 6953646,
+            superficie: 406752
+        }, {
+            nombre: "Perú",
+            poblacion: 32252018,
+            superficie: 1285216
+        }, {
+            nombre: "Surinam",
+            poblacion: 524000,
+            superficie: 163820
+        }, {
+            nombre: "Uruguay",
+            poblacion: 3372000,
+            superficie: 176215
+        }, {
+            nombre: "Venezuela",
+            poblacion: 31028337,
+            superficie: 916445
+        }];
+
+        function setup() {
+            noCanvas();
+            for (var x = 0; x < sudamerica.length; x++) {
+                createP(sudamerica[x].nombre + " tiene una densidad de población aproximada de " + Math.round(sudamerica[x].poblacion / sudamerica[x].superficie) + " hab/km²").style("font-size", (sudamerica[x].poblacion / sudamerica[x].superficie) + "px").parent(aqui);
+                console.log(sudamerica[x].nombre + " tiene una densidad de población aproximada de " + Math.round(sudamerica[x].poblacion / sudamerica[x].superficie) + " hab/km²");
+            }
+        }
+    </script>
+
+</body>
+
+</html>

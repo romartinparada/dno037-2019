@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Datos en JavaScript</title>
+</head>
+
+<body>
+    <select onchange="location=this.value;">
+        <option value="index.html">Portada</option>
+        <option value="primero.html">Primero</option>
+        <option value="segundo.html">Segundo</option>
+        <option value="tercero.html">Tercero</option>
+        <option value="cuarto.html" selected>Cuarto</option>
+    </select>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-sm-11 col-md-10 col-lg-9 mx-auto py-5">
+                <h1>Datos en JavaScript</h1>
+                <p><strong>En este página volvemos a utilizar la variable de nombre "sudamerica".</strong></p>
+                <p>A continuación podemos ver lo que resulta de consultar la misma variable utilizando <a href="https://d3js.org/" target="_blank">d3.js</a>, una biblioteca de JavaScript que podríamos revisar, en detalle, en otra clase.</p>
+
+                <div class="alert alert-primary" id="aqui"></div>
+                
+                <p><strong><a href="https://d3js.org/" target="_blank">d3.js</a> es una biblioteca de JavaScript</strong> que permite manipular documentos desde determinados datos, para producir visualizaciones en web.</p>
+            </div>
+        </div>
+    </div>
+    <footer class="container">
+        <div class="row">
+            <div class="col-12 col-sm-11 col-md-10 col-lg-9 mx-auto pt-3 pb-5 border-top small text-muted d-flex justify-content-between align-items-center">
+                <div><a href="http://github.com/profesorfaco">http://github.com/profesorfaco/</a></div>
+                <div><a href="mailto:profesor@faco.cl">profesor@faco.cl</a></div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/d3.min.js"></script>
+
+    <script>
+        var sudamerica = [{
+            nombre: "Argentina",
+            poblacion: 42890368,
+            superficie: 2780400
+        }, {
+            nombre: "Bolivia",
+            poblacion: 10888000,
+            superficie: 1098581
+        }, {
+            nombre: "Brasil",
+            poblacion: 202450649,
+            superficie: 8514877
+        }, {
+            nombre: "Chile",
+            poblacion: 18261884,
+            superficie: 756102
+        }, {
+            nombre: "Colombia",
+            poblacion: 45520000,
+            superficie: 1141748
+        }, {
+            nombre: "Ecuador",
+            poblacion: 16298217,
+            superficie: 283561
+        }, {
+            nombre: "Guyana",
+            poblacion: 761000,
+            superficie: 214969
+        }, {
+            nombre: "Guayana Francesa",
+            poblacion: 187000,
+            superficie: 83534
+        }, {
+            nombre: "Paraguay",
+            poblacion: 6953646,
+            superficie: 406752
+        }, {
+            nombre: "Perú",
+            poblacion: 32252018,
+            superficie: 1285216
+        }, {
+            nombre: "Surinam",
+            poblacion: 524000,
+            superficie: 163820
+        }, {
+            nombre: "Uruguay",
+            poblacion: 3372000,
+            superficie: 176215
+        }, {
+            nombre: "Venezuela",
+            poblacion: 31028337,
+            superficie: 916445
+        }];
+
+        d3.select("#aqui").selectAll("p").data(sudamerica).enter().append("p").text(d => d.nombre + " tiene una densidad de población aproximada de " + Math.round(d.poblacion / d.superficie) + " hab/km²").style("font-size", function(d) {return ((Math.round(d.poblacion / d.superficie))) + "px";});
+    </script>
+
+</body>
+
+</html>
