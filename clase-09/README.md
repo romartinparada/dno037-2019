@@ -18,6 +18,31 @@ La próxima semana se evaluará lo siguiente:
 - Hasta 1,0 por despliegue condicionado de ítems del portafolio
 - Hasta 1,0 por ajuste de menú y estilo del sitio completo
 
+### Entregas
+
+| Nombre                  | Repositorio                              | GitHub Page                          |   
+|:------------------------|:-----------------------------------------|:-------------------------------------|
+| Isidora Amenabar        | https://github.com/imamenabar/Ev_2       | https://imamenabar.github.io/Ev_2/   |
+| Camila Andrades         | https://github.com/Camianmu/ev2          | https://camianmu.github.io/ev2/      |
+| Alexa Beovic            | https://github.com/alexabeovic/ev2       | https://alexabeovic.github.io/ev2    |     
+| Ma. Ignacia Clark       | https://github.com/mariaignaciaclark/ev2 | https://mariaignaciaclark.github.io/ev2/ |
+| Debi Codriansky         | https://github.com/debic/ev2             | https:/debic.github.io/ev2
+| Ma. García-Huidobro     | https://github.com/marigarciahuidobro/portafolio-8-de-mayo | https://marigarciahuidobro.github.io/portafolio-8-de-mayo/ |
+| Rosario González        | https://github.com/rosariogonzalez/Evaluacion_02 | https://rosariogonzalez.github.io/Evaluacion_02/ |
+| Sofía Hinostroza        | https://github.com/Sofiahm/ev2 | https://sofiahm.github.io/ev2/ | 
+| Francisca Kegevic       | https://github.com/fkegevic/Ev2 | https://fkegevic.github.io/Ev2/ |
+| Eduardo Lillo           | — | — | 
+| Fca. Lopez de Heredia   | https://github.com/Franciscaldeh/ev2 | https://franciscaldeh.github.io/ev2/ | 
+| Valentina Marmié        | https://github.com/vimarmie/ev2 | https://vimarmie.github.io/ev2/ | 
+| Rocío Martin            | https://github.com/romartinparada/ev2 | https://romartinparada.github.io/ev2/ |
+| Isidora Morandé         | https://github.com/IsidoraMorande/ev2 | https://isidoramorande.github.io/ev2/ | 
+| Rocío Sidgman           | https://github.com/rosidgman/ev2 | https://rosidgman.github.io/ev2/ | 
+| Ma. Elena Silva         | https://github.com/esilva99/ev2  | https://esilva99.github.io/ev2/  |
+| Vania Solis             | https://github.com/vaniacarolina/ev2 | https://vaniacarolina.github.io/ev2/ | 
+| Ma. Cecilia Suárez      | https://github.com/MariaCeciliaSuarez/evaluacion2 | https://mariaceciliasuarez.github.io/evaluacion2/ | 
+| Dominga Zañartu         | https://github.com/domingazanartu/ev2 | https://domingazanartu.github.io/ev2/ |
+
+
 
 - - - - - - - 
 
