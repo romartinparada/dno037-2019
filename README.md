@@ -46,13 +46,13 @@ Se proyecta la siguiente organización de las clases durante el semestre:
 
 (miércoles 1 de mayo es feriado)
 
-**[Clase 9 → Miércoles 8 de mayo](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-09) → Evaluación**
+**[Clase 9 → Miércoles 8 de mayo](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-09) → Evaluación (parte 1 de 2)**
 
-[Clase 10 → Miércoles 15 de mayo](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-10) → PHP → Servidor, variables y ciclos
+**[Clase 10 → Miércoles 15 de mayo](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-10) →  Evaluación (parte 2 de 2)**
 
-[Clase 11 → Miércoles 22 de mayo](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-11) → Funciones de PHP 1/2
+[Clase 11 → Miércoles 22 de mayo](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-11) → PHP → Servidor, variables y ciclos (para clase es necesario tener MAMP instalado en sus computadores)
 
-[Clase 12 → Miércoles 29 de mayo](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-12) → Funciones de PHP 2/2 
+[Clase 12 → Miércoles 29 de mayo](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-12) → Funciones de PHP (para clase es necesario tener MAMP instalado en sus computadores)
 
 **Clase 13 → Miércoles 5 de junio → Trabajo final 1/3 (dominio)**
 
