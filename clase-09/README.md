@@ -9,8 +9,8 @@ La retroalimentación se hará vía carpeta Google Drive del curso. Es su respon
 **El día de hoy, se evaluará lo siguiente:** 
 
 - Hasta 1,0 por ajuste del estilo CSS del sitio web entregado. 
-- Hasta 1,0 por manipulación del DOM en las 3 páginas
-- Hasta 1,0 por generación de contenido para el trabajo grupal
+- Hasta 1,0 por manipulación del DOM en la página `tres.html`.
+- Hasta 1,0 por generación de contenido para el trabajo grupal.
 
 La próxima semana se evaluará lo siguiente: 
 
