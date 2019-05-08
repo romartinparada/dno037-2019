@@ -26,7 +26,7 @@ La próxima semana se evaluará lo siguiente:
 | Camila Andrades         | https://github.com/Camianmu/ev2          | https://camianmu.github.io/ev2/      |
 | Alexa Beovic            | https://github.com/alexabeovic/ev2       | https://alexabeovic.github.io/ev2    |     
 | Ma. Ignacia Clark       | https://github.com/mariaignaciaclark/ev2 | https://mariaignaciaclark.github.io/ev2/ |
-| Debi Codriansky         | https://github.com/debic/ev2             | https:/debic.github.io/ev2
+| Debi Codriansky         | https://github.com/debic/ev2             | https://debic.github.io/ev2
 | Ma. García-Huidobro     | https://github.com/marigarciahuidobro/portafolio-8-de-mayo | https://marigarciahuidobro.github.io/portafolio-8-de-mayo/ |
 | Rosario González        | https://github.com/rosariogonzalez/Evaluacion_02 | https://rosariogonzalez.github.io/Evaluacion_02/ |
 | Sofía Hinostroza        | https://github.com/Sofiahm/ev2 | https://sofiahm.github.io/ev2/ | 
