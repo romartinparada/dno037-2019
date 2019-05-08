@@ -18,6 +18,10 @@ La clase anterior, se evaluó:
 - Hasta 1,0 por despliegue condicionado de ítems del portafolio
 - Hasta 1,0 por ajuste de menú y estilo del sitio completo
 
+El día de hoy partiremos desde un JSON, donde se contienen los trabajos que subieron la clase recién pasada: https://api.myjson.com/bins/15ss4q
+
+Ese JSON tiene algunos problemas que corresponde corregir.
+
 - - - - - - - 
 
 ###### [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-11)
