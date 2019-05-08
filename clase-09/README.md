@@ -1,6 +1,6 @@
 # Diseño y Nuevos Medios → Clase 9  
 
-### Miércoles 8 de mayo → Evaluación
+### Miércoles 8 de mayo → Evaluación (parte 1 de 2)
 
 Hoy comenzaremos a trabajar en la segunda evaluación parcial (2 de 6 notas). Al finalizar esta clase deben poner su trabajo en línea, el resultado será evaluado entre 0,0 y 3,0. Continuaremos la próxima clase, y sumaremos la misma evaluación (entre 0,0 y 3,0). A las dos evaluaciones sumaremos un punto base, y con eso resultará, en el mejor de los casos, en nota 7,0.
 
