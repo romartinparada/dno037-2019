@@ -1,86 +1,22 @@
 # Diseño y Nuevos Medios → Clase 10 
 
-### Miércoles 15 de mayo → PHP → Servidor, variables y ciclos
+### Miércoles 15 de mayo → Evaluación (parte 2 de 2)
 
-Personal Home Page o HTML Pre Process.
+Hoy continuamos el trabajo para la segunda evaluación parcial (2 de 6 notas). Al finalizar esta clase deben poner su trabajo en línea, el resultado será evaluado entre 0,0 y 3,0. Esto se sumará a la evaluación de lo entregado la clase recién pasada. A las dos evaluaciones sumaremos un punto base, y con eso resultará, en el mejor de los casos, en nota 7,0.
 
-#### 1. Servidor
+La retroalimentación se hará vía carpeta Google Drive del curso. Es su responsabilidad revisar con atención lo que allí se entregue. 
 
-Servidor es software 
+La clase anterior, se evaluó:
 
-Relación cliente-servidor
+- Hasta 1,0 por ajuste del estilo CSS del sitio web entregado. 
+- Hasta 1,0 por manipulación del DOM en las 3 páginas
+- Hasta 1,0 por generación de contenido para el trabajo grupal
 
-MAMP
+**El día de hoy, se evaluará lo siguiente:** 
 
-#### 2. Variables
-
-Recordemos que, en programación, una variable está formada por un espacio en el sistema de almacenaje (memoria principal del computador) y un identificador asociado a dicho espacio. Este espacio contendrá una cantidad conocida o desconocida de datos, que pueden ir variando en la medida que el programa se ejecuta (y esta es la razón del nombre).
-
-Así como en [JavaScript](https://github.com/profesorfaco/dno037-2019/tree/gh-pages/clase-06#2-variables), en PHP tampoco es necesario indicar el tipo de variable con un prefijo especial. A todo tipo de variable le antecede de un símbolo monetario `$`, para luego poner la asignación, valor y fin de la instrucción.  
-
-Una variable a la que se le asigna un único número como contenido:
-
-`$a = 1;`
-
-Una variable a la que se le asigna un "string" como contenido:
-
-`$a = "uno";`
-
-Una variable a la que se le asigna un "array" como contenido:
-
-`$a = array("uno", "dos", "tres","cuatro");`
-
-Por ahora, no revisaremos los objetos en PHP. Pero vamos a profundizar en los "arrays" y "arrays dentro de arrays dentro de arrays…"
-
-Profundicemos con un ejemplo:
-
-`$inception = array("el sueño en la van",array("el sueño en el hotel",array("el sueño en la nieve",array("el sueño en la ciudad abandonada"))))`
-
-La información legible en `$inception` es:
-```
-Array
-(
-    [0] => el sueño en la van
-    [1] => Array
-        (
-            [0] => el sueño en el hotel
-            [1] => Array
-                (
-                    [0] => el sueño en la nieve
-                    [1] => Array
-                        (
-                            [0] => el sueño en la ciudad abandonada
-                        )
-
-                )
-
-        )
-
-)
-```
-Si queremos que nos entregue, por ejemplo, el sueño más profundo (el sueño en la ciudad abandonada), tenemos que ir a por `$inception[1][1][1][0]`.
-
-Modifiquemos el ejemplo. Podemos escribir el arreglo de inception de otra manera:
-
-`$inception = array("primero"=>"el sueño en la van","segundo"=>"el sueño en el hotel","tercero"=>"el sueño en la nieve","cuarto"=>"el sueño en la ciudad abandonada")`
-
-Ahora la información legible dentro de la variable es:
-
-```
-Array
-(
-    [primero] => el sueño en la van
-    [segundo] => el sueño en el hotel
-    [tercero] => el sueño en la nieve
-    [cuarto] => el sueño en la ciudad abandonada
-)
-```
-
-En esta caso, si queremos que nos entregue el sueño más profundo (el sueño en la ciudad abandonada), le tenemos que solicitar un `$inception["cuarto"]`.
-
-#### 3. Ciclos
-
-`<?php for(){} ;?>`
+- Hasta 1,0 por creación de nueva página de portafolio del curso 
+- Hasta 1,0 por despliegue condicionado de ítems del portafolio
+- Hasta 1,0 por ajuste de menú y estilo del sitio completo
 
 - - - - - - - 
 
