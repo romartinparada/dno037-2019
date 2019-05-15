@@ -276,18 +276,18 @@
 }
 ,
 {
-    "nombre":"Maria Cecilia Suarez",
+    "nombre":"Maria Cecilia Suárez",
     "ingreso":2016,
     "trabajos":[ {
-        "titulo": "Blake", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/MariaCeciliaSuarez/evaluacion2/gh-pages/ilustracion-1.jpg"
+        "titulo": "Blake", "descriptor":"Ilustración de personaje creado para webcomic con la aplicación de Procreate utilizando una paleta de colores sacada de una playa para expresar diversión y júbilo que es lo que representa este personaje.", "imagen": "https://raw.githubusercontent.com/MariaCeciliaSuarez/evaluacion2/gh-pages/img/ilustracion-1.jpg"
     }
     ,
     {
-        "titulo": "Kathy", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/MariaCeciliaSuarez/evaluacion2/gh-pages/ilustracion-2.jpg"
+        "titulo": "Kathy", "descriptor":"Personaje creado para webcomic con la aplicación de Procreate utilizando una paleta de colores fríos para expresar tranquilidad y silencio que es la personalidad de este personaje.", "https://raw.githubusercontent.com/MariaCeciliaSuarez/evaluacion2/gh-pages/img/ilustracion-2.jpg"
     }
     ,
     {
-        "titulo": "Over the sky", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/MariaCeciliaSuarez/evaluacion2/gh-pages/ilustraci%C3%B3n-3.jpg"
+        "titulo": "Over the sky", "descriptor":"Ilustración hecha en base del desafío Inktober con la aplicación de Procreate. Pertenece a una familia de ilustraciones Over de Sky.", "imagen": "https://raw.githubusercontent.com/MariaCeciliaSuarez/evaluacion2/gh-pages/img/ilustracion-3.jpg"
     }
     ]
 }
