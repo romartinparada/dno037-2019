@@ -256,23 +256,19 @@
 ,
 {
     "nombre": "Vania Solis",
-    "ingreso": 2015,
-    "trabajos":[ {
-        "titulo": "Voces Urbanas", "descriptor":"blablabla…", "imagen": "https://scontent-scl1-1.xx.fbcdn.net/v/t1.0-9/36789525_1760551313999908_7713065259870715904_n.jpg?_nc_cat=109&_nc_ht=scontent-scl1-1.xx&oh=f7d915dad527833cec7393728c7c696f&oe=5D5C1BE7"
-    }
-    ,
-    {
-        "titulo": "Salvaje", "descriptor":"blablabla…", "imagen": "https://scontent-scl1-1.xx.fbcdn.net/v/t1.0-9/36780609_1760551380666568_8582034888717238272_n.jpg?_nc_cat=109&_nc_ht=scontent-scl1-1.xx&oh=e32eff28e8e197eacfa45eb7c7e6fec8&oe=5D5949B0"
-    }
-    ,
-    {
-        "titulo": "El Buen Burrito", "descriptor":"blablabla…", "imagen": "https://scontent-scl1-1.xx.fbcdn.net/v/t1.0-9/18447404_1163379180456824_857015886104858150_n.jpg?_nc_cat=107&_nc_eui2=AeEEYOrDh63WPempXYCO9kQGenqsAph7I4-dquy08Fwd02XQ3S2O-BWhiwn375Z_Bmnd7vJBOOQe4wznLbG4zzOKsJjFzIqpcIQEJk0f6VyICQ&_nc_ht=scontent-scl1-1.xx&oh=ca0d2c77096867709346e1af08651858&oe=5D5D43AB"
-    }
-    ,
-    {
-        "titulo": "Carmelo", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/vaniacarolina/clase-9/gh-pages/img/carmelo.jpg"
-    }
-    ]
+"ingreso" : 2015,
+"trabajos" :[ {
+    "titulo": "Voces Urbanas","descriptor":"Libro objeto que se realizó en el Taller Mercado I, profesora Ximena Ulibarri","imagen":"https://raw.githubusercontent.com/vaniacarolina/ev2/gh-pages/img/trabajo1.jpg"
+}
+,
+{
+   "titulo": "Salvaje","descriptor":"Máscara en base al concepto ciudad en el Taller Mercado I, profesora Ximena Ulibarri","imagen":"https://raw.githubusercontent.com/vaniacarolina/ev2/gh-pages/img/trabajo2.jpg"
+}
+,
+{
+    "titulo": "El Buen Burrito","descriptor":"Packaging para comida de paso se realizó en Estructura y Materiales, profesores Carlos Sfeir y Luis Andueza","imagen":"https://raw.githubusercontent.com/vaniacarolina/ev2/gh-pages/img/trabajo3.jpg"
+}
+]
 }
 ,
 {
