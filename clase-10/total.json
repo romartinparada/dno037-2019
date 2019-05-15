@@ -20,15 +20,15 @@
     "nombre": "Camila Andrades",
     "ingreso":2015,
     "trabajos":[ {
-        "titulo": "Festival Olmue", "descriptor":"blablabla…", "imagen": "https://scontent-scl1-1.xx.fbcdn.net/v/t1.0-9/36682587_1550239321770806_1295061235359809536_n.jpg?_nc_cat=106&_nc_eui2=AeE_4J9ukTNnwBGiW7MZGPby6KEIshVt0645rZe40vEchilbHvoiHRyvMqhokQyDisttSrBNXFW_Rlv8I7UNTX5G0AV1dfS8OZGIkOSFraYVsQ&_nc_ht=scontent-scl1-1.xx&oh=68245d0b985627c4aad2f05272ed0fed&oe=5D2E5EDB"
+        "titulo": "Festival Olmué", "descriptor":"Rediseño de identidad gráfica festival Olmué", "imagen": "https://raw.githubusercontent.com/Camianmu/ev2-1/gh-pages/img/trabajo1.jpg"
     }
     ,
     {
-        "titulo": "DermaInk", "descriptor":"blablabla…", "imagen": "https://scontent-scl1-1.xx.fbcdn.net/v/t1.0-9/18221594_1150106438450765_4463395746796456750_n.jpg?_nc_cat=103&_nc_eui2=AeEuIJTt4z_sqJubqR1cAN97CcZhGm5_Ayu7I-6Iv12B4iAoDwgj3q8ZKYD-jGm6KZIqVljiH7raL3T4FQ3O_-_bq75KUk1QScWW0wAZPDv04g&_nc_ht=scontent-scl1-1.xx&oh=24940d88b3439949b2e209baaa57fedf&oe=5D66AE76"
+        "titulo": "DermaInk", "descriptor":"Producto para el cuidado e higiene de un tatuaje", "imagen": "https://raw.githubusercontent.com/Camianmu/ev2-1/gh-pages/img/trabajo2.jpg"
     }
     ,
     {
-        "titulo": "Chihiro", "descriptor":"blablabla…", "imagen": "https://scontent-scl1-1.xx.fbcdn.net/v/t1.0-9/17884630_1133961320065277_5401247408581404449_n.jpg?_nc_cat=105&_nc_eui2=AeGKHV-hHvtlxLfU8WYphkn77TAaOO6C7G0pkyCHcq1pipqp_lENgEEXXT9tYvYYezJJaIbwCxNOYboAbPYBdMyM0qT75xFqHB9czSB-mh3zCQ&_nc_ht=scontent-scl1-1.xx&oh=1f6bc658a0e6c2ea0eb9632f60ce4d2b&oe=5D74145D"
+        "titulo": "Chihiro", "descriptor":"Diseño industrial con base a película El viaje de Chihiro", "imagen": "https://raw.githubusercontent.com/Camianmu/ev2-1/gh-pages/img/trabajo3.jpg"
     }
     ]
 }
