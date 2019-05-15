@@ -1,0 +1,328 @@
+[ 
+{
+    "nombre":"Isidora Amenábar",
+    "ingreso":2015,
+    "trabajos":[ {
+        "titulo": "Las Montañas que Llevamos Dentro", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/imamenabar/Ev_2/gh-pages/media/trabajo-1.jpg"
+    }
+    ,
+    {
+        "titulo": "Gráfica Encuentro de las Culturas", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/imamenabar/Ev_2/gh-pages/media/trabajo-2.jpg"
+    }
+    ,
+    {
+        "titulo": "Silla Sol Lewitt|Piet Mondrian", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/imamenabar/Ev_2/gh-pages/media/trabajo-3.jpg"
+    }
+    ]
+}
+,
+{
+    "nombre": "Camila Andrades",
+    "ingreso":2015,
+    "trabajos":[ {
+        "titulo": "Festival Olmue", "descriptor":"blablabla…", "imagen": "https://scontent-scl1-1.xx.fbcdn.net/v/t1.0-9/36682587_1550239321770806_1295061235359809536_n.jpg?_nc_cat=106&_nc_eui2=AeE_4J9ukTNnwBGiW7MZGPby6KEIshVt0645rZe40vEchilbHvoiHRyvMqhokQyDisttSrBNXFW_Rlv8I7UNTX5G0AV1dfS8OZGIkOSFraYVsQ&_nc_ht=scontent-scl1-1.xx&oh=68245d0b985627c4aad2f05272ed0fed&oe=5D2E5EDB"
+    }
+    ,
+    {
+        "titulo": "DermaInk", "descriptor":"blablabla…", "imagen": "https://scontent-scl1-1.xx.fbcdn.net/v/t1.0-9/18221594_1150106438450765_4463395746796456750_n.jpg?_nc_cat=103&_nc_eui2=AeEuIJTt4z_sqJubqR1cAN97CcZhGm5_Ayu7I-6Iv12B4iAoDwgj3q8ZKYD-jGm6KZIqVljiH7raL3T4FQ3O_-_bq75KUk1QScWW0wAZPDv04g&_nc_ht=scontent-scl1-1.xx&oh=24940d88b3439949b2e209baaa57fedf&oe=5D66AE76"
+    }
+    ,
+    {
+        "titulo": "Chihiro", "descriptor":"blablabla…", "imagen": "https://scontent-scl1-1.xx.fbcdn.net/v/t1.0-9/17884630_1133961320065277_5401247408581404449_n.jpg?_nc_cat=105&_nc_eui2=AeGKHV-hHvtlxLfU8WYphkn77TAaOO6C7G0pkyCHcq1pipqp_lENgEEXXT9tYvYYezJJaIbwCxNOYboAbPYBdMyM0qT75xFqHB9czSB-mh3zCQ&_nc_ht=scontent-scl1-1.xx&oh=1f6bc658a0e6c2ea0eb9632f60ce4d2b&oe=5D74145D"
+    }
+    ]
+}
+,
+{
+    "nombre":"Alexa Beovic",
+    "ingreso":2018,
+    "trabajos":[ {
+        "titulo": "Perro", "descriptor":"blablabla…", "imagen": "https://images.clarin.com/2019/01/19/BHaslG6vz_1256x620__1.jpg"
+    }
+    ,
+    {
+        "titulo": "Gato", "descriptor":"blablabla…", "imagen": "https://i.pinimg.com/originals/f3/bd/84/f3bd8497e15399201b634714ec5ed390.jpg"
+    }
+    ,
+    {
+        "titulo": "Conejo", "descriptor":"blablabla…", "imagen": "https://misanimales.com/wp-content/uploads/2018/07/conejo-enano-caracteristicas.jpg"
+    }
+    ]
+}
+,
+{
+    "nombre": "María Clark",
+    "ingreso":2016,
+    "trabajos":[ {
+        "titulo": "Acuarelas", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/mariaignaciaclark/ev2/gh-pages/imagenes/trabajo1.jpg"
+    }
+    ,
+    {
+        "titulo": "Isao Chair", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/mariaignaciaclark/ev2/gh-pages/imagenes/trabajo2.jpg"
+    }
+    ,
+    {
+        "titulo": "Flores", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/mariaignaciaclark/ev2/gh-pages/imagenes/trabajo3.jpg"
+    }
+    ]
+}
+,
+{
+    "nombre":"Debi Codriansky",
+    "ingreso":2016,
+    "trabajos":[ {
+        "titulo": "Animales", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/debic/ev2/master/img1.jpg"
+    }
+    ,
+    {
+        "titulo": "Luminaria", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/debic/ev2/master/img3.png"
+    }
+    ,
+    {
+        "titulo": "Peluches", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/debic/ev2/master/img2.jpg"
+    }
+    ]
+}
+,
+{
+    "nombre": "María García-Huidobro",
+    "ingreso":2016,
+    "trabajos": [ {
+        "titulo": "RAF-TALLER 4", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/marigarciahuidobro/ev2/gh-pages/fotoraf.jpg"
+    }
+    ,
+    {
+        "titulo": "MAGGI TWIZZ-TALLER 5", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/marigarciahuidobro/ev2/gh-pages/fototwizz.jpg"
+    }
+    ,
+    {
+        "titulo": "LAMPARA-ESTRUCTURAS Y MATERIALES", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/marigarciahuidobro/ev2/gh-pages/foto-lamparasiii.jpg"
+    }
+    ]
+}
+,
+{
+    "nombre": "Rosario González",
+    "ingreso":2016,
+    "trabajos": [ {
+        "titulo": "RAF l Diseño de emergencias l ", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/rosariogonzalez/Evaluacion_02/gh-pages/IMG/trabajo2.jpg"
+    }
+    ,
+    {
+        "titulo": "MAEZ l Diseño de marca para emprendimiento l ", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/rosariogonzalez/Evaluacion_02/gh-pages/IMG/trabajo1.jpg"
+    }
+    ,
+    {
+        "titulo": "E&M l Luminaria de Yeso l ", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/rosariogonzalez/Evaluacion_02/gh-pages/IMG/trabajo3.jpg"
+    }
+    ]
+}
+,
+{
+    "nombre": "Sofia Hinostroza",
+    "ingreso": 2014,
+    "trabajos":[ {
+        "titulo": "Arboles de Chile", "descriptor":"blablabla…", "imagen": "https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/f06c0955010741.5cd2faab82382.jpg"
+    }
+    ,
+    {
+        "titulo": "mu", "descriptor":"blablabla…", "imagen": "https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/2203eb56133767.5cd2fa1c063e3.jpg"
+    }
+    ,
+    {
+        "titulo": "Dualidad", "descriptor":"blablabla…", "imagen": "https://mir-cdn.behance.net/v1/rendition/project_modules/max_1200/f2961c54987203.5cd2fa7f7a30f.jpg"
+    }
+    ]
+}
+,
+{
+    "nombre": "Francisca Kegevic",
+    "ingreso": 2017,
+    "trabajos":[ {
+        "titulo": "silla", "descriptor":"blablabla…", "imagen": "https://home.ripley.cl/store/Attachment/WOP/D367/2000368847000/2000368847000_2.jpg"
+    }
+    ,
+    {
+        "titulo": "mesa", "descriptor":"blablabla…", "imagen": "https://home.ripley.cl/store/Attachment/WOP/D359/2000361041702/2000361041702_2.jpg"
+    }
+    ,
+    {
+        "titulo": "velador", "descriptor":"blablabla…", "imagen": "http://www.decorador.cl/wp-content/uploads/2017/11/Velador-Alanya-Bohemio-Chic2.jpg"
+    }
+    ]
+}
+,
+{
+    "nombre":"Francisca López de Heredia",
+    "ingreso":2016,
+    "trabajos":[ {
+        "titulo": "Diseño de producto", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/Franciscaldeh/ev2/gh-pages/img/img1.jpg"
+    }
+    ,
+    {
+        "titulo": "Branding", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/Franciscaldeh/ev2/gh-pages/img/img2.jpg"
+    }
+    ,
+    {
+        "titulo": "Modelado 3D", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/Franciscaldeh/ev2/gh-pages/img/img3.jpg"
+    }
+    ]
+}
+,
+{
+    "nombre": "Valentina Marmié",
+    "ingreso": 2015,
+    "trabajos":[ {
+        "titulo": "Magritte", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/vimarmie/ev2/gh-pages/img/foto-08.jpg"
+    }
+    ,
+    {
+        "titulo": "Animanes", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/vimarmie/ev2/gh-pages/img/foto-02.jpg"
+    }
+    ,
+    {
+        "titulo": "Waver", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/vimarmie/ev2/gh-pages/img/foto-03.jpg"
+    }
+    ]
+}
+,
+{
+    "nombre":"Rocío Martín",
+    "ingreso":2018,
+    "trabajos":[ {
+        "titulo": "Tejidos", "descriptor":"blablabla…", "imagen": "https://images.ecosia.org/LblWy7n5kXnX1lI_LV86wyzGjQ0=/0x390/smart/https%3A%2F%2Fi.pinimg.com%2Foriginals%2F47%2F44%2Ff2%2F4744f2d6b7c118064cb249d9b6029f64.jpg"
+    }
+    ,
+    {
+        "titulo": "Materiales", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/romartinparada/ev2/gh-pages/img/trabajo%201.jpg"
+    }
+    ,
+    {
+        "titulo": "Ilustración", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/romartinparada/ev2/gh-pages/img/trabajo%202.jpg"
+    }
+    ]
+}
+,
+{
+    "nombre":"Isidora Morande",
+    "ingreso": 2016,
+    "trabajos": [ {
+        "titulo": "Sazon", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/IsidoraMorande/ev2/gh-pages/img/trabajo-1.jpg"
+    }
+    ,
+    {
+        "titulo": "The Cookie Factory", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/IsidoraMorande/ev2/gh-pages/img/trabajo-2.jpg"
+    }
+    ,
+    {
+        "titulo": "Al Seco", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/IsidoraMorande/ev2/gh-pages/img/trabajo-3.jpg"
+    }
+    ]
+}
+,
+{
+    "nombre":"Rocío Sidgman",
+    "ingreso":2015,
+    "trabajos":[ {
+        "titulo": "Bolitas de Pollo", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/rosidgman/ev2/gh-pages/img/trabajo3.jpg"
+    }
+    ,
+    {
+        "titulo": "Porun", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/rosidgman/ev2/gh-pages/img/trabajo2.jpg"
+    }
+    ,
+    {
+        "titulo": "Kunstmann", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/rosidgman/ev2/gh-pages/img/trabajo1.jpg"
+    }
+    ]
+}
+,
+{
+    "nombre":"Elena Silva",
+    "ingreso":2018,
+    "trabajos":[ {
+        "titulo": "Trabajo 1", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/esilva99/ev2/gh-pages/img/primeraimagen.jpg"
+    }
+    ,
+    {
+        "titulo": "Trabajo 2", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/esilva99/ev2/gh-pages/img/segundaimagen.jpg"
+    }
+    ,
+    {
+        "titulo": "Trabajo 3", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/esilva99/ev2/gh-pages/img/terceraimagen.jpg"
+    }
+    ]
+}
+,
+{
+    "nombre": "Vania Solis",
+    "ingreso": 2015,
+    "trabajos":[ {
+        "titulo": "Voces Urbanas", "descriptor":"blablabla…", "imagen": "https://scontent-scl1-1.xx.fbcdn.net/v/t1.0-9/36789525_1760551313999908_7713065259870715904_n.jpg?_nc_cat=109&_nc_ht=scontent-scl1-1.xx&oh=f7d915dad527833cec7393728c7c696f&oe=5D5C1BE7"
+    }
+    ,
+    {
+        "titulo": "Salvaje", "descriptor":"blablabla…", "imagen": "https://scontent-scl1-1.xx.fbcdn.net/v/t1.0-9/36780609_1760551380666568_8582034888717238272_n.jpg?_nc_cat=109&_nc_ht=scontent-scl1-1.xx&oh=e32eff28e8e197eacfa45eb7c7e6fec8&oe=5D5949B0"
+    }
+    ,
+    {
+        "titulo": "El Buen Burrito", "descriptor":"blablabla…", "imagen": "https://scontent-scl1-1.xx.fbcdn.net/v/t1.0-9/18447404_1163379180456824_857015886104858150_n.jpg?_nc_cat=107&_nc_eui2=AeEEYOrDh63WPempXYCO9kQGenqsAph7I4-dquy08Fwd02XQ3S2O-BWhiwn375Z_Bmnd7vJBOOQe4wznLbG4zzOKsJjFzIqpcIQEJk0f6VyICQ&_nc_ht=scontent-scl1-1.xx&oh=ca0d2c77096867709346e1af08651858&oe=5D5D43AB"
+    }
+    ,
+    {
+        "titulo": "Carmelo", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/vaniacarolina/clase-9/gh-pages/img/carmelo.jpg"
+    }
+    ]
+}
+,
+{
+    "nombre":"Maria Cecilia Suarez",
+    "ingreso":2016,
+    "trabajos":[ {
+        "titulo": "Blake", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/MariaCeciliaSuarez/evaluacion2/gh-pages/ilustracion-1.jpg"
+    }
+    ,
+    {
+        "titulo": "Kathy", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/MariaCeciliaSuarez/evaluacion2/gh-pages/ilustracion-2.jpg"
+    }
+    ,
+    {
+        "titulo": "Over the sky", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/MariaCeciliaSuarez/evaluacion2/gh-pages/ilustraci%C3%B3n-3.jpg"
+    }
+    ]
+}
+,
+{
+    "nombre":"Dominga Zañartu",
+    "ingreso": 2016,
+    "trabajos": [ {
+        "titulo": "LA GUACHA", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/domingazanartu/ev2/gh-pages/IMG/trabajo-1.jpg"
+    }
+    ,
+    {
+        "titulo": "CERVEZAS +56", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/domingazanartu/ev2/gh-pages/IMG/trabajo-2.jpg"
+    }
+    ,
+    {
+        "titulo": "CAD CAM", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/domingazanartu/ev2/gh-pages/IMG/trabajo-3.jpg"
+    }
+    ]
+}
+,
+{
+    "nombre":"Josefina Carvalho",
+    "ingreso": 2014,
+    "trabajos": [ {
+        "titulo": "Trabajo", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/domingazanartu/ev2/gh-pages/IMG/trabajo-1.jpg"
+    }
+    ,
+    {
+        "titulo": "Trabajo", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/domingazanartu/ev2/gh-pages/IMG/trabajo-2.jpg"
+    }
+    ,
+    {
+        "titulo": "Trabajo", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/domingazanartu/ev2/gh-pages/IMG/trabajo-3.jpg"
+    }
+    ]
+}
+]
