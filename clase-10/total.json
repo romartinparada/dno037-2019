@@ -3,15 +3,15 @@
     "nombre":"Isidora Amenábar",
     "ingreso":2015,
     "trabajos":[ {
-        "titulo": "Las Montañas que Llevamos Dentro", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/imamenabar/Ev_2/gh-pages/media/trabajo-1.jpg"
+        "titulo": "Las Montañas que Llevamos Dentro", "descriptor":"Diseño de tapas y portadillas de libro 'Las Montañas que llevamos dentro' de Hernán Leal. Realizado en conjunto con Estudio Vicencio como practicante de diseño en 2018.", "imagen": "https://raw.githubusercontent.com/imamenabar/Ev_2/gh-pages/media/trabajo-1.jpg"
     }
     ,
     {
-        "titulo": "Gráfica Encuentro de las Culturas", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/imamenabar/Ev_2/gh-pages/media/trabajo-2.jpg"
+        "titulo": "Gráfica Encuentro de las Culturas", "descriptor":"Diseño de gráfica de 'Tercer Encuentro de las Culturas' para el Departamento de Pueblos Originarios del Ministerio de la Cultura, las Artes y el Patrimonio. Realizado en conjunto con Estudio Vicencio como practicante de diseño en 2018.", "imagen": "https://raw.githubusercontent.com/imamenabar/Ev_2/gh-pages/media/trabajo-2.jpg"
     }
     ,
     {
-        "titulo": "Silla Sol Lewitt|Piet Mondrian", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/imamenabar/Ev_2/gh-pages/media/trabajo-3.jpg"
+        "titulo": "Silla Sol Lewitt|Piet Mondrian", "Diseño de silla basada en la obra de Sol LeWitt y Piet Mondrian para curso de tercer año de diseño 'Estructuras y Materiales'. Realizado en conjunto con Sofía Pizarro, Sofía Wilson y María Jesús Darrigrande en 2017.":"blablabla…", "imagen": "https://raw.githubusercontent.com/imamenabar/Ev_2/gh-pages/media/trabajo-3.jpg"
     }
     ]
 }
