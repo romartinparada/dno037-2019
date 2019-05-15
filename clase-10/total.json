@@ -296,7 +296,7 @@
     "nombre":"Dominga Zañartu",
     "ingreso": 2016,
     "trabajos": [ {
-        "titulo": "La Guacha", "descriptor":"Taller III, Interacción", "imagen": "https://raw.githubusercontent.com/domingazanartu/ev2/gh-pages/img/trabajo-1.jpg"
+        "titulo": "La guacha", "descriptor":"Taller III, Interacción", "imagen": "https://raw.githubusercontent.com/domingazanartu/ev2/gh-pages/img/trabajo-1.jpg"
     }
     ,
     {
