@@ -296,15 +296,15 @@
     "nombre":"Dominga Zañartu",
     "ingreso": 2016,
     "trabajos": [ {
-        "titulo": "LA GUACHA", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/domingazanartu/ev2/gh-pages/IMG/trabajo-1.jpg"
+        "titulo": "La guacha", "descriptor":"Taller III, Interacción", "imagen": "https://raw.githubusercontent.com/domingazanartu/ev2/gh-pages/img/trabajo-1.jpg"
     }
     ,
     {
-        "titulo": "CERVEZAS +56", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/domingazanartu/ev2/gh-pages/IMG/trabajo-2.jpg"
+        "titulo": "Cervezas +56", "descriptor":"Taller V, Calidad I", "imagen": "https://raw.githubusercontent.com/domingazanartu/ev2/gh-pages/img/trabajo-2.jpg"
     }
     ,
     {
-        "titulo": "CAD CAM", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/domingazanartu/ev2/gh-pages/IMG/trabajo-3.jpg"
+        "titulo": "Froggy", "descriptor":"Taller IV, Producto", "imagen": "https://raw.githubusercontent.com/domingazanartu/ev2/gh-pages/img/trabajo-3.jpg"
     }
     ]
 }
