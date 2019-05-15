@@ -241,15 +241,15 @@
     "nombre":"Elena Silva",
     "ingreso":2018,
     "trabajos":[ {
-        "titulo": "Trabajo 1", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/esilva99/ev2/gh-pages/img/primeraimagen.jpg"
+        "titulo": "Ilustración 1", "descriptor":"Ilustración digital 2019", "imagen": "https://raw.githubusercontent.com/esilva99/ev2/gh-pages/img/primeraimagen.jpg"
     }
     ,
     {
-        "titulo": "Trabajo 2", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/esilva99/ev2/gh-pages/img/segundaimagen.jpg"
+        "titulo": "Koi", "descriptor":"Entrega 1 Dibujo Vectorial Profesor: Eduardo Elgueta"imagen": "https://raw.githubusercontent.com/esilva99/ev2/gh-pages/img/segundaimagen.jpg"
     }
     ,
     {
-        "titulo": "Trabajo 3", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/esilva99/ev2/gh-pages/img/terceraimagen.jpg"
+        "titulo": "Grulla", "descriptor":"Entrega 2 Dibujo Vectorial Profesor: Eduardo Elgueta", "imagen": "https://raw.githubusercontent.com/esilva99/ev2/gh-pages/img/terceraimagen.jpg"
     }
     ]
 }
