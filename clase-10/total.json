@@ -326,15 +326,15 @@
     "nombre":"Josefina Carvalho",
     "ingreso": 2014,
     "trabajos": [ {
-        "titulo": "Trabajo", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/domingazanartu/ev2/gh-pages/IMG/trabajo-1.jpg"
+        "titulo": "Ilustración León Danza de los Leones Chinos", "descriptor":"Ilustración realizada probando el programa Procreate", "imagen": "https://raw.githubusercontent.com/josefinacarvalho/Ev_2/gh-pages/img/trabajo1.jpg"
     }
     ,
     {
-        "titulo": "Trabajo", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/domingazanartu/ev2/gh-pages/IMG/trabajo-2.jpg"
+        "titulo": "Hongo Magno Chilensis", "descriptor":"Proyecto para productos de turismo sobre diez especies de hongos de Chile realizado en el Taller de Diseño y Territorio dictado por Sergio Ramirez. Este proyecto fue ejecutado con ilustración tanto análoga como digital con rotuladores copic", "imagen": "https://raw.githubusercontent.com/josefinacarvalho/Ev_2/gh-pages/img/trabajo2.jpg"
     }
     ,
     {
-        "titulo": "Trabajo", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/domingazanartu/ev2/gh-pages/IMG/trabajo-3.jpg"
+        "titulo": "Bajo tu piel", "descriptor":"Proyecto realizado en el curso TIDE, dictado por Sebastían Negrete y Benardita Figueroa. Este consiste en una infografía editable para explicación médica en centros de salud familiar (CESFAM) de la red UC Christus", "imagen": "https://raw.githubusercontent.com/josefinacarvalho/Ev_2/gh-pages/img/trabajo3.jpg"
     }
     ]
 }
