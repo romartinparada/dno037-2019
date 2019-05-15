@@ -190,15 +190,15 @@
     "nombre":"Rocío Martín",
     "ingreso":2018,
     "trabajos":[ {
-        "titulo": "Tejidos", "descriptor":"blablabla…", "imagen": "https://images.ecosia.org/LblWy7n5kXnX1lI_LV86wyzGjQ0=/0x390/smart/https%3A%2F%2Fi.pinimg.com%2Foriginals%2F47%2F44%2Ff2%2F4744f2d6b7c118064cb249d9b6029f64.jpg"
+        "titulo": "Tejidos", "descriptor":"Macetero de macramé", "imagen": "https://raw.githubusercontent.com/romartinparada/ev2/gh-pages/img/trabajo%203.jpg"
     }
     ,
     {
-        "titulo": "Materiales", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/romartinparada/ev2/gh-pages/img/trabajo%201.jpg"
+        "titulo": "Materiales", "descriptor":"Materiales para el uso didáctico en clases", "imagen": "https://raw.githubusercontent.com/romartinparada/ev2/gh-pages/img/trabajo%201.jpg"
     }
     ,
     {
-        "titulo": "Ilustración", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/romartinparada/ev2/gh-pages/img/trabajo%202.jpg"
+        "titulo": "Ilustración", "descriptor":"Historia ilustrada en instagram", "imagen": "https://raw.githubusercontent.com/romartinparada/ev2/gh-pages/img/trabajo%202.jpg"
     }
     ]
 }
