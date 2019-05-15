@@ -139,15 +139,15 @@
     "nombre": "Francisca Kegevic",
     "ingreso": 2017,
     "trabajos":[ {
-        "titulo": "silla", "descriptor":"blablabla…", "imagen": "https://home.ripley.cl/store/Attachment/WOP/D367/2000368847000/2000368847000_2.jpg"
+        "titulo": "silla", "descriptor":"Diseño de una silla que vende la multitienda Ripley a $49.990", "imagen": "https://raw.githubusercontent.com/fkegevic/Ev2/gh-pages/img/silla.jpg"
     }
     ,
     {
-        "titulo": "mesa", "descriptor":"blablabla…", "imagen": "https://home.ripley.cl/store/Attachment/WOP/D359/2000361041702/2000361041702_2.jpg"
+        "titulo": "mesa", "descriptor":"Mesa de centro de madera y centro de vidrio que vende la multitienda Ripley a $89.990", "imagen": "https://raw.githubusercontent.com/fkegevic/Ev2/gh-pages/img/mesa.jpg"
     }
     ,
     {
-        "titulo": "velador", "descriptor":"blablabla…", "imagen": "http://www.decorador.cl/wp-content/uploads/2017/11/Velador-Alanya-Bohemio-Chic2.jpg"
+        "titulo": "velador", "descriptor":"Velador Alanya Bohemio Chic vendido por La Tienda del Decorador a $179.900 de madera maciza", "imagen": "https://raw.githubusercontent.com/fkegevic/Ev2/gh-pages/img/velador.jpg"
     }
     ]
 }
