@@ -310,6 +310,21 @@
 }
 ,
 {
+      "nombre":"Gabriela Godoy",
+      "ingreso":2014, 
+      "trabajos": {
+         "titulo":"Pangea", "descriptor":"blablabla…","imagen":"https://mir-cdn.behance.net/v1/rendition/project_modules/1400/6ce1ed72156447.5cd2f70bc48bd.jpg"
+      },
+      {
+         "titulo":"Técnicas textiles andinas: Cordonería y anillado","descriptor":"blablabla…","imagen":"https://mir-cdn.behance.net/v1/rendition/project_modules/1400/52444e73640133.5cd2f97986b10.jpg"
+      },
+      {
+          "titulo":"Técnicas textiles andinas: Telar","descriptor":"blablabla…","imagen":"https://mir-s3-cdn-cf.behance.net/project_modules/disp/e0d81473643879.5c1045c0ef310.jpg"
+      }
+      ]
+} 
+,
+{
     "nombre":"Josefina Carvalho",
     "ingreso": 2014,
     "trabajos": [ {
