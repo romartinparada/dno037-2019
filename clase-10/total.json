@@ -54,15 +54,15 @@
     "nombre": "María Clark",
     "ingreso":2016,
     "trabajos":[ {
-        "titulo": "Acuarelas", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/mariaignaciaclark/ev2/gh-pages/imagenes/trabajo1.jpg"
+        "titulo": "Acuarelas", "descriptor":"Curso Acuarelas y Tintas", "imagen": "https://raw.githubusercontent.com/mariaignaciaclark/ev2/gh-pages/imagenes/trabajo1.jpg"
     }
     ,
     {
-        "titulo": "Isao Chair", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/mariaignaciaclark/ev2/gh-pages/imagenes/trabajo2.jpg"
+        "titulo": "Isao Chair", "descriptor":"Inspiración Taller VI", "imagen": "https://raw.githubusercontent.com/mariaignaciaclark/ev2/gh-pages/imagenes/trabajo2.jpg"
     }
     ,
     {
-        "titulo": "Flores", "descriptor":"blablabla…", "imagen": "https://raw.githubusercontent.com/mariaignaciaclark/ev2/gh-pages/imagenes/trabajo3.jpg"
+        "titulo": "Arreglos Flores", "descriptor":"TIDE Taller V", "imagen": "https://raw.githubusercontent.com/mariaignaciaclark/ev2/gh-pages/imagenes/trabajo3.jpg"
     }
     ]
 }
