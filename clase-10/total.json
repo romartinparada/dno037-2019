@@ -258,19 +258,15 @@
     "nombre": "Vania Solis",
 "ingreso" : 2015,
 "trabajos" :[ {
-    "titulo": "Voces Urbanas",imagen:"https://raw.githubusercontent.com/vaniacarolina/ev2/gh-pages/img/trabajo1.jpg"
+    "titulo": "Voces Urbanas","descriptor":"Libro objeto que se realizó en el Taller Mercado I, profesora Ximena Ulibarri","imagen":"https://raw.githubusercontent.com/vaniacarolina/ev2/gh-pages/img/trabajo1.jpg"
 }
 ,
 {
-"titulo": "Salvaje",imagen:"https://raw.githubusercontent.com/vaniacarolina/ev2/gh-pages/img/trabajo2.jpg"
+   "titulo": "Salvaje","descriptor":"Máscara en base al concepto ciudad en el Taller Mercado I, profesora Ximena Ulibarri","imagen":"https://raw.githubusercontent.com/vaniacarolina/ev2/gh-pages/img/trabajo2.jpg"
 }
 ,
 {
-    "titulo": "El Buen Burrito",imagen:"https://raw.githubusercontent.com/vaniacarolina/ev2/gh-pages/img/trabajo3.jpg"
-}
-,
-{
-    "titulo": "Carmelo",imagen:"https://raw.githubusercontent.com/vaniacarolina/ev2/gh-pages/img/trabajo4.jpg"
+    "titulo": "El Buen Burrito","descriptor":"Packaging para comida de paso se realizó en Estructura y Materiales, Profesores Carlos Sfeir y Luis Andueza","imagen":"https://raw.githubusercontent.com/vaniacarolina/ev2/gh-pages/img/trabajo3.jpg"
 }
 ]
 }
